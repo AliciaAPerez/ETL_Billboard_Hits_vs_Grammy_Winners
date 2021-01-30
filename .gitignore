@@ -2,7 +2,15 @@
 __pycache__/
 *.py[cod]
 *$py.class
+
+
 config.py
+billboardHot100_1999-2019.csv
+the_grammy_awards.csv
+data.csv
+.ipynb_checkpoints
+__pycache__
+
 # C extensions
 *.so
 
