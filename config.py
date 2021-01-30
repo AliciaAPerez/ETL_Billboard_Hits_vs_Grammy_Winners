@@ -1,0 +1,1 @@
+key = "postgres:Ru0kM8te@localhost:5432/music"
