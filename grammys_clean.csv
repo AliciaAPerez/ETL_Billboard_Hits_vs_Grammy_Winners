@@ -1,0 +1,1320 @@
+,year,category,nominee,artist,workers,winner
+0,2019,Record Of The Year,Bad Guy,Billie Eilish,"Finneas O'Connell, producer; Rob Kinelski & Finneas O'Connell, engineers/mixers; John Greenham, mastering engineer",True
+1,2019,Record Of The Year,"Hey, Ma",Bon Iver,"BJ Burton, Brad Cook, Chris Messina & Justin Vernon, producers; BJ Burton, Zach Hanson & Chris Messina, engineers/mixers; Greg Calbi, mastering engineer",False
+2,2019,Record Of The Year,7 rings,Ariana Grande,"Charles Anderson, Tommy Brown, Michael Foster & Victoria Monet, producers; Serban Ghenea, John Hanes, Billy Hickey & Brendan Morawski, engineers/mixers; Randy Merrill, mastering engineer",False
+3,2019,Record Of The Year,Hard Place,H.E.R.,"Rodney “Darkchild” Jerkins, producer; Joseph Hurtado, Jaycen Joshua, Derek Keota & Miki Tsutsumi, engineers/mixers; Colin Leonard, mastering engineer",False
+4,2019,Record Of The Year,Talk,Khalid,"Disclosure & Denis Kosiak, producers; Ingmar Carlson, Jon Castelli, Josh Deguzman, John Kercy, Denis Kosiak, Guy Lawrence & Michael Romero, engineers/mixers; Dale Becker, mastering engineer",False
+5,2019,Record Of The Year,Old Town Road,Lil Nas X Featuring Billy Ray Cyrus,"Andrew ""VoxGod"" Bolooki, Jocelyn “Jozzy” Donald & YoungKio, producers; Andrew ""VoxGod"" Bolooki, Cinco & Joe Grasso, engineers/mixers; Eric Lagg, mastering engineer",False
+6,2019,Record Of The Year,Truth Hurts,Lizzo,"Ricky Reed & Tele, producers; Chris Galland, Manny Marroquin & Ethan Shumaker, engineers/mixers; Chris Gehringer, mastering engineer",False
+7,2019,Record Of The Year,Sunflower,Post Malone & Swae Lee,"Louis Bell & Carter Lang, producers; Louis Bell & Manny Marroquin, engineers/mixers; Mike Bozzi, mastering engineer",False
+8,2019,Album Of The Year,"When We All Fall Asleep, Where Do We Go?",Billie Eilish,"Finneas O'Connell, producer; Rob Kinelski & Finneas O'Connell, engineers/mixers; Billie Eilish O'Connell & Finneas O'Connell, songwriters; John Greenham, mastering engineer",True
+9,2019,Album Of The Year,"I,I",Bon Iver,"Brad Cook, Chris Messina & Justin Vernon, producers; Zach Hanson & Chris Messina, engineers/mixers; BJ Burton, Brad Cook & Justin Vernon, songwriters; Greg Calbi, mastering engineer",False
+10,2019,Album Of The Year,Norman F***ing Rockwell!,Lana Del Rey,"Jack Antonoff & Lana Del Rey, producers; Jack Antonoff & Laura Sisk, engineers/mixers; Jack Antonoff & Lana Del Rey, songwriters; Chris Gehringer, mastering engineer",False
+11,2019,Album Of The Year,"thank u, next",Ariana Grande,"Tommy Brown, Ilya, Max Martin & Victoria Monet, producers; Serban Ghenea, Sam Holland & Brendan Morawski, engineers/mixers; Tommy Brown, Ariana Grande, Savan Kotecha, Max Martin, Victoria Monet, Tayla Parx & Ilya Salmanzadeh, songwriters; Randy Merrill, mastering engineer",False
+12,2019,Album Of The Year,I Used To Know Her,H.E.R.,"David ""Swagg R'Celious"" Harris, H.E.R., Walter Jones & Jeff Robinson, producers; Miki Tsutsumi, engineer/mixer; Sam Ashworth, Jeff “Gitty” Gitelman, David ""Swagg R'Celious"" Harris & H.E.R., songwriters; Dave Kutch, mastering engineer",False
+13,2019,Album Of The Year,7,Lil Nas X,"Joe Grasso, engineer/mixer; Montero Lamar Hill, songwriter; Eric Lagg, mastering engineer",False
+14,2019,Album Of The Year,Cuz I Love You (Deluxe),Lizzo,"Ricky Reed, producer; Manny Marroquin & Ethan Shumaker, engineers/mixers; Eric Frederic & Melissa Jefferson, songwriters; Chris Gehringer, mastering engineer",False
+15,2019,Album Of The Year,Father Of The Bride,Vampire Weekend,"Ezra Koenig & Ariel Rechtshaid, producers; John DeBold, Chris Kasych, Takemasa Kosaka, Ariel Rechtshaid & Hiroya Takayama, engineers/mixers; Ezra Koenig, songwriter; Emily Lazar, mastering engineer",False
+16,2019,Song Of The Year,Bad Guy,,"Billie Eilish O'Connell & Finneas O'Connell, songwriters (Billie Eilish)",True
+17,2019,Song Of The Year,Always Remember Us This Way,,"Natalie Hemby, Lady Gaga, Hillary Lindsey & Lori McKenna, songwriters (Lady Gaga)",False
+18,2019,Song Of The Year,Bring My Flowers Now,,"Brandi Carlile, Phil Hanseroth, Tim Hanseroth & Tanya Tucker, songwriters (Tanya Tucker)",False
+19,2019,Song Of The Year,Hard Place,,"Ruby Amanfu, Sam Ashworth, D. Arcelious Harris, H.E.R. & Rodney Jerkins, songwriters (H.E.R.)",False
+20,2019,Song Of The Year,Lover,,"Taylor Swift, songwriter (Taylor Swift)",False
+21,2019,Song Of The Year,Norman F***ing Rockwell,,"Jack Antonoff & Lana Del Rey, songwriters (Lana Del Rey)",False
+22,2019,Song Of The Year,Someone You Loved,,"Tom Barnes, Lewis Capaldi, Pete Kelleher, Benjamin Kohn & Sam Roman, songwriters (Lewis Capaldi)",False
+23,2019,Song Of The Year,Truth Hurts,,"Steven Cheung, Eric Frederic, Melissa Jefferson & Jesse Saint John, songwriters (Lizzo)",False
+24,2019,Best New Artist,Billie Eilish,,,True
+25,2019,Best New Artist,Black Pumas,,,False
+26,2019,Best New Artist,Lil Nas X,,,False
+27,2019,Best New Artist,Lizzo,,,False
+28,2019,Best New Artist,Maggie Rogers,,,False
+29,2019,Best New Artist,ROSALÍA,,,False
+30,2019,Best New Artist,Tank And The Bangas,,,False
+31,2019,Best New Artist,Yola,,,False
+32,2019,Best Pop Solo Performance,Truth Hurts,Lizzo,,True
+33,2019,Best Pop Solo Performance,Spirit,Beyoncé,,False
+34,2019,Best Pop Solo Performance,Bad Guy,Billie Eilish,,False
+35,2019,Best Pop Solo Performance,7 rings,Ariana Grande,,False
+36,2019,Best Pop Solo Performance,You Need To Calm Down,Taylor Swift,,False
+37,2019,Best Pop Duo/Group Performance,Old Town Road,Lil Nas X Featuring Billy Ray Cyrus,,True
+38,2019,Best Pop Duo/Group Performance,Boyfriend,Ariana Grande & Social House,,False
+39,2019,Best Pop Duo/Group Performance,Sucker,Jonas Brothers,,False
+40,2019,Best Pop Duo/Group Performance,Sunflower,Post Malone & Swae Lee,,False
+41,2019,Best Pop Duo/Group Performance,Señorita,Shawn Mendes & Camila Cabello,,False
+42,2019,Best Traditional Pop Vocal Album,Look Now,Elvis Costello & The Imposters,,True
+43,2019,Best Traditional Pop Vocal Album,Sì,Andrea Bocelli,,False
+44,2019,Best Traditional Pop Vocal Album,Love (Deluxe Edition),Michael Bublé,,False
+45,2019,Best Traditional Pop Vocal Album,A Legendary Christmas,John Legend,,False
+46,2019,Best Traditional Pop Vocal Album,Walls,Barbra Streisand,,False
+47,2019,Best Pop Vocal Album,"When We All Fall Asleep, Where Do We Go?",Billie Eilish,,True
+48,2019,Best Pop Vocal Album,The Lion King: The Gift,Beyoncé,,False
+49,2019,Best Pop Vocal Album,"thank u, next",Ariana Grande,,False
+50,2019,Best Pop Vocal Album,No.6 Collaborations Project,Ed Sheeran,,False
+51,2019,Best Pop Vocal Album,Lover,Taylor Swift,,False
+52,2019,Best Dance Recording,Got To Keep On,The Chemical Brothers,"The Chemical Brothers, producers; Steve Dub Jones & Tom Rowlands, mixers",True
+53,2019,Best Dance Recording,Linked,Bonobo,"Simon Green, producer; Simon Green & Frank Merritt, mixers",False
+54,2019,Best Dance Recording,Piece Of Your Heart,Meduza Featuring Goodboys,"Simone Giani, Luca De Gregorio & Mattia Vitale, producers; Simone Giani, Luca De Gregorio & Mattia Vitale, mixers",False
+55,2019,Best Dance Recording,Underwater,RÜFÜS DU SOL,"Jason Evigan & RÜFÜS DU SOL, producers; Cassian Stewart-Kasimba, mixer",False
+56,2019,Best Dance Recording,Midnight Hour,"Skrillex, Boys Noize & Ty Dolla $ign","Boys Noize & Skrillex, producers; Tom Norris & Skrillex, mixers",False
+57,2019,Best Dance/Electronic Album,No Geography,The Chemical Brothers,,True
+58,2019,Best Dance/Electronic Album,LP5,Apparat,,False
+59,2019,Best Dance/Electronic Album,Hi This Is Flume (Mixtape),Flume,,False
+60,2019,Best Dance/Electronic Album,SOLACE,RÜFÜS DU SOL,,False
+61,2019,Best Dance/Electronic Album,Weather,Tycho Featuring Saint Sinner,,False
+62,2019,Best Contemporary Instrumental Album,Mettavolution,Rodrigo y Gabriela,,True
+63,2019,Best Contemporary Instrumental Album,Ancestral Recall,Christian Scott aTunde Adjuah,,False
+64,2019,Best Contemporary Instrumental Album,Star People Nation,Theo Croker,,False
+65,2019,Best Contemporary Instrumental Album,Beat Music! Beat Music! Beat Music!,Mark Guiliana,,False
+66,2019,Best Contemporary Instrumental Album,Elevate,Lettuce,,False
+67,2019,Best Rock Performance,This Land,Gary Clark Jr.,,True
+68,2019,Best Rock Performance,Pretty Waste,Bones UK,,False
+69,2019,Best Rock Performance,History Repeats,Brittany Howard,,False
+70,2019,Best Rock Performance,Woman,Karen O & Danger Mouse,,False
+71,2019,Best Rock Performance,Too Bad,Rival Sons,,False
+72,2019,Best Metal Performance,7empest,Tool,,True
+73,2019,Best Metal Performance,Astorolus - The Great Octopus,Candlemass Featuring Tony Iommi,,False
+74,2019,Best Metal Performance,Humanicide,Death Angel,,False
+75,2019,Best Metal Performance,Bow Down,I Prevail,,False
+76,2019,Best Metal Performance,Unleashed,Killswitch Engage,,False
+77,2019,Best Rock Song,This Land,,"Gary Clark Jr., songwriter (Gary Clark Jr.)",True
+78,2019,Best Rock Song,Fear Inoculum,,"Danny Carey, Justin Chancellor, Adam Jones & Maynard James Keenan, songwriters (Tool)",False
+79,2019,Best Rock Song,Give Yourself A Try,,"George Daniel, Adam Hann, Matthew Healy & Ross MacDonald, songwriters (The 1975)",False
+80,2019,Best Rock Song,Harmony Hall,,"Ezra Koenig, songwriter (Vampire Weekend)",False
+81,2019,Best Rock Song,History Repeats,,"Brittany Howard, songwriter (Brittany Howard)",False
+82,2019,Best Rock Album,Social Cues,Cage The Elephant,,True
+83,2019,Best Rock Album,amo,Bring Me The Horizon,,False
+84,2019,Best Rock Album,In The End,The Cranberries,,False
+85,2019,Best Rock Album,Trauma,I Prevail,,False
+86,2019,Best Rock Album,Feral Roots,Rival Sons,,False
+87,2019,Best Alternative Music Album,Father Of The Bride,Vampire Weekend,,True
+88,2019,Best Alternative Music Album,U.F.O.F.,Big Thief,,False
+89,2019,Best Alternative Music Album,Assume Form,James Blake,,False
+90,2019,Best Alternative Music Album,"I,I",Bon Iver,,False
+91,2019,Best Alternative Music Album,Anima,Thom Yorke,,False
+92,2019,Best R&B Performance,Come Home,Anderson .Paak Featuring André 3000,,True
+93,2019,Best R&B Performance,Love Again,Daniel Caesar & Brandy,,False
+94,2019,Best R&B Performance,Could've Been,H.E.R. Featuring Bryson Tiller,,False
+95,2019,Best R&B Performance,Exactly How I Feel,Lizzo Featuring Gucci Mane,,False
+96,2019,Best R&B Performance,Roll Some Mo,Lucky Daye,,False
+97,2019,Best Traditional R&B Performance,Jerome,Lizzo,,True
+98,2019,Best Traditional R&B Performance,Time Today,BJ The Chicago Kid,,False
+99,2019,Best Traditional R&B Performance,Steady Love,India.Arie,,False
+100,2019,Best Traditional R&B Performance,Real Games,Lucky Daye,,False
+101,2019,Best Traditional R&B Performance,Built For Love,PJ Morton Featuring Jazmine Sullivan,,False
+102,2019,Best R&B Song,Say So,,"PJ Morton, songwriter (PJ Morton Featuring JoJo)",True
+103,2019,Best R&B Song,Could've Been,,"Dernst Emile II, David “Swagg R’Celious” Harris, H.E.R. & Hue “Soundzfire” Strother, songwriters (H.E.R. Featuring Bryson Tiller)",False
+104,2019,Best R&B Song,Look At Me Now,,"Emily King & Jeremy Most, songwriters (Emily King)",False
+105,2019,Best R&B Song,No Guidance,,"Chris Brown, Tyler James Bryant, Nija Charles, Aubrey Graham, Anderson Hernandez, Joshua Huizar, Michee Patrick Lebrun, Noah Shebib & Teddy Walton, songwriters (Chris Brown Featuring Drake)",False
+106,2019,Best R&B Song,Roll Some Mo,,"David Brown, Dernst Emile II & Peter Lee Johnson, songwriters (Lucky Daye)",False
+107,2019,Best Urban Contemporary Album,Cuz I Love You (Deluxe),Lizzo,,True
+108,2019,Best Urban Contemporary Album,Apollo XXI,Steve Lacy,,False
+109,2019,Best Urban Contemporary Album,Overload,Georgia Anne Muldrow,,False
+110,2019,Best Urban Contemporary Album,Saturn,NAO,,False
+111,2019,Best Urban Contemporary Album,Being Human In Public,Jessie Reyez,,False
+112,2019,Best R&B Album,Ventura,Anderson .Paak,,True
+113,2019,Best R&B Album,1123,BJ The Chicago Kid,,False
+114,2019,Best R&B Album,Painted,Lucky Daye,,False
+115,2019,Best R&B Album,Ella Mai,Ella Mai,,False
+116,2019,Best R&B Album,Paul,PJ Morton,,False
+117,2019,Best Rap Performance,Racks In The Middle,Nipsey Hussle Featuring Roddy Ricch & Hit-Boy,,True
+118,2019,Best Rap Performance,Middle Child,J. Cole,,False
+119,2019,Best Rap Performance,Suge,DaBaby,,False
+120,2019,Best Rap Performance,Down Bad,"Dreamville Featuring J.I.D, Bas, J. Cole, EARTHGANG & Young Nudy",,False
+121,2019,Best Rap Performance,Clout,Offset Featuring Cardi B,,False
+122,2019,Best Rap/Sung Performance,Higher,DJ Khaled Featuring Nipsey Hussle & John Legend,,True
+123,2019,Best Rap/Sung Performance,Drip Too Hard,Lil Baby & Gunna,,False
+124,2019,Best Rap/Sung Performance,Panini,Lil Nas X,,False
+125,2019,Best Rap/Sung Performance,Ballin',Mustard Featuring Roddy Ricch,,False
+126,2019,Best Rap/Sung Performance,The London,Young Thug Featuring J. Cole & Travis Scott,,False
+127,2019,Best Rap Song,A Lot,,"Jermaine Cole, Dacoury Natche, 21 Savage & Anthony White, songwriters (21 Savage Featuring J. Cole)",True
+128,2019,Best Rap Song,Bad Idea,,"Chancelor Bennett, Cordae Dunston, Uforo Ebong & Daniel Hackett, songwriters (YBN Cordae Featuring Chance The Rapper)",False
+129,2019,Best Rap Song,Gold Roses,,"Noel Cadastre, Aubrey Graham, Anderson Hernandez, Khristopher Riddick-Tynes, William Leonard Roberts II, Joshua Quinton Scruggs, Leon Thomas III & Ozan Yildirim, songwriters (Rick Ross Featuring Drake)",False
+130,2019,Best Rap Song,Racks In The Middle,,"Ermias Asghedom, Dustin James Corbett, Greg Allen Davis, Chauncey Hollis, Jr. & Rodrick Moore, songwriters (Nipsey Hussle Featuring Roddy Ricch & Hit-Boy)",False
+131,2019,Best Rap Song,Suge,,"DaBaby, Jetsonmade & Pooh Beatz, songwriters (DaBaby)",False
+132,2019,Best Rap Album,Igor,"Tyler, The Creator",,True
+133,2019,Best Rap Album,Revenge Of The Dreamers III,Dreamville,,False
+134,2019,Best Rap Album,Championships,Meek Mill,,False
+135,2019,Best Rap Album,I Am > I Was,21 Savage,,False
+136,2019,Best Rap Album,The Lost Boy,YBN Cordae,,False
+137,2019,Best Country Solo Performance,Ride Me Back Home,Willie Nelson,,True
+138,2019,Best Country Solo Performance,All Your’n,Tyler Childers,,False
+139,2019,Best Country Solo Performance,Girl Goin' Nowhere,Ashley McBryde,,False
+140,2019,Best Country Solo Performance,God's Country,Blake Shelton,,False
+141,2019,Best Country Solo Performance,Bring My Flowers Now,Tanya Tucker,,False
+142,2019,Best Country Duo/Group Performance,Speechless,Dan + Shay,,True
+143,2019,Best Country Duo/Group Performance,Brand New Man,Brooks & Dunn With Luke Combs,,False
+144,2019,Best Country Duo/Group Performance,I Don't Remember Me (Before You),Brothers Osborne,,False
+145,2019,Best Country Duo/Group Performance,The Daughters,Little Big Town,,False
+146,2019,Best Country Duo/Group Performance,Common,Maren Morris Featuring Brandi Carlile,,False
+147,2019,Best Country Song,Bring My Flowers Now,,"Brandi Carlile, Phil Hanseroth, Tim Hanseroth & Tanya Tucker, songwriters (Tanya Tucker)",True
+148,2019,Best Country Song,Girl Goin' Nowhere,,"Jeremy Bussey & Ashley McBryde, songwriters (Ashley McBryde)",False
+149,2019,Best Country Song,It All Comes Out In The Wash,,"Miranda Lambert, Hillary Lindsey, Lori McKenna & Liz Rose, songwriters (Miranda Lambert)",False
+150,2019,Best Country Song,Some Of It,,"Eric Church, Clint Daniels, Jeff Hyde & Bobby Pinson, songwriters (Eric Church)",False
+151,2019,Best Country Song,Speechless,,"Shay Mooney, Jordan Reynolds, Dan Smyers & Laura Veltz, songwriters (Dan + Shay)",False
+152,2019,Best Country Album,While I'm Livin',Tanya Tucker,,True
+153,2019,Best Country Album,Desperate Man,Eric Church,,False
+154,2019,Best Country Album,Stronger Than The Truth,Reba McEntire,,False
+155,2019,Best Country Album,Interstate Gospel,Pistol Annies,,False
+156,2019,Best Country Album,Center Point Road,Thomas Rhett,,False
+157,2019,Best New Age Album,Wings,Peter Kater,,True
+158,2019,Best New Age Album,Fairy Dreams,David Arkenstone,,False
+159,2019,Best New Age Album,Homage To Kindness,David Darling,,False
+160,2019,Best New Age Album,Verve,Sebastian Plano,,False
+161,2019,Best New Age Album,Deva,Deva Premal,,False
+162,2019,Best Improvised Jazz Solo,Sozinho,,"Randy Brecker, soloist",True
+163,2019,Best Improvised Jazz Solo,Elsewhere,,"Melissa Aldana, soloist",False
+164,2019,Best Improvised Jazz Solo,Tomorrow Is The Question,,"Julian Lage, soloist",False
+165,2019,Best Improvised Jazz Solo,The Windup,,"Branford Marsalis, soloist",False
+166,2019,Best Improvised Jazz Solo,Sightseeing,,"Christian McBride, soloist",False
+167,2019,Best Jazz Vocal Album,12 Little Spells,Esperanza Spalding,,True
+168,2019,Best Jazz Vocal Album,Thirsty Ghost,Sara Gazarek,,False
+169,2019,Best Jazz Vocal Album,Love & Liberation,Jazzmeia Horn,,False
+170,2019,Best Jazz Vocal Album,Alone Together,Catherine Russell,,False
+171,2019,Best Jazz Vocal Album,Screenplay,Tierney Sutton Band,,False
+172,2019,Best Jazz Instrumental Album,Finding Gabriel,Brad Mehldau,,True
+173,2019,Best Jazz Instrumental Album,In The Key Of The Universe,Joey DeFrancesco,,False
+174,2019,Best Jazz Instrumental Album,The Secret Between The Shadow And The Soul,Branford Marsalis Quartet,,False
+175,2019,Best Jazz Instrumental Album,Christian McBride's New Jawn,Christian McBride’s New Jawn,,False
+176,2019,Best Jazz Instrumental Album,Come What May,Joshua Redman Quartet,,False
+177,2019,Best Large Jazz Ensemble Album,The Omni-American Book Club,Brian Lynch Big Band,,True
+178,2019,Best Large Jazz Ensemble Album,Triple Helix,Anat Cohen Tentet,,False
+179,2019,Best Large Jazz Ensemble Album,Dancer In Nowhere,Miho Hazama,,False
+180,2019,Best Large Jazz Ensemble Album,Hiding Out,Mike Holober & The Gotham Jazz Orchestra,,False
+181,2019,Best Large Jazz Ensemble Album,One Day Wonder,Terraza Big Band,,False
+182,2019,Best Latin Jazz Album,Antidote,Chick Corea & The Spanish Heart Band,,True
+183,2019,Best Latin Jazz Album,Sorte!: Music By John Finbury,"Thalma de Freitas With Vitor Gonçalves, John Patitucci, Chico Pinheiro, Rogerio Boccato & Duduka Da Fonseca",,False
+184,2019,Best Latin Jazz Album,Una Noche Con Rubén Blades,Jazz At Lincoln Center Orchestra With Wynton Marsalis Featuring Rubén Blades,,False
+185,2019,Best Latin Jazz Album,Carib,David Sánchez,,False
+186,2019,Best Latin Jazz Album,Sonero: The Music Of Ismael Rivera,Miguel Zenón,,False
+187,2019,Best Gospel Performance/Song,Love Theory,,"Kirk Franklin; Kirk Franklin, songwriter",True
+188,2019,Best Gospel Performance/Song,Talkin' 'Bout Jesus,,"Gloria Gaynor Featuring Yolanda Adams; Bryan Fowler, Gloria Gaynor & Chris Stevens, songwriters",False
+189,2019,Best Gospel Performance/Song,See The Light,,Travis Greene Featuring Jekalyn Carr,False
+190,2019,Best Gospel Performance/Song,Speak The Name,,Koryn Hawthorne Featuring Natalie Grant,False
+191,2019,Best Gospel Performance/Song,This Is A Move (Live),,"Tasha Cobbs Leonard; Tony Brown, Brandon Lake, Tasha Cobbs Leonard & Nate Moore, songwriters",False
+192,2019,Best Contemporary Christian Music Performance/Song,God Only Knows,,"for KING & COUNTRY & Dolly Parton; Josh Kerr, Jordan Reynolds, Joel Smallbone, Luke Smallbone & Tedd Tjornhom, songwriters",True
+193,2019,Best Contemporary Christian Music Performance/Song,Only Jesus,,"Casting Crowns; Mark Hall, Bernie Herms & Matthew West, songwriters",False
+194,2019,Best Contemporary Christian Music Performance/Song,Haven't Seen It Yet,,"Danny Gokey; Danny Gokey, Ethan Hulse & Colby Wedgeworth, songwriters",False
+195,2019,Best Contemporary Christian Music Performance/Song,God's Not Done With You (Single Version),,Tauren Wells,False
+196,2019,Best Contemporary Christian Music Performance/Song,Rescue Story,,"Zach Williams; Ethan Hulse, Andrew Ripp, Jonathan Smith & Zach Williams, songwriters",False
+197,2019,Best Gospel Album,Long Live Love,Kirk Franklin,,True
+198,2019,Best Gospel Album,Goshen,Donald Lawrence Presents The Tri -City Singers,,False
+199,2019,Best Gospel Album,Tunnel Vision,Gene Moore,,False
+200,2019,Best Gospel Album,Settle Here,William Murphy,,False
+201,2019,Best Gospel Album,Something's Happening! A Christmas Album,CeCe Winans,,False
+202,2019,Best Contemporary Christian Music Album,Burn The Ships,for KING & COUNTRY,,True
+203,2019,Best Contemporary Christian Music Album,I Know A Ghost,Crowder,,False
+204,2019,Best Contemporary Christian Music Album,Haven't Seen It Yet,Danny Gokey,,False
+205,2019,Best Contemporary Christian Music Album,The Elements,TobyMac,,False
+206,2019,Best Contemporary Christian Music Album,Holy Roar,Chris Tomlin,,False
+207,2019,Best Roots Gospel Album,Testimony,Gloria Gaynor,,True
+208,2019,Best Roots Gospel Album,Deeper Roots: Where The Bluegrass Grows,Steven Curtis Chapman,,False
+209,2019,Best Roots Gospel Album,Deeper Oceans,Joseph Habedank,,False
+210,2019,Best Roots Gospel Album,His Name Is Jesus,Tim Menzies,,False
+211,2019,Best Roots Gospel Album,"Gonna Sing, Gonna Shout",(Various Artists),"Jerry Salley, Producer",False
+212,2019,Best Latin Pop Album,#Eldisco,Alejandro Sanz,,True
+213,2019,Best Latin Pop Album,Vida,Luis Fonsi,,False
+214,2019,Best Latin Pop Album,11:11,Maluma,,False
+215,2019,Best Latin Pop Album,Montaner,Ricardo Montaner,,False
+216,2019,Best Latin Pop Album,Fantasia,Sebastian Yatra,,False
+217,2019,"Best Latin Rock, Urban or Alternative Album",El Mal Querer,ROSALÍA,,True
+218,2019,"Best Latin Rock, Urban or Alternative Album",X 100Pre,Bad Bunny,,False
+219,2019,"Best Latin Rock, Urban or Alternative Album",Oasis,J Balvin & Bad Bunny,,False
+220,2019,"Best Latin Rock, Urban or Alternative Album",Indestructible,Flor De Toloache,,False
+221,2019,"Best Latin Rock, Urban or Alternative Album",Almadura,iLe,,False
+222,2019,Best Regional Mexican Music Album (Including Tejano),De Ayer Para Siempre,Mariachi Los Camperos,,True
+223,2019,Best Regional Mexican Music Album (Including Tejano),Caminando,Joss Favela,,False
+224,2019,Best Regional Mexican Music Album (Including Tejano),Percepción,Intocable,,False
+225,2019,Best Regional Mexican Music Album (Including Tejano),Poco A Poco,La Energia Norteña,,False
+226,2019,Best Regional Mexican Music Album (Including Tejano),20 Aniversario,Mariachi Divas De Cindy Shea,,False
+227,2019,Best Tropical Latin Album,Opus,Marc Anthony,,True
+228,2019,Best Tropical Latin Album,A Journey Through Cuban Music,Aymée Nuviola,,False
+229,2019,Best Tropical Latin Album,Tiempo Al Tiempo,Luis Enrique + C4 Trio,,False
+230,2019,Best Tropical Latin Album,Candela,Vicente García,,False
+231,2019,Best Tropical Latin Album,Literal,Juan Luis Guerra 4.40,,False
+232,2019,Best American Roots Performance,Saint Honesty,Sara Bareilles,,True
+233,2019,Best American Roots Performance,Father Mountain,Calexico And Iron & Wine,,False
+234,2019,Best American Roots Performance,I'm On My Way,Rhiannon Giddens with Francesco Turrisi,,False
+235,2019,Best American Roots Performance,Call My Name,I'm With Her,,False
+236,2019,Best American Roots Performance,Faraway Look,Yola,,False
+237,2019,Best American Roots Song,Call My Name,,"Sarah Jarosz, Aoife O'Donovan & Sara Watkins, songwriters (I'm With Her)",True
+238,2019,Best American Roots Song,Black Myself,,"Amythyst Kiah, songwriter (Our Native Daughters)",False
+239,2019,Best American Roots Song,Crossing To Jerusalem,,"Rosanne Cash & John Leventhal, songwriters (Rosanne Cash)",False
+240,2019,Best American Roots Song,Faraway Look,,"Dan Auerbach, Pat McLaughlin & Yola, songwriters (Yola)",False
+241,2019,Best American Roots Song,I Don't Wanna Ride The Rails No More,,"Vince Gill, songwriter (Vince Gill)",False
+242,2019,Best Americana Album,Oklahoma,Keb' Mo',,True
+243,2019,Best Americana Album,Years To Burn,Calexico And Iron & Wine,,False
+244,2019,Best Americana Album,Who Are You Now,Madison Cunningham,,False
+245,2019,Best Americana Album,Tales Of America,J.S. Ondara,,False
+246,2019,Best Americana Album,Walk Through Fire,Yola,,False
+247,2019,Best Bluegrass Album,Tall Fiddler,Michael Cleveland,,True
+248,2019,Best Bluegrass Album,"Live In Prague, Czech Republic",Doyle Lawson & Quicksilver,,False
+249,2019,Best Bluegrass Album,"Toil, Tears & Trouble",The Po’ Ramblin’ Boys,,False
+250,2019,Best Bluegrass Album,Royal Traveller,Missy Raines,,False
+251,2019,Best Bluegrass Album,If You Can't Stand The Heat,Frank Solivan & Dirty Kitchen,,False
+252,2019,Best Traditional Blues Album,"Tall, Dark, & Handsome",Delbert McClinton & Self-Made Men + Dana,,True
+253,2019,Best Traditional Blues Album,Kingfish,"Christone ""Kingfish"" Ingram",,False
+254,2019,Best Traditional Blues Album,Sitting On Top Of The Blues,Bobby Rush,,False
+255,2019,Best Traditional Blues Album,"Baby, Please Come Home",Jimmie Vaughan,,False
+256,2019,Best Traditional Blues Album,Spectacular Class,Jontavious Willis,,False
+257,2019,Best Contemporary Blues Album,This Land,Gary Clark Jr.,,True
+258,2019,Best Contemporary Blues Album,Venom & Faith,Larkin Poe,,False
+259,2019,Best Contemporary Blues Album,Brighter Days,Robert Randolph & The Family Band,,False
+260,2019,Best Contemporary Blues Album,Somebody Save Me,Sugaray Rayford,,False
+261,2019,Best Contemporary Blues Album,Keep On,Southern Avenue,,False
+262,2019,Best Folk Album,Patty Griffin,Patty Griffin,,True
+263,2019,Best Folk Album,My Finest Work Yet,Andrew Bird,,False
+264,2019,Best Folk Album,Rearrange My Heart,Che Apalache,,False
+265,2019,Best Folk Album,Evening Machines,Gregory Alan Isakov,,False
+266,2019,Best Folk Album,Front Porch,Joy Williams,,False
+267,2019,Best Regional Roots Music Album,Good Time,Ranky Tanky,,True
+268,2019,Best Regional Roots Music Album,Kalawai’anui,Amy Hānaiali’i,,False
+269,2019,Best Regional Roots Music Album,When It's Cold - Cree Round Dance Songs,Northern Cree,,False
+270,2019,Best Regional Roots Music Album,Recorded Live At The 2019 New Orleans Jazz & Heritage Festival,Rebirth Brass Band,,False
+271,2019,Best Regional Roots Music Album,Hawaiian Lullaby,(Various Artists),"Imua Garza & Kimié Miner, producers",False
+272,2019,Best Reggae Album,Rapture,Koffee,,True
+273,2019,Best Reggae Album,As I Am,Julian Marley,,False
+274,2019,Best Reggae Album,The Final Battle: Sly & Robbie vs. Roots Radics,Sly & Robbie & Roots Radics,,False
+275,2019,Best Reggae Album,Mass Manipulation,Steel Pulse,,False
+276,2019,Best Reggae Album,More Work To Be Done,Third World,,False
+277,2019,Best World Music Album,Celia,Angelique Kidjo,,True
+278,2019,Best World Music Album,Gece,Altin Gün,,False
+279,2019,Best World Music Album,What Heat,Bokanté & Metropole Orkest Conducted By Jules Buckley,,False
+280,2019,Best World Music Album,African Giant,Burna Boy,,False
+281,2019,Best World Music Album,Fanm D'ayiti,Nathalie Joachim With Spektral Quartet,,False
+282,2019,Best Children's Music Album,Ageless: Songs for the Child Archetype,Jon Samson,,True
+283,2019,Best Children's Music Album,Flying High!,Caspar Babypants,,False
+284,2019,Best Children's Music Album,I Love Rainy Days,Daniel Tashian,,False
+285,2019,Best Children's Music Album,The Love,Alphabet Rockers,,False
+286,2019,Best Children's Music Album,Winterland,The Okee Dokee Brothers,,False
+287,2019,"Best Spoken Word Album (Includes Poetry, Audio Books & Storytelling)",Becoming,Michelle Obama,,True
+288,2019,"Best Spoken Word Album (Includes Poetry, Audio Books & Storytelling)",Beastie Boys Book,(Various Artists),"Michael Diamond, Adam Horovitz, Scott Sherratt & Dan Zitt, producers",False
+289,2019,"Best Spoken Word Album (Includes Poetry, Audio Books & Storytelling)",I.V. Catatonia: 20 Years As A Two-Time Cancer Survivor,Eric Alexandrakis,,False
+290,2019,"Best Spoken Word Album (Includes Poetry, Audio Books & Storytelling)",Mr. Know-It-All,John Waters,,False
+291,2019,"Best Spoken Word Album (Includes Poetry, Audio Books & Storytelling)",Sekou Andrews & The String Theory,Sekou Andrews (& The String Theory),,False
+292,2019,Best Comedy Album,Sticks & Stones,Dave Chappelle,,True
+293,2019,Best Comedy Album,Quality Time,Jim Gaffigan,,False
+294,2019,Best Comedy Album,Relatable,Ellen DeGeneres,,False
+295,2019,Best Comedy Album,Right Now,Aziz Ansari,,False
+296,2019,Best Comedy Album,Son Of Patricia,Trevor Noah,,False
+297,2019,Best Musical Theater Album,Hadestown,,"Reeve Carney, André De Shields, Amber Gray, Eva Noblezada & Patrick Page, principal soloists; Mara Isaacs, David Lai, Anaïs Mitchell & Todd Sickafoose, producers (Anaïs Mitchell, composer & lyricist) (Original Broadway Cast)",True
+298,2019,Best Musical Theater Album,Ain't Too Proud: The Life And Times Of The Temptations,,"Saint Aubyn, Derrick Baskin, James Harkness, Jawan M. Jackson, Jeremy Pope & Ephraim Sykes, principal soloists; Scott M. Riesett, producer (Original Broadway Cast)",False
+299,2019,Best Musical Theater Album,Moulin Rouge! The Musical,,"Danny Burstein, Tam Mutu, Sahr Ngaujah, Karen Olivo & Aaron Tveit, principal soloists; Justin Levine, Baz Luhrmann, Matt Stine & Alex Timbers, producers (Original Broadway Cast)",False
+300,2019,Best Musical Theater Album,The Music Of Harry Potter And The Cursed Child - In Four Contemporary Suites,,"Imogen Heap, producer; Imogen Heap, composer (Imogen Heap)",False
+301,2019,Best Musical Theater Album,Oklahoma!,,"Damon Daunno, Rebecca Naomi Jones, Ali Stroker, Mary Testa & Patrick Vaill, principal soloists; Daniel Kluger & Dean Sharenow, producers (Richard Rodgers, composer; Oscar Hammerstein II, lyricist) (2019 Broadway Cast)",False
+302,2019,Best Compilation Soundtrack For Visual Media,A Star Is Born,Lady Gaga & Bradley Cooper,"Paul “DJWS” Blair, Bradley Cooper, Lady Gaga, Nick Monson, Lukas Nelson, Mark Nilan Jr. & Benjamin Rice, compilation producers; Julianne Jordan & Julia Michels, music supervisors",True
+303,2019,Best Compilation Soundtrack For Visual Media,The Lion King: The Songs,(Various Artists),"Jon Favreau & Hans Zimmer, compilation producers",False
+304,2019,Best Compilation Soundtrack For Visual Media,Quentin Tarantino's Once Upon A Time In Hollywood,(Various Artists),"Quentin Tarantino, compilation producer; Mary Ramos, music supervisor",False
+305,2019,Best Compilation Soundtrack For Visual Media,Rocketman,Taron Egerton,"Giles Martin, compilation producer",False
+306,2019,Best Compilation Soundtrack For Visual Media,Spider-Man: Into The Spider-Verse,(Various Artists),"Spring Aspers & Dana Sano, compilation producers; Kier Lehman, music supervisor",False
+307,2019,Best Score Soundtrack For Visual Media,Chernobyl,,"Hildur Guðnadóttir, composer",True
+308,2019,Best Score Soundtrack For Visual Media,Avengers: Endgame,,"Alan Silvestri, composer",False
+309,2019,Best Score Soundtrack For Visual Media,Game Of Thrones: Season 8,,"Ramin Djawadi, composer",False
+310,2019,Best Score Soundtrack For Visual Media,The Lion King,,"Hans Zimmer, composer",False
+311,2019,Best Score Soundtrack For Visual Media,Mary Poppins Returns,,"Marc Shaiman, composer",False
+312,2019,Best Song Written For Visual Media,I'll Never Love Again (Film Version),,"Natalie Hemby, Lady Gaga, Hillary Lindsey & Aaron Raitiere, songwriters (Lady Gaga & Bradley Cooper)",True
+313,2019,Best Song Written For Visual Media,The Ballad Of The Lonesome Cowboy,,"Randy Newman, songwriter (Chris Stapleton)",False
+314,2019,Best Song Written For Visual Media,Girl In The Movies,,"Dolly Parton & Linda Perry, songwriters (Dolly Parton)",False
+315,2019,Best Song Written For Visual Media,Spirit,,"Beyoncé Knowles-Carter, Timothy McKenzie & Ilya Salmanzadeh, songwriters (Beyoncé)",False
+316,2019,Best Song Written For Visual Media,Suspirium,,"Thom Yorke, songwriter (Thom Yorke)",False
+317,2019,Best Instrumental Composition,Star Wars: Galaxy's Edge Symphonic Suite,,"John Williams, composer (John Williams)",True
+318,2019,Best Instrumental Composition,Begin Again,,"Fred Hersch, composer (Fred Hersch & The WDR Big Band Conducted By Vince Mendoza)",False
+319,2019,Best Instrumental Composition,Crucible For Crisis,,"Brian Lynch, composer (Brian Lynch Big Band)",False
+320,2019,Best Instrumental Composition,"Love, A Beautiful Force",,"Vince Mendoza, composer (Vince Mendoza, Terell Stafford, Dick Oatts & Temple University Studio Orchestra)",False
+321,2019,Best Instrumental Composition,Walkin' Funny,,"Christian McBride, composer (Christian McBride)",False
+322,2019,"Best Arrangement, Instrumental or A Cappella",Moon River,,"Jacob Collier, arranger (Jacob Collier)",True
+323,2019,"Best Arrangement, Instrumental or A Cappella",Blue Skies,,"Kris Bowers, arranger (Kris Bowers)",False
+324,2019,"Best Arrangement, Instrumental or A Cappella",Hedwig's Theme,,"John Williams, arranger (Anne-Sophie Mutter & John Williams)",False
+325,2019,"Best Arrangement, Instrumental or A Cappella",La Novena,,"Emilio Solla, arranger (Emilio Solla Tango Jazz Orchestra)",False
+326,2019,"Best Arrangement, Instrumental or A Cappella","Love, A Beautiful Force",,"Vince Mendoza, arranger (Vince Mendoza, Terell Stafford, Dick Oatts & Temple University Studio Orchestra)",False
+327,2019,"Best Arrangement, Instruments and Vocals",All Night Long,,"Jacob Collier, arranger (Jacob Collier Featuring Jules Buckley, Take 6 & Metropole Orkest)",True
+328,2019,"Best Arrangement, Instruments and Vocals",Jolene,,"Geoff Keezer, arranger (Sara Gazarek)",False
+329,2019,"Best Arrangement, Instruments and Vocals",Marry Me A Little,,"Cyrille Aimée & Diego Figueiredo, arrangers (Cyrille Aimée)",False
+330,2019,"Best Arrangement, Instruments and Vocals",Over The Rainbow,,"Vince Mendoza, arranger (Trisha Yearwood)",False
+331,2019,"Best Arrangement, Instruments and Vocals",12 Little Spells (Thoracic Spine),,"Esperanza Spalding, arranger (Esperanza Spalding)",False
+332,2019,Best Recording Package,Chris Cornell,,"Barry Ament, Jeff Ament & Joe Spix, art directors (Chris Cornell)",True
+333,2019,Best Recording Package,Anónimas & Resilientes,,"Luisa María Arango, Carlos Dussan, Manuel García-Orozco & Juliana Jaramillo-Buenaventura, art directors (Voces Del Bullerengue)",False
+334,2019,Best Recording Package,Hold That Tiger,,"Andrew Wong & Fongming Yang, art directors (The Muddy Basin Ramblers)",False
+335,2019,Best Recording Package,"I,I",,"Aaron Anderson & Eric Timothy Carlson, art directors (Bon Iver)",False
+336,2019,Best Recording Package,Intellexual,,"Irwan Awalludin, art director (Intellexual)",False
+337,2019,Best Boxed Or Special Limited Edition Package,Woodstock: Back To The Garden - The Definitive 50th Anniversary Archive,,"Masaki Koike, art director (Various Artists)",True
+338,2019,Best Boxed Or Special Limited Edition Package,Anima,,"Stanley Donwood & Tchocky, art directors (Thom Yorke)",False
+339,2019,Best Boxed Or Special Limited Edition Package,Gold In A Brass Age,,"Amanda Chiu, Mark Farrow & David Gray, art directors (David Gray)",False
+340,2019,Best Boxed Or Special Limited Edition Package,1963: New Directions,,"Josh Cheuse, art director (John Coltrane)",False
+341,2019,Best Boxed Or Special Limited Edition Package,The Radio Recordings 1939–1945,,"Marek Polewski, art director (Wilhelm Furtwängler & Berliner Philharmoniker)",False
+342,2019,Best Album Notes,Stax '68: A Memphis Story,,"Steve Greenberg, album notes writer (Various Artists)",True
+343,2019,Best Album Notes,The Complete Cuban Jam Sessions,,"Judy Cantor-Navas, album notes writer (Various Artists)",False
+344,2019,Best Album Notes,The Gospel According To Malaco,,"Robert Marovich, album notes writer (Various Artists)",False
+345,2019,Best Album Notes,Pedal Steal + Four Corners,,"Brendan Greaves, album notes writer (Terry Allen And The Panhandle Mystery Band)",False
+346,2019,Best Album Notes,Pete Seeger: The Smithsonian Folkways Collection,,"Jeff Place, album notes writer (Pete Seeger)",False
+347,2019,Best Historical Album,Pete Seeger: The Smithsonian Folkways Collection,,"Jeff Place & Robert Santelli, compilation producers; Pete Reiniger, mastering engineer (Pete Seeger)",True
+348,2019,Best Historical Album,The Girl From Chickasaw County - The Complete Capitol Masters,,"Andrew Batt & Kris Maher, compilation producers; Simon Gibson, mastering engineer (Bobbie Gentry)",False
+349,2019,Best Historical Album,The Great Comeback: Horowitz At Carnegie Hall,,"Robert Russ, compilation producer; Andreas K. Meyer & Jennifer Nulsen, mastering engineers (Vladimir Horowitz)",False
+350,2019,Best Historical Album,"Kankyo Ongaku: Japanese Ambient, Environmental & New Age Music 1980-1990",,"Spencer Doran, Yosuke Kitazawa, Douglas Mcgowan & Matt Sullivan, compilation producers; John Baldwin, mastering engineer (Various Artists)",False
+351,2019,Best Historical Album,Woodstock: Back To The Garden - The Definitive 50th Anniversary Archive,,"Brian Kehew, Steve Woolard & Andy Zax, compilation producers; Dave Schultz, mastering engineer, Brian Kehew, restoration engineer (Various Artists)",False
+352,2019,"Best Engineered Album, Non-Classical","When We All Fall Asleep, Where Do We Go?",,"Rob Kinelski & Finneas O'Connell, engineers; John Greenham, mastering engineer (Billie Eilish)",True
+353,2019,"Best Engineered Album, Non-Classical",All These Things,,"Tchad Blake, Thomas Dybdahl, Adam Greenspan & Roderick Shearer, engineers; Bernie Grundman, mastering engineer (Thomas Dybdahl)",False
+354,2019,"Best Engineered Album, Non-Classical",Ella Mai,,"Chris ""Shaggy"" Ascher, Jaycen Joshua & David Pizzimenti, engineers; Chris Athens, mastering engineer (Ella Mai)",False
+355,2019,"Best Engineered Album, Non-Classical",Run Home Slow,,"Paul Butler & Sam Teskey, engineers; Joe Carra, mastering engineer (The Teskey Brothers)",False
+356,2019,"Best Engineered Album, Non-Classical",Scenery,,"Tom Elmhirst, Ben Kane & Jeremy Most, engineers; Bob Ludwig, mastering engineer (Emily King)",False
+357,2019,"Producer Of The Year, Non-Classical",Finneas,,"• When We Fall Asleep, Where Do We Go? (Billie Eilish) (A)",True
+358,2019,"Producer Of The Year, Non-Classical",Jack Antonoff,,• Arizona Baby (Kevin Abstract) (A)  • Lover (Taylor Swift) (A)  • Norman F***ing Rockwell! (Lana Del Rey) (A)  • Red Hearse (Red Hearse) (A),False
+359,2019,"Producer Of The Year, Non-Classical",Dan Auerbach,,"• The Angels In Heaven Done Signed My Name (Leo Bud Welch) (A)  • ""Let's Rock"" (The Black Keys) (A)  • Mockingbird (The Gibson Brothers) (A)  • Myth Of A Man (Night Beats) (A)  • Southern Gentleman (Dee White) (A)  • Walk Through Fire (Yola) (A)",False
+360,2019,"Producer Of The Year, Non-Classical",John Hill,,"• Heat Of The Summer (Young The Giant) (T)  • Hundred (Khalid) (T)  • No Drug Like Me (Carly Rae Jepsen) (T)  • Outta My Head (Khalid With John Mayer) (T)  • Social Cues (Cage The Elephant) (A)  • Superposition (Young The Giant) (T)  • Too Much (Carly Rae Jepsen) (T)  • Vertigo (Khalid) (T)  • Zero (From ""Ralph Breaks The Internet"") (Imagine Dragons) (T)",False
+361,2019,"Producer Of The Year, Non-Classical",Ricky Reed,,• Almost Free (Fidlar) (A)  • Burning (Maggie Rogers) (T)  • Confidence (X Ambassadors Featuring K.Flay) (T)  • Juice (Lizzo) (T)  • Kingdom Of One (Maren Morris) (T)  • Power Is Power (SZA Featuring The Weeknd & Travis Scott) (T)  • Tempo (Lizzo Featuring Missy Elliott) (T)  • Truth Hurts (Lizzo) (T)  • The Wrong Man (Ross Golan) (A),False
+362,2019,Best Remixed Recording,I Rise (Tracy Young's Pride Intro Radio Remix),,"Tracy Young, remixer (Madonna)",True
+363,2019,Best Remixed Recording,Mother's Daughter (Wuki Remix),,"Wuki, remixer (Miley Cyrus)",False
+364,2019,Best Remixed Recording,The One (High Contrast Remix),,"Lincoln Barrett, remixer (Jorja Smith)",False
+365,2019,Best Remixed Recording,Swim (ford. Remix),,"Luc Bradford, remixer (Mild Minds)",False
+366,2019,Best Remixed Recording,Work It (Soulwax Remix),,"David Gerard C Dewaele & Stephen Antoine C Dewaele, remixers (Marie Davidson)",False
+367,2019,Best Immersive Audio Album,LUX,,"Morten Lindberg, immersive audio engineer; Morten Lindberg, immersive audio mastering engineer; Morten Lindberg, immersive audio producer (Anita Brevik, Trondheimsolistene & Nidarosdomens Jentekor)",True
+368,2019,Best Immersive Audio Album,Chain Tripping,,"Luke Argilla, immersive audio engineer; Jurgen Scharpf, immersive audio mastering engineer; Jona Bechtolt, Claire L. Evans & Rob Kieswetter, immersive audio producers (YACHT)",False
+369,2019,Best Immersive Audio Album,Kverndokk: Symphonic Dances,,"Jim Anderson, immersive audio engineer; Robert C. Ludwig, immersive audio mastering engineer; Ulrike Schwarz, immersive audio producer (Ken-David Masur & Stavanger Symphony Orchestra)",False
+370,2019,Best Immersive Audio Album,The Orchestral Organ,,"Keith O. Johnson, immersive audio engineer; Keith O. Johnson, immersive audio mastering engineer; Marina A. Ledin & Victor Ledin, immersive audio producers (Jan Kraybill)",False
+371,2019,Best Immersive Audio Album,The Savior,,"Bob Clearmountain, immersive audio engineer; Bob Ludwig, immersive audio mastering engineer; Michael Marquart & Dave Way, immersive audio producers (A Bad Think)",False
+372,2019,"Best Engineered Album, Classical",Riley: Sun Rings,,"Leslie Ann Jones, engineer; John Kilgore, Judith Sherman & David Harrington, engineers/mixers; Robert C. Ludwig, mastering engineer (Kronos Quartet)",True
+373,2019,"Best Engineered Album, Classical",Aequa - Anna Thorvaldsdóttir,,"Daniel Shores, engineer; Daniel Shores, mastering engineer (International Contemporary Ensemble)",False
+374,2019,"Best Engineered Album, Classical",Bruckner: Symphony No. 9,,"Mark Donahue, engineer; Mark Donahue, mastering engineer (Manfred Honeck & Pittsburgh Symphony Orchestra)",False
+375,2019,"Best Engineered Album, Classical",Rachmaninoff - Hermitage Piano Trio,,"Keith O. Johnson & Sean Royce Martin, engineers; Keith O. Johnson, mastering engineer (Hermitage Piano Trio)",False
+376,2019,"Best Engineered Album, Classical",Wolfe: Fire In My Mouth,,"Bob Hanlon & Lawrence Rock, engineers; Ian Good & Lawrence Rock, mastering engineers (Jaap Van Zweden, Francisco J. Núñez, Donald Nally, The Crossing, Young People's Chorus Of NY City & New York Philharmonic)",False
+377,2019,"Producer Of The Year, Classical",Blanton Alspaugh,,"• Artifacts - The Music Of Michael McGlynn (Charles Bruffy & Kansas City Chorale)  • Berlioz: Symphonie Fantastique; Fantaisie Sur La Tempête De Shakespeare (Andrew Davis & Toronto Symphony Orchestra)  • Copland: Billy The Kid; Grohg (Leonard Slatkin & Detroit Symphony Orchestra)  • Duruflé: Complete Choral Works (Robert Simpson & Houston Chamber Choir)  • Glass: Symphony No. 5 (Julian Wachner, The Choir Of Trinity Wall Street, Trinity Youth Chorus, Downtown Voices & Novus NY)  • Sander: The Divine Liturgy Of St. John Chrysostom (Peter Jermihov & PaTRAM Institute Singers)  • Smith, K.: Canticle (Craig Hella Johnson & Cincinnati Vocal Arts Ensemble)  • Visions Take Flight (Mei-Ann Chen & ROCO)",True
+378,2019,"Producer Of The Year, Classical",James Ginsburg,,"• Project W - Works By Diverse Women Composers (Mei-Ann Chen & Chicago Sinfonietta)  • Silenced Voices (Black Oak Ensemble)  • 20th Century Harpsichord Concertos (Jory Vinikour, Scott Speck & Chicago Philharmonic)  • Twentieth Century Oboe Sonatas (Alex Klein & Phillip Bush)  • Winged Creatures & Other Works For Flute, Clarinet, And Orchestra (Anthony McGill, Demarre McGill, Allen Tinkham & Chicago Youth Symphony Orchestra)",False
+379,2019,"Producer Of The Year, Classical","Marina A. Ledin, Victor Ledin",,"• Bates: Children Of Adam; Vaughan Williams: Dona Nobis Pacem (Steven Smith, Erin R. Freeman, Richmond Symphony & Chorus)  • The Orchestral Organ (Jan Kraybill)  • The Poetry Of Places (Nadia Shpachenko)  • Rachmaninoff - Hermitage Piano Trio (Hermitage Piano Trio)",False
+380,2019,"Producer Of The Year, Classical",Morten Lindberg,,"• Himmelborgen (Elisabeth Holte, Kåre Nordstoga & Uranienborg Vokalensemble)  • Kleiberg: Do You Believe In Heather? (Various Artists)  • Ljos (Fauna Vokalkvintett)  • LUX (Anita Brevik, Trondheimsolistene & Nidarosdomens Jentekor)  • Trachea (Tone Bianca Sparre Dahl & Schola Cantorum)  • Veneliti (Håkon Daniel Nystedt & Oslo Kammerkor)",False
+381,2019,"Producer Of The Year, Classical",Dirk Sobotka,,• Bruckner: Symphony No. 9 (Manfred Honeck & Pittsburgh Symphony Orchestra),False
+382,2019,Best Orchestral Performance,Norman: Sustain,,"Gustavo Dudamel, conductor (Los Angeles Philharmonic)",True
+383,2019,Best Orchestral Performance,Bruckner: Symphony No. 9,,"Manfred Honeck, conductor (Pittsburgh Symphony Orchestra)",False
+384,2019,Best Orchestral Performance,Copland: Billy The Kid; Grohg,,"Leonard Slatkin, conductor (Detroit Symphony Orchestra)",False
+385,2019,Best Orchestral Performance,Transatlantic,,"Louis Langrée, conductor (Cincinnati Symphony Orchestra)",False
+386,2019,Best Orchestral Performance,Weinberg: Symphonies Nos. 2 & 21,,"Mirga Gražinytė-Tyla, conductor (City Of Birmingham Symphony Orchestra & Kremerata Baltica)",False
+387,2019,Best Opera Recording,Picker: Fantastic Mr. Fox,,"Gil Rose, conductor; John Brancy, Andrew Craig Brown, Gabriel Preisser, Krista River & Edwin Vega; Gil Rose, producer (Boston Modern Orchestra Project; Boston Children's Chorus)",True
+388,2019,Best Opera Recording,Benjamin: Lessons In Love & Violence,,"George Benjamin, conductor; Stéphane Degout, Barbara Hannigan, Peter Hoare & Gyula Orendt; Raphaël Mouterde & James Whitbourn, producers (Orchestra Of The Royal Opera House)",False
+389,2019,Best Opera Recording,Berg: Wozzeck,,"Marc Albrecht, conductor; Christopher Maltman & Eva-Maria Westbroek; François Roussillon, producer (Netherlands Philharmonic Orchestra; Chorus Of Dutch National Opera)",False
+390,2019,Best Opera Recording,Charpentier: Les Arts Florissants; Les Plaisirs De Versailles,,"Paul O'Dette & Stephen Stubbs, conductors; Jesse Blumberg, Teresa Wakim & Virginia Warnken; Renate Wolter-Seevers, producer (Boston Early Music Festival Chamber Ensemble; Boston Early Music Festival Vocal Ensemble)",False
+391,2019,Best Opera Recording,Wagner: Lohengrin,,"Christian Thielemann, conductor; Piotr Beczała, Anja Harteros, Tomasz Konieczny, Waltraud Meier & Georg Zeppenfeld; Eckhard Glauche, producer (Festspielorchester Bayreuth; Festspielchor Bayreuth)",False
+392,2019,Best Choral Performance,Duruflé: Complete Choral Works,,"Robert Simpson, conductor (Ken Cowan; Houston Chamber Choir)",True
+393,2019,Best Choral Performance,Boyle: Voyages,,"Donald Nally, conductor (The Crossing)",False
+394,2019,Best Choral Performance,The Hope Of Loving,,"Craig Hella Johnson, conductor (Conspirare)",False
+395,2019,Best Choral Performance,Sander: The Divine Liturgy Of St. John Chrysostom,,"Peter Jermihov, conductor (Evan Bravos, Vadim Gan, Kevin Keys, Glenn Miller & Daniel Shirley; PaTRAM Institute Singers)",False
+396,2019,Best Choral Performance,"Smith, K.: The Arc In The Sky",,"Donald Nally, conductor (The Crossing)",False
+397,2019,Best Chamber Music/Small Ensemble Performance,Shaw: Orange,,Attacca Quartet,True
+398,2019,Best Chamber Music/Small Ensemble Performance,Cerrone: The Pieces That Fall To Earth,,Christopher Rountree & Wild Up,False
+399,2019,Best Chamber Music/Small Ensemble Performance,Freedom & Faith,,PUBLIQuartet,False
+400,2019,Best Chamber Music/Small Ensemble Performance,Perpetulum,,Third Coast Percussion,False
+401,2019,Best Chamber Music/Small Ensemble Performance,Rachmaninoff - Hermitage Piano Trio,,Hermitage Piano Trio,False
+402,2019,Best Classical Instrumental Solo,Marsalis: Violin Concerto; Fiddle Dance Suite,,"Nicola Benedetti; Cristian Măcelaru, conductor (Philadelphia Orchestra)",True
+403,2019,Best Classical Instrumental Solo,The Berlin Recital,,Yuja Wang,False
+404,2019,Best Classical Instrumental Solo,Higdon: Harp Concerto,,"Yolanda Kondonassis; Ward Stare, conductor (The Rochester Philharmonic Orchestra)",False
+405,2019,Best Classical Instrumental Solo,The Orchestral Organ,,Jan Kraybill,False
+406,2019,Best Classical Instrumental Solo,"Torke: Sky, Concerto For Violin",,"Tessa Lark; David Alan Miller, conductor (Albany Symphony)",False
+407,2019,Best Classical Solo Vocal Album,Songplay,,"Joyce DiDonato; Chuck Israels, Jimmy Madison, Charlie Porter & Craig Terry, accompanists (Steve Barnett & Lautaro Greco)",True
+408,2019,Best Classical Solo Vocal Album,The Edge Of Silence - Works For Voice By György Kurtág,,"Susan Narucki (Donald Berman, Curtis Macomber, Kathryn Schulmeister & Nicholas Tolle)",False
+409,2019,Best Classical Solo Vocal Album,Himmelsmusik,,"Philippe Jaroussky & Céline Scheen; Christina Pluhar, conductor; L’Arpeggiata, ensemble (Jesús Rodil & Dingle Yandell)",False
+410,2019,Best Classical Solo Vocal Album,"Schumann: Liederkreis Op. 24, Kerner-Lieder Op. 35",,"Matthias Goerne; Leif Ove Andsnes, accompanist",False
+411,2019,Best Classical Solo Vocal Album,"A Te, O Cara",,"Stephen Costello; Constantine Orbelian, conductor (Kaunas City Symphony Orchestra)",False
+412,2019,Best Classical Compendium,The Poetry Of Places,,"Nadia Shpachenko; Marina A. Ledin & Victor Ledin, producers",True
+413,2019,Best Classical Compendium,American Originals 1918,,"John Morris Russell, conductor; Elaine Martone, producer",False
+414,2019,Best Classical Compendium,Leshnoff: Symphony No. 4 'Heichalos'; Guitar Concerto; Starburst,,"Giancarlo Guerrero, conductor; Tim Handley, producer",False
+415,2019,Best Classical Compendium,Meltzer: Songs And Structures,,"Paul Appleby & Natalia Katyukova; Silas Brown & Harold Meltzer, producers",False
+416,2019,Best Classical Compendium,Saariaho: True Fire; Trans; Ciel D'Hiver,,"Hannu Lintu, conductor; Laura Heikinheimo, producer",False
+417,2019,Best Contemporary Classical Composition,Higdon: Harp Concerto,,"Jennifer Higdon, composer (Yolanda Kondonassis, Ward Stare & The Rochester Philharmonic Orchestra)",True
+418,2019,Best Contemporary Classical Composition,Bermel: Migration Series For Jazz Ensemble & Orchestra,,"Derek Bermel, composer (Derek Bermel, Ted Nash, David Alan Miller, Juilliard Jazz Orchestra & Albany Symphony Orchestra)",False
+419,2019,Best Contemporary Classical Composition,Marsalis: Violin Concerto In D Major,,"Wynton Marsalis, composer (Nicola Benedetti, Cristian Măcelaru & Philadelphia Orchestra)",False
+420,2019,Best Contemporary Classical Composition,Norman: Sustain,,"Andrew Norman, composer (Gustavo Dudamel & Los Angeles Philharmonic)",False
+421,2019,Best Contemporary Classical Composition,Shaw: Orange,,"Caroline Shaw, composer (Attacca Quartet)",False
+422,2019,Best Contemporary Classical Composition,Wolfe: Fire In My Mouth,,"Julia Wolfe, composer (Jaap Van Zweden, Francisco J. Núñez, Donald Nally, The Crossing, Young People's Chorus Of NY City & New York Philharmonic)",False
+423,2019,Best Music Video,Old Town Road (Official Movie),Lil Nas X & Billy Ray Cyrus,"Calmatic, video director; Candice Dragonas, Melissa Larsen & Saul Levitz, video producers",True
+424,2019,Best Music Video,We've Got To Try,The Chemical Brothers,"Ninian Doff, video director; Ellie Fry, video producer",False
+425,2019,Best Music Video,This Land,Gary Clark Jr.,"Savanah Leaf, video director; Jason Cole, Danielle Hinde, Alicia Martinez & Devin Sarno, video producers",False
+426,2019,Best Music Video,Cellophane,FKA twigs,"Andrew Thomas Huang, video director; Alex Chamberlain, video producer",False
+427,2019,Best Music Video,Glad He's Gone,Tove Lo,"Vania Heymann & Gal Muggia, video directors; Natan Schottenfels, video producer",False
+428,2019,Best Music Film,Homecoming,Beyoncé,"Beyoncé Knowles-Carter & Ed Burke, video directors; Steve Pamon & Erinn Williams, video producers",True
+429,2019,Best Music Film,Remember My Name,David Crosby,"A.J. Eaton, video director; Cameron Crowe, Michele Farinola & Greg Mariotti, video producers",False
+430,2019,Best Music Film,Birth Of The Cool,(Miles Davis),"Stanley Nelson, video director; Nicole London, video producer",False
+431,2019,Best Music Film,Shangri-La,(Various Artists),"Jeff Malmberg & Morgan Neville, video directors; Danny Breen, video producer",False
+432,2019,Best Music Film,Anima,Thom Yorke,"Paul Thomas Anderson, video director; Paul Thomas Anderson, Erica Frauman & Sara Murphy, video producers",False
+433,2018,Record Of The Year,This Is America,Childish Gambino,"Donald Glover & Ludwig Göransson, producers; Derek ""MixedByAli"" Ali, Kesha Lee, Riley Mackin, Shaan Singh & Alex Tumay, engineers/mixers; Mike Bozzi, mastering engineer",True
+434,2018,Album Of The Year,Golden Hour,Kacey Musgraves,"Ian Fitchuk, Kacey Musgraves & Daniel Tashian, producers; Craig Alvin & Shawn Everett, engineers/mixers; Ian Fitchuk, Kacey Musgraves & Daniel Tashian, songwriters; Greg Calbi & Steve Fallone, mastering engineers",True
+435,2018,Song Of The Year,This Is America,,"Donald Glover, Ludwig Göransson & Jeffery Lamar Williams, songwriters (Childish Gambino)",True
+436,2018,Best New Artist,Dua Lipa,,,True
+437,2018,Best Pop Solo Performance,Joanne (Where Do You Think You're Goin'?),Lady Gaga,,True
+438,2018,Best Pop Duo/Group Performance,Shallow,Lady Gaga & Bradley Cooper,,True
+439,2018,Best Traditional Pop Vocal Album,My Way,Willie Nelson,"Buddy Cannon & Matt Rollings, producers; Tony Castle, Steve Chadie & Ed Cherney, engineers/mixers",True
+440,2018,Best Pop Vocal Album,Sweetener,Ariana Grande,"Pharrell Williams, producer; Mike Larson, engineer",True
+441,2018,Best Dance Recording,Electricity,Silk City & Dua Lipa Featuring Diplo & Mark Ronson,"Jarami, Alex Metric, Riton & Silk City, producers; Josh Gudwin, mixer",True
+442,2018,Best Dance/Electronic Album,Woman Worldwide,Justice,"Justice, producers; Justice, engineers/mixers",True
+443,2018,Best Contemporary Instrumental Album,Steve Gadd Band,Steve Gadd Band,"Rich Breen, engineer/mixer",True
+444,2018,Best Rock Performance,When Bad Does Good,Chris Cornell,,True
+445,2018,Best Metal Performance,Electric Messiah,High On Fire,,True
+446,2018,Best Rock Song,Masseduction,,"Jack Antonoff & Annie Clark, songwriters (St. Vincent)",True
+447,2018,Best Rock Album,From The Fires,Greta Van Fleet,"Herschel Boone, Al Sutton & Marlon Young, producers; Al Sutton, engineer/mixer",True
+448,2018,Best Alternative Music Album,Colors,Beck,"Beck & Greg Kurstin, producers; Julian Burg, Serban Ghenea, David Greenbaum, John Hanes, Greg Kurstin, Florian Lagatta, Cole M.G.N., Alex Pasco, Jesse Shatkin, Darrel Thorp & Cassidy Turbin, engineers/mixers",True
+449,2018,Best R&B Performance,Best Part,H.E.R. Featuring Daniel Caesar,,True
+450,2018,Best Traditional R&B Performance,Bet Ain't Worth The Hand,Leon Bridges,,True
+451,2018,Best Traditional R&B Performance,How Deep Is Your Love,PJ Morton Featuring Yebba,,False
+452,2018,Best R&B Song,Boo'd Up,,"Larrance Dopson, Joelle James, Ella Mai & Dijon McFarlane, songwriters (Ella Mai)",True
+453,2018,Best Urban Contemporary Album,Everything Is Love,The Carters,"The Carters, producers; Gimel ""Young Guru"" Keaton & Stuart White, engineers/mixers",True
+454,2018,Best R&B Album,H.E.R.,H.E.R.,"Darhyl ""DJ"" Camper, David ""Swagg R'Celius"" Harris, H.E.R., Walter Jones & Jeff Robinson, producers; Mikinari Tsutsumi, engineer/mixer",True
+455,2018,Best Rap Performance,King's Dead,"Kendrick Lamar, Jay Rock, Future & James Blake",,True
+456,2018,Best Rap Performance,Bubblin,Anderson .Paak,,False
+457,2018,Best Rap/Sung Performance,This Is America,Childish Gambino,,True
+458,2018,Best Rap Song,God's Plan,,"Aubrey Graham, Daveon Jackson, Brock Korsan, Ron LaTour, Matthew Samuels & Noah Shebib, songwriters (Drake)",True
+459,2018,Best Rap Album,Invasion Of Privacy,Cardi B,"Leslie Brathwaite & Evan LaRay, engineers/mixers",True
+460,2018,Best Country Solo Performance,Butterflies,Kacey Musgraves,,True
+461,2018,Best Country Duo/Group Performance,Tequila,Dan + Shay,,True
+462,2018,Best Country Song,Space Cowboy,,"Luke Laird, Shane McAnally & Kacey Musgraves, songwriters (Kacey Musgraves)",True
+463,2018,Best Country Album,Golden Hour,Kacey Musgraves,"Ian Fitchuk, Kacey Musgraves & Daniel Tashian, producers; Craig Alvin & Shawn Everett, engineers/mixers",True
+464,2018,Best New Age Album,Opium Moon,Opium Moon,"Opium Moon, producers; Lucas Fehring & Jeff Gartenbaum, engineers/mixers",True
+465,2018,Best Improvised Jazz Solo,Don't Fence Me In,,"John Daversa, soloist",True
+466,2018,Best Jazz Vocal Album,The Window,Cécile McLorin Salvant,"Sullivan Fortner, Al Pryor & Cécile McLorin Salvant, producers; Todd Whitelock, engineer/mixer",True
+467,2018,Best Jazz Instrumental Album,Emanon,The Wayne Shorter Quartet,"Don Was, producer; Rob Griffin, engineer/mixer",True
+468,2018,Best Large Jazz Ensemble Album,"American Dreamers: Voices Of Hope, Music Of Freedom",John Daversa Big Band Featuring DACA Artists,"Doug Davis & Kabir Sehgal, producers; Oscar Autie, engineer/mixer",True
+469,2018,Best Latin Jazz Album,Back To The Sunset,Dafnis Prieto Big Band,"Eric Oberstein, producer; Joe Marciano & Max Ross, engineers/mixers",True
+470,2018,Best Gospel Performance/Song,Never Alone,,"Tori Kelly Featuring Kirk Franklin; Kirk Franklin & Victoria Kelly, songwriters",True
+471,2018,Best Contemporary Christian Music Performance/Song,You Say,,"Lauren Daigle; Lauren Daigle, Jason Ingram & Paul Mabury, songwriters",True
+472,2018,Best Gospel Album,Hiding Place,Tori Kelly,"Kirk Franklin, Ronald Hill & Max Stark, producers; Rob Chiarelli & Michael Havens, engineers/mixers",True
+473,2018,Best Contemporary Christian Music Album,Look Up Child,Lauren Daigle,"Jason Ingram & Paul Mabury, producers; Mark Endert & Buckley Miller, engineers/mixers",True
+474,2018,Best Roots Gospel Album,Unexpected,Jason Crabb,"Jay DeMarcus, producer; Derek Bason, engineer/mixer",True
+475,2018,Best Latin Pop Album,Sincera,Claudia Brant,"Cheche Alara & Antonio ""Moogie"" Canazio, producers; Antonio ""Moogie"" Canazio, engineer/mixer",True
+476,2018,"Best Latin Rock, Urban or Alternative Album",Aztlán,Zoé,"Phil Vinall & Zoé, producers; Juan Sebastian Rodriguez & Craig Silvey, engineers/mixers",True
+477,2018,Best Regional Mexican Music Album (Including Tejano),¡México Por Siempre!,Luis Miguel,"Luis Miguel & David Reitzas, producers; David Reitzas & Jess Sutcliffe, engineers/mixers",True
+478,2018,Best Tropical Latin Album,Anniversary,Spanish Harlem Orchestra,"Doug Beavers, producer; Kyle Cassel & Guido Diaz, engineers/mixers",True
+479,2018,Best American Roots Performance,The Joke,Brandi Carlile,,True
+480,2018,Best American Roots Song,The Joke,,"Brandi Carlile, Dave Cobb, Phil Hanseroth & Tim Hanseroth, songwriters (Brandi Carlile)",True
+481,2018,Best Americana Album,"By The Way, I Forgive You",Brandi Carlile,"Dave Cobb & Shooter Jennings, producers; Eddie Spear, engineer/mixer",True
+482,2018,Best Bluegrass Album,The Travelin' McCourys,The Travelin' McCourys,"The Travelin' McCourys, producers; Sean Sullivan, engineer/mixer",True
+483,2018,Best Traditional Blues Album,The Blues Is Alive And Well,Buddy Guy,,True
+484,2018,Best Contemporary Blues Album,Please Don't Be Dead,Fantastic Negrito,"Fantastic Negrito, producer; Nahuel Bronzini, Alexandro ""Migui"" Maloles & Matt Winegar, engineers/mixers",True
+485,2018,Best Folk Album,All Ashore,Punch Brothers,"Punch Brothers, producers; Jason Wormer, engineer/mixer",True
+486,2018,Best Regional Roots Music Album,No 'Ane'i,Kalani Pe'a,"Allan B. Cool, Kalani Pe'a & Dave Tucciarone, producers; Dave Tucciarone, engineer/mixer",True
+487,2018,Best Reggae Album,44/876,Sting & Shaggy,"Sting International, producer; Tony Lake & Robert Orton, engineers/mixers",True
+488,2018,Best World Music Album,Freedom,Soweto Gospel Choir,"Diniloxolo Ndlakuse, producer; Gabs Agostino, Tarick Joseph, Richard Mitchell & Oyama Songo, engineers/mixers",True
+489,2018,Best Children's Album,All The Sounds,Lucy Kalantari & The Jazz Cats,"Denise Barbarita, engineer/mixer",True
+490,2018,"Best Spoken Word Album (Includes Poetry, Audio Books & Storytelling)",Faith  - A Journey For All,Jimmy Carter,"Elisa Shokoff, producer; Rick Bradley & John St. Denis, engineers/mixers",True
+491,2018,Best Comedy Album,Equanimity & The Bird Revelation,Dave Chappelle,"Rikki Hughes, Stan Lathan, Sina Sadighi, Carla Sims & Geof Wills, producers; Brian Riordan, engineer/mixer",True
+492,2018,Best Musical Theater Album,The Band's Visit,,"Etai Benson, Adam Kantor, Katrina Lenk & Ari'el Stachel, principal soloists; Dean Sharenow & David Yazbek, producers; David Yazbek, composer & lyricist (Original Broadway Cast); Dean Sharenow, engineer/mixer",True
+493,2018,Best Compilation Soundtrack For Visual Media,The Greatest Showman,Hugh Jackman (& Various Artists),"Alex Lacamoire, Benj Pasek, Justin Paul & Greg Wells, compilation producers; Derik Lee, Ian MacGregor & Greg Wells, engineers/mixers",True
+494,2018,Best Score Soundtrack For Visual Media,Black Panther,,"Ludwig Göransson, composer; Ludwig Göransson, producer; Chris Fogel, engineer/mixer",True
+495,2018,Best Song Written For Visual Media,Shallow,,"Lady Gaga, Mark Ronson, Anthony Rossomando & Andrew Wyatt, songwriters (Lady Gaga & Bradley Cooper)",True
+496,2018,Best Instrumental Composition,Blut Und Boden (Blood And Soil),,"Terence Blanchard, composer (Terence Blanchard)",True
+497,2018,"Best Arrangement, Instrumental or A Cappella",Stars And Stripes Forever,,"John Daversa, arranger (John Daversa Big Band Featuring DACA Artists)",True
+498,2018,"Best Arrangement, Instruments and Vocals",Spiderman Theme,,"Mark Kibble, Randy Waldman & Justin Wilson, arrangers (Randy Waldman Featuring Take 6 & Chris Potter)",True
+499,2018,Best Recording Package,Masseduction,,"Willo Perron, art director (St. Vincent)",True
+500,2018,Best Boxed Or Special Limited Edition Package,"Squeeze Box: The Complete Works Of ""Weird Al"" Yankovic",,"Meghan Foley, Annie Stoll & Al Yankovic, art directors (""Weird Al"" Yankovic)",True
+501,2018,Best Album Notes,Voices Of Mississippi: Artists And Musicians Documented By William Ferris,,"David Evans, album notes writer (Various Artists)",True
+502,2018,Best Historical Album,Voices Of Mississippi: Artists And Musicians Documented By William Ferris,,"William Ferris, April Ledbetter & Steven Lance Ledbetter, compilation producers; Michael Graves, mastering engineer (Various Artists)",True
+503,2018,"Best Engineered Album, Non-Classical",Colors,,"Julian Burg, Serban Ghenea, David “Elevator” Greenbaum, John Hanes, Beck Hansen, Greg Kurstin, Florian Lagatta, Cole M.G.N., Alex Pasco, Jesse Shatkin, Darrell Thorp & Cassidy Turbin, engineers; Chris Bellman, Tom Coyne, Emily Lazar & Randy Merrill, mastering engineers (Beck)",True
+504,2018,"Producer Of The Year, Non-Classical",Pharrell Williams,,,True
+505,2018,Best Remixed Recording,Walking Away (Mura Masa Remix),,"Alex Crossan, remixer (Haim)",True
+506,2018,Best Immersive Audio Album,Eye In The Sky - 35th Anniversary Edition,,"Alan Parsons, surround mix engineer; Dave Donnelly, PJ Olsson & Alan Parsons, surround mastering engineers; Alan Parsons, surround producer (The Alan Parsons Project)",True
+507,2018,"Best Engineered Album, Classical",Shostakovich: Symphonies Nos. 4 & 11,,"Shawn Murphy & Nick Squire, engineers; Tim Martyn, mastering engineer (Andris Nelsons & Boston Symphony Orchestra)",True
+508,2018,"Producer Of The Year, Classical",Blanton Alspaugh,,,True
+509,2018,Best Orchestral Performance,Shostakovich: Symphonies Nos. 4 & 11,,"Andris Nelsons, conductor (Boston Symphony Orchestra); Tim Martyn, producer; Shawn Murphy & Nick Squire, engineers/mixers",True
+510,2018,Best Opera Recording,Bates: The (R)evolution Of Steve Jobs,,"Michael Christie, conductor; Sasha Cooke, Jessica E. Jones, Edward Parks, Garrett Sorenson & Wei Wu; Elizabeth Ostrow, producer (The Santa Fe Opera Orchestra); Mark Donahue & Dirk Sobotka, engineers; Mark Donahue, mixer",True
+511,2018,Best Choral Performance,McLoskey: Zealot Canticles,,"Donald Nally, conductor (Doris Hall-Gulati, Rebecca Harris, Arlen Hlusko, Lorenzo Raval & Mandy Wolman; The Crossing); Paul Vazquez, producer",True
+512,2018,Best Chamber Music/Small Ensemble Performance,"Anderson, Laurie: Landfall",,"Laurie Anderson & Kronos Quartet; Scott Fraser, producer",True
+513,2018,Best Classical Instrumental Solo,Kernis: Violin Concerto,,"James Ehnes; Ludovic Morlot, conductor (Seattle Symphony)",True
+514,2018,Best Classical Solo Vocal Album,"Songs Of Orpheus - Monteverdi, Caccini, D'India & Landi",,"Karim Sulayman; Jeannette Sorrell, conductor; Apollo's Fire, ensembles; Erica Brenner, producer; Ian Dobie, engineer; Ian Dobie & Daniel Shores, mixers",True
+515,2018,Best Classical Compendium,Fuchs: Piano Concerto 'Spiritualist'; Poems Of Life; Glacier; Rush,,"JoAnn Falletta, conductor; Tim Handley, producer; Jonathan Allen, engineer",True
+516,2018,Best Contemporary Classical Composition,Kernis: Violin Concerto,,"Aaron Jay Kernis, composer (James Ehnes, Ludovic Morlot & Seattle Symphony)",True
+517,2018,Best Music Video,This Is America,Childish Gambino,"Hiro Murai, video director; Ibra Ake, Jason Cole & Fam Rothstein, video producers",True
+518,2018,Best Music Film,Quincy,Quincy Jones,"Alan Hicks & Rashida Jones, video directors; Paula DuPré Pesmen, video producer",True
+519,2017,Record Of The Year,24K Magic,Bruno Mars,"Shampoo Press & Curl (Christopher Brody Brown, Philip Lawrence & Bruno Mars), producers; Serban Ghenea, John Hanes & Charles Moniz, engineers/mixers; Tom Coyne, mastering engineer",True
+520,2017,Album Of The Year,24K Magic,Bruno Mars,"Shampoo Press & Curl (Christopher Brody Brown, Philip Lawrence & Bruno Mars), producers; Serban Ghenea, John Hanes & Charles Moniz, engineers/mixers; Christopher Brody Brown, James Fauntleroy, Philip Lawrence & Bruno Mars, songwriters; Tom Coyne, mastering engineer",True
+521,2017,Song Of The Year,That's What I Like,,"Christopher Brody Brown, James Fauntleroy, Philip Lawrence, Bruno Mars, Ray Charles McCullough II, Jeremy Reeves, Ray Romulus & Jonathan Yip, songwriters (Bruno Mars)",True
+522,2017,Best New Artist,Alessia Cara,,,True
+523,2017,Best Pop Solo Performance,Shape Of You,Ed Sheeran,,True
+524,2017,Best Pop Duo/Group Performance,Feel It Still,Portugal. The Man,,True
+525,2017,Best Traditional Pop Vocal Album,Tony Bennett Celebrates 90,(Various Artists),"Dae Bennett, producer; Dae Bennett & John Harris, engineers/mixers",True
+526,2017,Best Pop Vocal Album,÷ (Divide),Ed Sheeran,"Ed Sheeran, producer; Joe Rubel, Chris Sclafani & Mark ""Spike"" Stent, engineers/mixers",True
+527,2017,Best Dance Recording,Tonite,LCD Soundsystem,"James Murphy, producer; James Murphy, mixer",True
+528,2017,Best Dance/Electronic Album,3-D The Catalogue,Kraftwerk,"Serge Gräfe, engineer/mixer",True
+529,2017,Best Contemporary Instrumental Album,Prototype,Jeff Lorber Fusion,"Peter Mokran, engineer/mixer",True
+530,2017,Best Rock Performance,You Want It Darker,Leonard Cohen,,True
+531,2017,Best Metal Performance,Sultan’s Curse,Mastodon,,True
+532,2017,Best Rock Song,Run,,"Foo Fighters (Dave Grohl, Taylor Hawkins, Rami Jaffee, Nate Mendel, Chris Shiflett & Pat Smear), songwriters (Foo Fighters)",True
+533,2017,Best Rock Album,A Deeper Understanding,The War On Drugs,"Shawn Everett, engineer/mixer",True
+534,2017,Best Alternative Music Album,Sleep Well Beast,The National,"David Chalmin, Peter Katis, Jonathan Low & Sean O'Brien, engineers/mixers",True
+535,2017,Best R&B Performance,That's What I Like,Bruno Mars,,True
+536,2017,Best Traditional R&B Performance,Redbone,Childish Gambino,,True
+537,2017,Best R&B Song,That's What I Like,,"Christopher Brody Brown, James Fauntleroy, Ray Charles McCullough II, Philip Lawrence, Bruno Mars, Jeremy Reeves, Ray Romulus & Jonathan Yip, songwriters (Bruno Mars)",True
+538,2017,Best Urban Contemporary Album,Starboy,The Weeknd,"Circut, Doc McKinney & The Weeknd, producers; Serban Ghenea, John Hanes, Doc McKinney & Josh Smith, engineers/mixers",True
+539,2017,Best R&B Album,24K Magic,Bruno Mars,"Shampoo Press & Curl, producers; Serban Ghenea, John Hanes & Charles Moniz, engineers/mixers",True
+540,2017,Best Rap Performance,HUMBLE.,Kendrick Lamar,,True
+541,2017,Best Rap/Sung Performance,LOYALTY.,Kendrick Lamar Featuring Rihanna,,True
+542,2017,Best Rap Song,HUMBLE.,,"Kendrick Duckworth, Asheton Hogan, Michael Williams II & Anthony Tiffith, songwriters (Kendrick Lamar)",True
+543,2017,Best Rap Album,DAMN.,Kendrick Lamar,"Sounwave & Anthony ""Topdawg"" Tiffith, producers; Derek ""MixedByAli"" Ali, James ""The White Black Man"" Hunt & Matt Schaeffer, engineers/mixers",True
+544,2017,Best Country Solo Performance,Either Way,Chris Stapleton,,True
+545,2017,Best Country Duo/Group Performance,Better Man,Little Big Town,,True
+546,2017,Best Country Song,Broken Halos,,"Mike Henderson & Chris Stapleton, songwriters (Chris Stapleton)",True
+547,2017,Best Country Album,From A Room: Volume 1,Chris Stapleton,"Dave Cobb & Chris Stapleton, producers; Vance Powell, engineer/mixer",True
+548,2017,Best New Age Album,Dancing On Water,Peter Kater,"Peter Kater, producer; Peter Kater, engineer/mixer",True
+549,2017,Best Improvised Jazz Solo,Miles Beyond,,"John McLaughlin, soloist",True
+550,2017,Best Jazz Vocal Album,Dreams And Daggers,Cécile McLorin Salvant,"Al Pryor & Cécile McLorin Salvant, producers; Todd Whitelock & Damon Whittemore, engineers/mixers",True
+551,2017,Best Jazz Instrumental Album,Rebirth,Billy Childs,"Billy Childs, producer; Rich Breen, engineer/mixer",True
+552,2017,Best Large Jazz Ensemble Album,Bringin' It,Christian McBride Big Band,"Todd Whitelock, engineer/mixer",True
+553,2017,Best Latin Jazz Album,Jazz Tango,Pablo Ziegler Trio,"Kabir Sehgal, producer",True
+554,2017,Best Gospel Performance/Song,Never Have To Be Alone,,"CeCe Winans; Dwan Hill & Alvin Love III, songwriters",True
+555,2017,Best Contemporary Christian Music Performance/Song,What A Beautiful Name,,"Hillsong Worship; Ben Fielding & Brooke Ligertwood, songwriters",True
+556,2017,Best Gospel Album,Let Them Fall In Love,CeCe Winans,"Alvin Love III & Tommy Sims, producers; Jimmy Douglass, Ben Kane & Vance Powell, engineers/mixers",True
+557,2017,Best Contemporary Christian Music Album,Chain Breaker,Zach Williams,"Jonathan Smith, producer; Jon Kaplan, Buckley Miller, Jonathan Smith, Colby Wedgeworth & Mark Zellmer, engineers/mixers",True
+558,2017,Best Roots Gospel Album,Sing It Now: Songs Of Faith & Hope,Reba McEntire,"Reba McEntire & Doug Sisemore, producers; Sean Neff & Todd Tidwell, engineers/mixers",True
+559,2017,Best Latin Pop Album,El Dorado,Shakira,"Shakira, producer; Carlos Hernandez Carbonell & Dave Clauss, engineers/mixers",True
+560,2017,"Best Latin Rock, Urban or Alternative Album",Residente,Residente,"Residente, producer; Rafael Arcaute, Beatriz Artola, Tom Elmhirst & Phil Joly, engineers/mixers",True
+561,2017,Best Regional Mexican Music Album (Including Tejano),Arrieros Somos Sesiones Acústicas,Aida Cuevas,"Rodrigo Cuevas, producer; Rodrigo Cuevas, Gael Hedding & Acradio Hernández, engineers/mixers",True
+562,2017,Best Tropical Latin Album,Salsa Big Band,Rubén Blades Con Roberto Delgado & Orquesta,"Pablo Governatori & Ignacio Molino, engineers/mixers",True
+563,2017,Best American Roots Performance,Killer Diller Blues,Alabama Shakes,,True
+564,2017,Best American Roots Song,If We Were Vampires,,"Jason Isbell, songwriter (Jason Isbell And The 400 Unit)",True
+565,2017,Best Americana Album,The Nashville Sound,Jason Isbell And The 400 Unit,"Dave Cobb, producer; Matt Ross-Spang, engineer/mixer",True
+566,2017,Best Bluegrass Album,Laws Of Gravity,The Infamous Stringdusters,"Billy Hume & The Infamous Stringdusters, producers; Billy Hume, engineer/mixer",True
+567,2017,Best Bluegrass Album,All The Rage - In Concert Volume One [Live],Rhonda Vincent And The Rage,"Rhonda Vincent And The Rage, producers; Joey Crawford & Joe Martino, engineers/mixers",False
+568,2017,Best Traditional Blues Album,Blue & Lonesome,The Rolling Stones,"Don Was, producer; Krish Sharma, engineer/mixer",True
+569,2017,Best Contemporary Blues Album,TajMo,Taj Mahal & Keb' Mo',"Taj Mahal & Keb' Mo', producers; Zach Allen, John Caldwell, Ross Hogarth & Casey Wasner, engineers/mixers",True
+570,2017,Best Folk Album,Mental Illness,Aimee Mann,"Paul Bryan, producer; Paul Bryan & Ryan Freeland, engineers/mixers",True
+571,2017,Best Regional Roots Music Album,Kalenda,Lost Bayou Ramblers,,True
+572,2017,Best Reggae Album,Stony Hill,"Damian ""Jr. Gong"" Marley","Damian ""Jr. Gong"" Marley, producer; Marc Lee & Gennaro ""Geronimo"" Schiano, engineers/mixers",True
+573,2017,Best World Music Album,Shaka Zulu Revisited: 30th Anniversary Celebration,Ladysmith Black Mambazo,"Mitch Goldstein & Ladysmith Black Mambazo, producers; Nonhlanhla Buthelezi & Mthandeni Mvelase, engineers/mixers",True
+574,2017,Best Children's Album,Feel What U Feel,Lisa Loeb,"Rich Jacques & Lisa Loeb, producers; Rich Jacques & Brian Yaskulka, engineers/mixers",True
+575,2017,"Best Spoken Word Album (Includes Poetry, Audio Books & Storytelling)",The Princess Diarist,Carrie Fisher,"Dan Zitt, producer; Nikki Banks Maurer, engineer/mixer",True
+576,2017,Best Comedy Album,The Age Of Spin & Deep In The Heart Of Texas,Dave Chappelle,"Rikki Hughes, Stan Lathan, Sina Sadighi, Carla Sims & Geof Wills, producers; Michael Abbott, engineer/mixer",True
+577,2017,Best Musical Theater Album,Dear Evan Hansen,,"Laura Dreyfuss, Mike Faist, Rachel Bay Jones, Kristolyn Lloyd, Michael Park, Ben Platt, Will Roland & Jennifer Laura Thompson, principal soloists; Benj Pasek & Justin Paul, composers/lyricists; Pete Ganbarg, Alex Lacamoire, Stacey Mindich, Benj Pasek & Justin Paul, producers; Neal Avron & Derik Lee, engineers/mixers (Original Broadway Cast Recording)",True
+578,2017,Best Compilation Soundtrack For Visual Media,La La Land,(Various Artists),"Justin Hurwitz & Marius de Vries, compilation producers; Steven Gizicki, music supervisor; Nicholai Baxter, engineer/mixer",True
+579,2017,Best Score Soundtrack For Visual Media,La La Land,,"Justin Hurwitz, composer; Justin Hurwitz, producer; Nicholai Baxter, engineer/mixer (Justin Hurwitz)",True
+580,2017,Best Song Written For Visual Media,How Far I'll Go,"Lin-Manuel Miranda, songwriter (Auli'i Cravalho)",,True
+581,2017,Best Instrumental Composition,Three Revolutions,,"Arturo O'Farrill, composer (Arturo O'Farrill & Chucho Valdés)",True
+582,2017,"Best Arrangement, Instrumental or A Cappella",Escapades For Alto Saxophone And Orchestra From Catch Me If You Can,,"John Williams, arranger (John Williams)",True
+583,2017,"Best Arrangement, Instruments and Vocals",Putin,,"Randy Newman, arranger (Randy Newman)",True
+584,2017,Best Recording Package,El Orisha De La Rosa,,"Carlos Dussán, Juliana Jaramillo, Juan Felipe Martínez & Claudio Roncoli, art directors (Magín Díaz)",True
+585,2017,Best Recording Package,Pure Comedy (Deluxe Edition),,"Sasha Barr, Ed Steed & Josh Tillman, art directors (Father John Misty)",False
+586,2017,Best Boxed Or Special Limited Edition Package,The Voyager Golden Record: 40th Anniversary Edition,,"Lawrence Azerrad, Timothy Daly & David Pescovitz, art directors (Various Artists)",True
+587,2017,Best Album Notes,Live At The Whisky A Go Go: The Complete Recordings,,"Lynell George, album notes writer (Otis Redding)",True
+588,2017,Best Historical Album,Leonard Bernstein - The Composer,,"Robert Russ, compilation producer; Martin Kistner & Andreas K. Meyer, mastering engineers (Leonard Bernstein)",True
+589,2017,"Best Engineered Album, Non-Classical",24K Magic,,"Serban Ghenea, John Hanes & Charles Moniz, engineers; Tom Coyne, mastering engineer (Bruno Mars)",True
+590,2017,"Producer Of The Year, Non-Classical",Greg Kurstin,,,True
+591,2017,Best Remixed Recording,You Move (Latroit Remix),(Depeche Mode),"Dennis White, remixer",True
+592,2017,Best Surround Sound Album,Early Americans,(Jane Ira Bloom),"Jim Anderson, surround mix engineer; Darcy Proper, surround mastering engineer; Jim Anderson & Jane Ira Bloom, surround producers",True
+593,2017,"Best Engineered Album, Classical",Shostakovich: Symphony No. 5; Barber: Adagio,,"Mark Donahue, engineer (Manfred Honeck & Pittsburgh Symphony Orchestra)",True
+594,2017,"Producer Of The Year, Classical",David Frost,,,True
+595,2017,Best Orchestral Performance,Shostakovich: Symphony No. 5; Barber: Adagio,,"Manfred Honeck, conductor; Dirk Sobotka, producer; Mark Donahue, engineer (Pittsburgh Symphony Orchestra)",True
+596,2017,Best Opera Recording,Berg: Wozzeck,,"Hans Graf, conductor; Hans Graf & Brad Sayles, producers; Anne Schwanewilms & Roman Trekel, soloists; Brad Sayles, engineer (Chorus Of Students And Alumni, Shepherd School Of Music, Rice University & Houston Grand Opera Children's Chorus; Houston Symphony)",True
+597,2017,Best Choral Performance,Bryars: The Fifth Century,,"Donald Nally, conductor; Andreas K. Meyer & Paul Vazquez, engineers (The Crossing; PRISM Quartet)",True
+598,2017,Best Chamber Music/Small Ensemble Performance,Death & The Maiden,,"Patricia Kopatchinskaja, conductor/soloist; The Saint Paul Chamber Orchestra; Blanton Alspaugh, producer; John Newton, engineer; Mark Donahue, engineer/mixer",True
+599,2017,Best Classical Instrumental Solo,Transcendental,,"Daniil Trifonov; Sid McLauchlan, producer; Marcus Herzog, engineer",True
+600,2017,Best Classical Solo Vocal Album,Crazy Girl Crazy,,"Barbara Hannigan, soloist; Guido Tichelman, producer; Bastiaan Kuijt, engineer (Ludwig Orchestra)",True
+601,2017,Best Classical Compendium,"Higdon: All Things Majestic, Viola Concerto & Oboe Concerto",,"Giancarlo Guerrero, conductor; Tim Handley, producer; Gary Call, engineer",True
+602,2017,Best Contemporary Classical Composition,Viola Concerto,,"Jennifer Higdon, composer (Roberto Díaz, Giancarlo Guerrero & Nashville Symphony)",True
+603,2017,Best Music Video,HUMBLE.,Kendrick Lamar,"Dave Meyers & The Little Homies, video directors; Jason Baum, Dave Free, Jamie Rabineau, Nathan K. Scherrer & Anthony Tiffith, video producers",True
+604,2017,Best Music Film,The Defiant Ones,(Various Artists),"Allen Hughes, video director; Sarah Anthony, Fritzi Horstman, Broderick Johnson, Gene Kirkwood, Andrew Kosove, Laura Lancaster, Michael Lombardo, Jerry Longarzo, Doug Pray & Steven Williams, video producers",True
+605,2016,Record Of The Year,Hello,Adele,"Greg Kurstin, producer; Julian Burg, Tom Elmhirst, Emile Haynie, Greg Kurstin, Liam Nolan, Alex Pasco & Joe Visciano, engineers/mixers; Tom Coyne & Randy Merrill, mastering engineers",True
+606,2016,Album Of The Year,25,Adele,"Danger Mouse, Samuel Dixon, Paul Epworth, Greg Kurstin, Max Martin, Ariel Rechtshaid, Shellback, Ryan Tedder & The Smeezingtons (Christopher ""Brody"" Brown, Philip Lawrence & Bruno Mars), producers; Julian Burg, Austen Jux Chandler, Cameron Craig, Samuel Dixon, Tom Elmhirst, Declan Gaffney, Serban Ghenea, John Hanes, Emile Haynie, Jan Holzner, Michael Ilbert, Chris Kasych, Greg Kurstin, Charles Moniz, Liam Nolan, Alex Pasco, Mike Piersante, Ariel Rechtshaid, Rich Rich, Dave Schiffman, Joe Visciano & Matt Wiggins, engineers/mixers; Tom Coyne & Randy Merrill, mastering engineers",True
+607,2016,Song Of The Year,Hello,,"Adele Adkins & Greg Kurstin, songwriters (Adele)",True
+608,2016,Best New Artist,Chance The Rapper,,,True
+609,2016,Best Pop Solo Performance,Hello,Adele,,True
+610,2016,Best Pop Duo/Group Performance,Stressed Out,Twenty One Pilots,,True
+611,2016,Best Traditional Pop Vocal Album,Summertime: Willie Nelson Sings Gershwin,Willie Nelson,"Buddy Cannon & Matt Rollings, producers; Ed Cherney, engineer/mixer",True
+612,2016,Best Pop Vocal Album,25,Adele,"Tom Elmhirst, engineer/mixer",True
+613,2016,Best Dance Recording,Don't Let Me Down,The Chainsmokers Featuring Daya,"The Chainsmokers (Alex Pall & Andrew Taggart), producers; Jordan Young, mixer",True
+614,2016,Best Dance/Electronic Album,Skin,Flume,"Flume, producer; Eric J Dubowsky & Flume, engineers/mixers",True
+615,2016,Best Contemporary Instrumental Album,Culcha Vulcha,Snarky Puppy,"Nic Hard, engineer/mixer",True
+616,2016,Best Rock Performance,Blackstar,David Bowie,,True
+617,2016,Best Metal Performance,Dystopia,Megadeth,,True
+618,2016,Best Rock Song,Blackstar,,"David Bowie, songwriter (David Bowie)",True
+619,2016,Best Rock Album,Tell Me I'm Pretty,Cage The Elephant,"Dan Auerbach, producer; Collin Dupuis & Tom Elmhirst, engineers/mixers",True
+620,2016,Best Alternative Music Album,Blackstar,David Bowie,"David Bowie & Tony Visconti, producers; Tom Elmhirst & Kevin Killen, engineers/mixers",True
+621,2016,Best R&B Performance,Cranes In The Sky,Solange,,True
+622,2016,Best Traditional R&B Performance,Angel,Lalah Hathaway,,True
+623,2016,Best R&B Song,Lake By The Ocean,,"Hod David & Musze, songwriters (Maxwell)",True
+624,2016,Best Urban Contemporary Album,Lemonade,Beyoncé,"Beyoncé, producer; Stuart White, engineer/mixer",True
+625,2016,Best R&B Album,Lalah Hathaway Live,Lalah Hathaway,"Lalah Hathaway, producer; Anthony Jeffries, Coobie Lewis & Brian Vibberts, engineers/mixers",True
+626,2016,Best Rap Performance,No Problem,Chance The Rapper Featuring Lil Wayne & 2 Chainz,,True
+627,2016,Best Rap/Sung Performance,Hotline Bling,Drake,,True
+628,2016,Best Rap Song,Hotline Bling,,"Aubrey Graham & Paul Jefferies, songwriters (Drake)",True
+629,2016,Best Rap Album,Coloring Book,Chance The Rapper,"Jeff Lane, engineer/mixer",True
+630,2016,Best Country Solo Performance,My Church,Maren Morris,,True
+631,2016,Best Country Duo/Group Performance,Jolene,Pentatonix Featuring Dolly Parton,,True
+632,2016,Best Country Song,Humble And Kind,,"Lori McKenna, songwriter (Tim McGraw)",True
+633,2016,Best Country Album,A Sailor's Guide To Earth,Sturgill Simpson,"Sturgill Simpson, producer; David Ferguson & Sean Sullivan, engineers/mixers",True
+634,2016,Best New Age Album,White Sun II,White Sun,,True
+635,2016,Best Improvised Jazz Solo,I’m So Lonesome I Could Cry,,"John Scofield, soloist",True
+636,2016,Best Jazz Vocal Album,Take Me To The Alley,Gregory Porter,"Kamau Kenyatta & Gregory Porter, producers; Jay Newland & Charlie Paakkari, engineers/mixers",True
+637,2016,Best Jazz Instrumental Album,Country For Old Men,John Scofield,"John Scofield, producer; Jay Newland, engineer/mixer",True
+638,2016,Best Large Jazz Ensemble Album,Presidential Suite: Eight Variations On Freedom,Ted Nash Big Band,"Douglas Brinkley, Herschel Garfein & Kabir Sehgal, producers; Rob Macomber, engineer/mixer",True
+639,2016,Best Latin Jazz Album,Tribute To Irakere: Live In Marciac,Chucho Valdés,"Chucho Valdés, producer; Orestes Águila, engineer/mixer",True
+640,2016,Best Gospel Performance/Song,God Provides,,"Tamela Mann; Kirk Franklin, songwriter",True
+641,2016,Best Contemporary Christian Music Performance/Song,Thy Will,,"Hillary Scott & The Scott Family; Bernie Herms, Hillary Scott & Emily Weisband, songwriters",True
+642,2016,Best Gospel Album,Losing My Religion,Kirk Franklin,"Kirk Franklin, Ronald Hill, Shaun Martin & Max Stark, producers; Rob Chiarelli & Tre Nagella, engineers/mixers",True
+643,2016,Best Contemporary Christian Music Album,Love Remains,Hillary Scott & The Scott Family,"Ricky Skaggs, producer; Richie Biggs, engineer/mixer",True
+644,2016,Best Roots Gospel Album,Hymns,Joey+Rory,"Joe West, producer; Joshua Craig, Jim DeBlanc, James Ennis, Daniel Grace, Rob Lane & Joe West, engineers/mixers",True
+645,2016,Best Latin Pop Album,Un Besito Más,Jesse & Joy,"Eduardo De La Paz Canel, engineer/mixer",True
+646,2016,"Best Latin Rock, Urban or Alternative Album",iLevitable,iLe,"Ismael Cancel & iLe, producers; Noah Georgeson, Ramón Martínez, Harold Wendell Sanders & Carlos Velázquez, engineers/mixers",True
+647,2016,Best Regional Mexican Music Album (Including Tejano),"Un Azteca En El Azteca, Vol. 1 (En Vivo)",Vicente Fernández,"Gustavo Borner & Javier Ramírez, producers; Gustavo Borner & Javier Ramírez, engineers/mixers",True
+648,2016,Best Tropical Latin Album,Donde Están?,Jose Lugo & Guasábara Combo,"Gilberto A. Cádenas, producer; Manuel Calero, JoseMa Lugo & Ronnie Torres, engineers/mixers",True
+649,2016,Best American Roots Performance,House Of Mercy,Sarah Jarosz,,True
+650,2016,Best American Roots Song,Kid Sister,,"Vince Gill, songwriter (The Time Jumpers)",True
+651,2016,Best Americana Album,This Is Where I Live,William Bell,"John Leventhal, producer; Rick DePofi & John Leventhal, engineers/mixers",True
+652,2016,Best Bluegrass Album,Coming Home,O'Connor Band With Mark O'Connor,"Gregg Field, producer; Neal Cappellino & Gregg Field, engineers/mixers",True
+653,2016,Best Traditional Blues Album,Porcupine Meat,Bobby Rush,"Scott Billington, producer; Steve Reynolds, engineer/mixer",True
+654,2016,Best Contemporary Blues Album,The Last Days Of Oakland,Fantastic Negrito,"Fantastic Negrito, producer; Migui Maloles, Jabari Tawiah & Matt Winegar, engineers/mixers",True
+655,2016,Best Folk Album,Undercurrent,Sarah Jarosz,"Sarah Jarosz & Gary Paczosa, producers; Shani Gandhi & Gary Paczosa, engineers/mixers",True
+656,2016,Best Regional Roots Music Album,E Walea,Kalani Pe'a,"Allan B. Cool, Kamakoa Lindsey-Asing & Dave Tucciarone, producers; Kamakoa Lindsey-Asing & Dave Tucciarone, engineers/mixers",True
+657,2016,Best Reggae Album,Ziggy Marley,Ziggy Marley,"Ziggy Marley, producer; Carlos de la Garza, engineer/mixer",True
+658,2016,Best World Music Album,Sing Me Home,Yo-Yo Ma & The Silk Road Ensemble,"Kevin Killen, producer; Jody Elff & Kevin Killen, engineers/mixers",True
+659,2016,Best Children's Album,Infinity Plus One,Secret Agent 23 Skidoo,"Secret Agent 23 Skidoo, producer; Julian Dreyer & Spencer Williams, engineers/mixers",True
+660,2016,"Best Spoken Word Album (Includes Poetry, Audio Books & Storytelling)","In Such Good Company: Eleven Years Of Laughter, Mayhem, And Fun In The Sandbox",Carol Burnett,"Aaron Blank, producer; Dominic Camardella, engineer/mixer",True
+661,2016,Best Comedy Album,Talking For Clapping,Patton Oswalt,"Matt Belknap & Ryan McManemin, producers",True
+662,2016,Best Musical Theater Album,The Color Purple,,"Danielle Brooks, Cynthia Erivo & Jennifer Hudson, principal soloists; Stephen Bray, Van Dean, Frank Filipetti, Roy Furman, Joan Raffe, Scott Sanders & Jhett Tolentino, producers; Frank Filipetti, engineer/mixer (New Broadway Cast)",True
+663,2016,Best Compilation Soundtrack For Visual Media,Miles Ahead,(Miles Davis) & Various Artists,"Steve Berkowitz, Don Cheadle & Robert Glasper, compilation producers; Ed Gerrard, music supervisor",True
+664,2016,Best Score Soundtrack For Visual Media,Star Wars: The Force Awakens,,"John Williams, composer; John Williams, producer; Shawn Murphy, engineer/mixer (John Williams)",True
+665,2016,Best Song Written For Visual Media,Can't Stop The Feeling!,"Max Martin, Shellback & Justin Timberlake, songwriters (Justin Timberlake, Anna Kendrick, Gwen Stefani, James Corden, Zooey Deschanel, Walt Dohrn, Ron Funches, Caroline Hjelt, Aino Jawo, Christopher Mintz-Plasse & Kunal Nayyar)",,True
+666,2016,Best Instrumental Composition,Spoken At Midnight,,"Ted Nash, composer (Ted Nash Big Band)",True
+667,2016,"Best Arrangement, Instrumental or A Cappella",You And I,,"Jacob Collier, arranger (Jacob Collier)",True
+668,2016,"Best Arrangement, Instruments and Vocals",Flintstones,,"Jacob Collier, arranger (Jacob Collier)",True
+669,2016,Best Recording Package,Blackstar,,"Jonathan Barnbrook, art director (David Bowie)",True
+670,2016,Best Boxed Or Special Limited Edition Package,Edith Piaf 1915-2015,,"Gérard Lo Monaco, art director (Edith Piaf)",True
+671,2016,Best Album Notes,Sissle And Blake Sing Shuffle Along,,"Ken Bloom & Richard Carlin, album notes writers (Eubie Blake & Noble Sissle)",True
+672,2016,Best Historical Album,"The Cutting Edge 1965-1966: The Bootleg Series, Vol.12 (Collector's Edition)",,"Steve Berkowitz & Jeff Rosen, compilation producers; Mark Wilder, mastering engineer (Bob Dylan)",True
+673,2016,"Best Engineered Album, Non-Classical",Blackstar,,"David Bowie, Tom Elmhirst, Kevin Killen & Tony Visconti, engineers; Joe LaPorta, mastering engineer (David Bowie)",True
+674,2016,"Producer Of The Year, Non-Classical",Greg Kurstin,,,True
+675,2016,Best Remixed Recording,Tearing Me Up (RAC Remix),,"André Allen Anjos, remixer (Bob Moses)",True
+676,2016,Best Surround Sound Album,"Dutilleux: Sur Le Même Accord; Les Citations; Mystère De L'instant & Timbres, Espace, Mouvement",,"Alexander Lipay & Dmitriy Lipay, surround mix engineers; Dmitriy Lipay, surround mastering engineer; Dmitriy Lipay, surround producer (Ludovic Morlot & Seattle Symphony)",True
+677,2016,"Best Engineered Album, Classical",Corigliano: The Ghosts Of Versailles,,"Mark Donahue, Fred Vogler & David L Williams, engineers (James Conlon, Guanqun Yu, Joshua Guerrero, Patricia Racette, Christopher Maltman, Lucy Schaufer, Lucas Meachem, LA Opera Chorus & Orchestra)",True
+678,2016,"Producer Of The Year, Classical",David Frost,,,True
+679,2016,Best Orchestral Performance,"Shostakovich: Under Stalin's Shadow - Symphonies Nos. 5, 8 & 9",,"Andris Nelsons, conductor; Shawn Murphy, producer; Nick Squire, engineer (Boston Symphony Orchestra)",True
+680,2016,Best Opera Recording,Corigliano: The Ghosts Of Versailles,,"James Conlon, conductor; Blanton Alspaugh, producer; Joshua Guerrero, Christopher Maltman, Lucas Meachem, Patricia Racette, Lucy Schaufer & Guanqun Yu, soloists; Mark Donahue, Fred Vogler & David L Williams, engineers (LA Opera Chorus; LA Opera Orchestra)",True
+681,2016,Best Choral Performance,"Penderecki Conducts Penderecki, Volume 1",,"Krzysztof Penderecki, conductor (Nikolay Didenko, Agnieszka Rehlis & Johanna Rusanen; Warsaw Philharmonic Choir; Warsaw Philharmonic Orchestra)",True
+682,2016,Best Chamber Music/Small Ensemble Performance,Steve Reich,,"Jesse Lewis, producer; Third Coast Percussion (Sean Connors, Robert Dillon, Peter Martin & David Skidmore), ensembles; Dan Nichols, engineer",True
+683,2016,Best Classical Instrumental Solo,Daugherty: Tales Of Hemingway,,"Zuill Bailey; Giancarlo Guerrero, conductor (Nashville Symphony)",True
+684,2016,Best Classical Solo Vocal Album,Schumann & Berg,,"Dorothea Röschmann, soloist; Everett Porter, producer",True
+685,2016,Best Classical Solo Vocal Album,Shakespeare Songs,,"Ian Bostridge, soloist; John Fraser, producer; Philip Siney, engineer",False
+686,2016,Best Classical Compendium,Daugherty: Tales Of Hemingway; American Gothic; Once Upon A Castle,,"Giancarlo Guerrero, conductor; Tim Handley, producer; Gary Call, engineer (Giancarlo Guerrero)",True
+687,2016,Best Contemporary Classical Composition,Daugherty: Tales Of Hemingway,,"Michael Daugherty, composer",True
+688,2016,Best Music Video,Formation,Beyoncé,"Melina Matsoukas, video director; Nathan Scherrer, video producer",True
+689,2016,Best Music Film,The Beatles: Eight Days A Week The Touring Years,The Beatles,"Ron Howard, video director; Brian Grazer, Ron Howard, Scott Pascucci & Nigel Sinclair, video producers",True
+690,2015,Record Of The Year,Uptown Funk,Mark Ronson Featuring Bruno Mars,"Jeff Bhasker, Philip Lawrence, Bruno Mars & Mark Ronson, producers; Josh Blair, Riccardo Damian, Serban Ghenea, Wayne Gordon, John Hanes, Inaam Haq, Boo Mitchell, Charles Moniz & Mark Ronson, engineers/mixers; Tom Coyne, mastering engineer",True
+691,2015,Album Of The Year,1989,Taylor Swift,"Jack Antonoff, Nathan Chapman, Imogen Heap, Max Martin, Mattman & Robin, Ali Payami, Shellback, Taylor Swift, Ryan Tedder & Noel Zancanella, producers; Jack Antonoff, Mattias Bylund, Smith Carlson, Nathan Chapman, Serban Ghenea, John Hanes, Imogen Heap, Sam Holland, Michael Ilbert, Brendan Morawski, Laura Sisk & Ryan Tedder, engineers/mixers; Tom Coyne, mastering engineer",True
+692,2015,Song Of The Year,Thinking Out Loud,,"Ed Sheeran & Amy Wadge, songwriters (Ed Sheeran)",True
+693,2015,Best New Artist,Meghan Trainor,,,True
+694,2015,Best Pop Solo Performance,Thinking Out Loud,Ed Sheeran,,True
+695,2015,Best Pop Duo/Group Performance,Uptown Funk,Mark Ronson Featuring Bruno Mars,,True
+696,2015,Best Traditional Pop Vocal Album,The Silver Lining: The Songs Of Jerome Kern,Tony Bennett & Bill Charlap,"Dae Bennett & Bill Charlap, producers",True
+697,2015,Best Pop Vocal Album,1989,Taylor Swift,"Max Martin & Shellback, producers",True
+698,2015,Best Dance Recording,Where Are Ü Now,Skrillex And Diplo With Justin Bieber,"Sonny Moore & Thomas Pentz, producers; Sonny Moore & Thomas Pentz, mixers",True
+699,2015,Best Dance/Electronic Album,Skrillex And Diplo Present Jack Ü,Skrillex And Diplo,"Diplo & Skrillex, producers",True
+700,2015,Best Contemporary Instrumental Album,Sylva,Snarky Puppy & Metropole Orkest,,True
+701,2015,Best Rock Performance,Don't Wanna Fight,Alabama Shakes,,True
+702,2015,Best Metal Performance,Cirice,Ghost,,True
+703,2015,Best Rock Song,Don't Wanna Fight,,"Alabama Shakes (Zac Cockrell, Heath Fogg, Brittany Howard & Steve Johnson), songwriters (Alabama Shakes)",True
+704,2015,Best Rock Album,Drones,Muse,"Robert John ""Mutt"" Lange & Muse (Matthew Bellamy, Dominic Howard & Chris Wolstenholme), producers",True
+705,2015,Best Alternative Music Album,Sound & Color,Alabama Shakes,"Alabama Shakes (Zac Cockrell, Heath Fogg, Brittany Howard & Steve Johnson) & Blake Mills, producers",True
+706,2015,Best R&B Performance,Earned It (Fifty Shades Of Grey),The Weeknd,,True
+707,2015,Best Traditional R&B Performance,Little Ghetto Boy,Lalah Hathaway,,True
+708,2015,Best R&B Song,Really Love,,"D'Angelo, Gina Figueroa & Kendra Foster, songwriters (D'Angelo And The Vanguard)",True
+709,2015,Best Urban Contemporary Album,Beauty Behind The Madness,The Weeknd,"Carlo ""Illangelo"" Montagnese & The Weeknd, producers",True
+710,2015,Best R&B Album,Black Messiah,D'Angelo And The Vanguard,,True
+711,2015,Best Rap Performance,Alright,Kendrick Lamar,,True
+712,2015,Best Rap/Sung Collaboration,These Walls,"Kendrick Lamar Featuring Bilal, Anna Wise & Thundercat",,True
+713,2015,Best Rap Song,Alright,,"Kendrick Duckworth, Kawan Prather, Mark Anthony Spears & Pharrell Williams, songwriters (Kendrick Lamar)",True
+714,2015,Best Rap Album,To Pimp A Butterfly,Kendrick Lamar,,True
+715,2015,Best Country Solo Performance,Traveller,Chris Stapleton,,True
+716,2015,Best Country Duo/Group Performance,Girl Crush,Little Big Town,,True
+717,2015,Best Country Song,Girl Crush,,"Hillary Lindsey, Lori McKenna & Liz Rose, songwriters (Little Big Town)",True
+718,2015,Best Country Album,Traveller,Chris Stapleton,"Dave Cobb & Chris Stapleton, producers",True
+719,2015,Best New Age Album,Grace,Paul Avgerinos,"Paul Avgerinos, producer",True
+720,2015,Best Improvised Jazz Solo,Cherokee,,"Christian McBride, soloist",True
+721,2015,Best Jazz Vocal Album,For One To Love,Cécile McLorin Salvant,"Al Pryor, producer",True
+722,2015,Best Jazz Instrumental Album,Past Present,John Scofield,"John Scofield, producer",True
+723,2015,Best Large Jazz Ensemble Album,The Thompson Fields,Maria Schneider Orchestra,"Ryan Truesdell, producer",True
+724,2015,Best Latin Jazz Album,Made In Brazil,Eliane Elias,"Eliane Elias, Marc Johnson & Steve Rodby, producers",True
+725,2015,Best Gospel Performance/Song,Wanna Be Happy?,,"Kirk Franklin; Kirk Franklin, songwriter",True
+726,2015,Best Contemporary Christian Music Performance/Song,Holy Spirit,,Francesca Battistelli,True
+727,2015,Best Gospel Album,Covered: Alive In Asia [Live],Israel & NewBreed,"Chris Baker, Kevin Camp & Aaron Lindsey, producers; Danny Duncan & Henry Seeley, engineers/mixers",True
+728,2015,Best Contemporary Christian Music Album,This Is Not A Test,Tobymac,"David Garcia, Christopher Stevens & Tobymac, producers; Bryan Fowler, engineer/mixer",True
+729,2015,Best Roots Gospel Album,Still Rockin' My Soul,The Fairfield Four,"Lee Olsen & The Fairfield Four (Levert Allison, Bobbye Sherrell, Larrice Byrd, Sr. & Joe Thompson), producers; Brandon Perdue, engineer/mixer",True
+730,2015,Best Latin Pop Album,A Quien Quiera Escuchar  (Deluxe Edition),Ricky Martin,"Julio Reyes Copello, producer; Luis Barrera Jr., Julio Reyes Copello, Javier Garza, Ricardo López Laliinde, Enrique Larreal & Carlos Fernando Lopez, engineers",True
+731,2015,"Best Latin Rock, Urban or Alternative Album",Hasta La Raíz,Natalia Lafourcade,"Natalia Lafourcade, producer; Andrés Borda, Eduardo Del Águila, Alan Ortiz Grande, Demián Nava, Alan Saucedo & Sebastián Schunt, engineers",True
+732,2015,"Best Latin Rock, Urban or Alternative Album",Dale,Pitbull,"José C. Garcia & Jorge Gomez, producers; Al Burna, engineer",False
+733,2015,Best Regional Mexican Music Album (Including Tejano),Realidades - Deluxe Edition,Los Tigres Del Norte,"Los Tigres Del Norte, producer",True
+734,2015,Best Tropical Latin Album,Son De Panamá,Rubén Blades Con Roberto Delgado & Orquesta,"Robert Delgado, producer; Pablo Governatori & Ignacio ""Nacho"" Molina, engineers",True
+735,2015,Best American Roots Performance,See That My Grave Is Kept Clean,Mavis Staples,,True
+736,2015,Best American Roots Song,24 Frames,,"Jason Isbell, songwriter (Jason Isbell)",True
+737,2015,Best Americana Album,Something More Than Free,Jason Isbell,"Dave Cobb, producer",True
+738,2015,Best Bluegrass Album,The Muscle Shoals Recordings,The Steeldrivers,"The Steeldrivers, producer",True
+739,2015,Best Blues Album,Born To Play Guitar,Buddy Guy,"Tom Hambridge, producer",True
+740,2015,Best Folk Album,Béla Fleck And Abigail Washburn,Béla Fleck & Abigail Washburn,"Béla Fleck & Abigail Washburn, producers; Richard Battaglia & Béla Fleck, engineers",True
+741,2015,Best Regional Roots Music Album,Go Go Juice,Jon Cleary,"Jon Cleary & John Porter, producers; Tony Daigle, Mike Dorsey & John Porter, engineers",True
+742,2015,Best Reggae Album,Strictly Roots,Morgan Heritage,"Morgan Heritage, producer",True
+743,2015,Best World Music Album,Sings,Angelique Kidjo,"Jean Hébrail & Angelique Kidjo, producers",True
+744,2015,Best Children's Album,Home,Tim Kubart,"Dominic Fallacaro, producer",True
+745,2015,"Best Spoken Word Album (Includes Poetry, Audio Books & Storytelling)",A Full Life: Reflections at Ninety,Jimmy Carter,"Elisa Shokoff, producer",True
+746,2015,Best Comedy Album,Live At Madison Square Garden,Louis C.K.,"Dave Becky, Mike Berkowitz & M. Blair Breard, producers",True
+747,2015,Best Musical Theater Album,Hamilton,,"Daveed Diggs, Renée Elise Goldsberry, Jonathan Groff, Christopher Jackson, Jasmine Cephas Jones, Leslie Odom, Jr., Lin-Manuel Miranda, Okieriete Onaodowan, Anthony Ramos & Phillipa Soo, principal soloists; Lin-Manuel Miranda, composer & lyricist; Alex Lacamoire, Lin-Manuel Miranda, Bill Sherman, Ahmir Thompson & Tarik Trotter, producers; Tim Latham & Derik Lee, engineers (Original Broadway Cast)",True
+748,2015,Best Compilation Soundtrack For Visual Media,Glen Campbell: I'll Be Me,(Various Artists),"Julian Raymond, compilation producer; Jeff Pollack, music supervisor",True
+749,2015,Best Score Soundtrack For Visual Media,Birdman,,"Antonio Sanchez, composer; Alejandro González Iñárritu & Antonio Sanchez, producers (Antonio Sanchez)",True
+750,2015,Best Song Written For Visual Media,Glory,"Lonnie Lynn, Che Smith & John Stephens, songwriters (Common & John Legend)",,True
+751,2015,Best Instrumental Composition,The Afro Latin Jazz Suite,,"Arturo O'Farrill, composer (Arturo O'Farrill & The Afro Latin Jazz Orchestra Featuring Rudresh Mahanthappa)",True
+752,2015,"Best Arrangement, Instrumental or A Cappella",Dance Of The Sugar Plum Fairy,,"Ben Bram & Pentatonix (Mitch Grassi, Scott Hoying, Avi Kaplan, Kirstin Maldonado & Kevin Olusola), arrangers (Pentatonix)",True
+753,2015,"Best Arrangement, Instruments and Vocals",Sue (Or In A Season Of Crime),,"Maria Schneider, arranger (David Bowie)",True
+754,2015,Best Recording Package,Still The King: Celebrating The Music Of Bob Wills And His Texas Playboys,,"Sarah Dodds, Shauna Dodds & Dick Reeves, art directors (Asleep At The Wheel)",True
+755,2015,Best Boxed Or Special Limited Edition Package,"The Rise & Fall Of Paramount Records, Volume Two (1928-32)",,"Susan Archie, Dean Blackwood & Jack White, art directors (Various Artists)",True
+756,2015,Best Album Notes,"Love Has Many Faces: A Quartet, A Ballet, Waiting To Be Danced",,"Joni Mitchell, album notes writer (Joni Mitchell)",True
+757,2015,Best Historical Album,The Basement Tapes Complete: The Bootleg Series Vol. 11,,"Steve Berkowitz, Jan Haust & Jeff Rosen, compilation producers; Peter J. Moore & Mark Wilder, mastering engineers (Bob Dylan And The Band)",True
+758,2015,"Best Engineered Album, Non-Classical",Sound & Color,,"Shawn Everett, engineer; Bob Ludwig, mastering engineer (Alabama Shakes)",True
+759,2015,"Producer Of The Year, Non-Classical",Jeff Bhasker,,,True
+760,2015,Best Remixed Recording,Uptown Funk (Dave Audé Remix),,"Dave Audé, remixer (Mark Ronson Featuring Bruno Mars)",True
+761,2015,Best Surround Sound Album,Amused To Death,,"James Guthrie, surround mix engineer; James Guthrie & Joel Plante, surround mastering engineers; James Guthrie, surround producer (Roger Waters)",True
+762,2015,"Best Engineered Album, Classical",Ask Your Mama,,"Leslie Ann Jones, John Kilgore, Nora Kroll-Rosenbaum & Justin Merrill, engineers; Patricia Sullivan, mastering engineer (George Manahan & San Francisco Ballet Orchestra)",True
+763,2015,"Producer Of The Year, Classical",Judith Sherman,,,True
+764,2015,Best Orchestral Performance,Shostakovich: Under Stalin's Shadow - Symphony No. 10,,"Andris Nelsons, conductor; Shawn Murphy, producer; Nick Squire, engineer (Boston Symphony Orchestra)",True
+765,2015,Best Opera Recording,Ravel: L'Enfant Et Les Sortilèges; Shéhérazade,,"Seiji Ozawa, conductor; Dominic Fyfe, producer; Isabel Leonard, soloist; Jonathan Stokes, engineer (SKF Matsumoto Children's Chorus & SKF Matsumoto Chorus; Saito Kinen Orchestra)",True
+766,2015,Best Choral Performance,Rachmaninoff: All-Night Vigil,,"Charles Bruffy, conductor; Blanton Alspaugh, producer; Byeong Joon Hwang & John Newton, engineers (Paul Davidson, Frank Fleschner, Toby Vaughn Kidd, Bryan Pinkall, Julia Scozzafava, Bryan Taylor & Joseph Warner; Kansas City Chorale & Phoenix Chorale)",True
+767,2015,Best Chamber Music/Small Ensemble Performance,Filament,,"Bryce Dessner, producer; Jonathan Low, engineer",True
+768,2015,Best Classical Instrumental Solo,"Dutilleux: Violin Concerto, L'Arbre Des Songes",,"Augustin Hadelich; Ludovic Morlot, conductor (Seattle Symphony)",True
+769,2015,Best Classical Solo Vocal Album,Joyce & Tony - Live From Wigmore Hall,,"Joyce DiDonato, soloist; Stephen Johns, producer; Jonathan Allen, engineer",True
+770,2015,Best Classical Compendium,Paulus: Three Places Of Enlightenment; Veil Of Tears & Grand Concerto,,"Giancarlo Guerrero, conductor; Tim Handley, producer; Gary Call, engineer (Giancarlo Guerrero)",True
+771,2015,Best Contemporary Classical Composition,Paulus: Prayers & Remembrances,,"Stephen Paulus, composer",True
+772,2015,Best Music Video,Bad Blood,Taylor Swift Featuring Kendrick Lamar,"Joseph Kahn, video director; Ron Mohrhoff, video producer",True
+773,2015,Best Music Film,Amy,Amy Winehouse,"Asif Kapadia, video director; James Gay-Rees, video producer",True
+774,2014,Record Of The Year,Stay With Me (Darkchild Version),Sam Smith,"Steve Fitzmaurice, Rodney Jerkins & Jimmy Napes, producers; Matthew Champlin, Steve Fitzmaurice, Jimmy Napes & Steve Price, engineers/mixers; Tom Coyne, mastering engineer",True
+775,2014,Album Of The Year,Morning Phase,Beck,"Beck Hansen, producer; Drew Brown, Tom Elmhirst, David Greenbaum, Cole Marsden Greif-Neill, Florian Lagatta, Robbie Nelson, Darrell Thorp, Cassidy Turbin & Joe Visciano, engineers/mixers; Bob Ludwig, mastering engineer",True
+776,2014,Song Of The Year,Stay With Me (Darkchild Version),,"James Napier, William Phillips & Sam Smith, songwriters (Sam Smith)",True
+777,2014,Best New Artist,Sam Smith,,,True
+778,2014,Best Pop Solo Performance,Happy (Live),Pharrell Williams,,True
+779,2014,Best Pop Duo/Group Performance,Say Something,A Great Big World With Christina Aguilera,,True
+780,2014,Best Traditional Pop Vocal Album,Cheek To Cheek,Tony Bennett & Lady Gaga,"Dae Bennett, producer; Dae Bennett, engineer/mixer",True
+781,2014,Best Pop Vocal Album,In The Lonely Hour,Sam Smith,"Jimmy Napes, producer; Steve Fitzmaurice, engineer/mixer",True
+782,2014,Best Dance Recording,Rather Be,Clean Bandit Featuring Jess Glynne,"Grace Chatto & Jack Patterson, producers; Wez Clarke & Jack Patterson, mixers",True
+783,2014,Best Dance/Electronic Album,Syro,Aphex Twin,"Aphex Twin, producer",True
+784,2014,Best Contemporary Instrumental Album,Bass & Mandolin,Chris Thile & Edgar Meyer,"Edgar Meyer & Chris Thile, producers; Richard King & Dave Sinko, engineers/mixers",True
+785,2014,Best Rock Performance,Lazaretto,Jack White,,True
+786,2014,Best Metal Performance,The Last In Line,Tenacious D,,True
+787,2014,Best Rock Song,Ain't It Fun,,"Hayley Williams & Taylor York, songwriters (Paramore)",True
+788,2014,Best Rock Album,Morning Phase,Beck,"Beck Hansen, producer; Drew Brown, Tom Elmhirst, David Greenbaum, Cole Marsden Greif-Neill, Florian Lagatta, Robbie Nelson, Darrell Thorp, Cassidy Turbin & Joe Visciano, engineers/mixers",True
+789,2014,Best Alternative Music Album,St. Vincent,St. Vincent,"John Congleton, producer; John Congleton, engineer/mixer",True
+790,2014,Best R&B Performance,Drunk In Love,Beyoncé Featuring Jay Z,,True
+791,2014,Best Traditional R&B Performance,Jesus Children,Robert Glasper Experiment Featuring Lalah Hathaway & Malcolm-Jamal Warner,,True
+792,2014,Best R&B Song,Drunk In Love,,"Shawn Carter, Rasool Diaz, Noel Fisher, Jerome Harmon, Beyoncé Knowles, Timothy Mosley, Andre Eric Proctor & Brian Soko, songwriters (Beyoncé Featuring Jay Z)",True
+793,2014,Best Urban Contemporary Album,Girl,Pharrell Williams,"Pharrell Williams, producer; Andrew Coleman, Mick Guzauski & Mike Larson, engineers/mixers",True
+794,2014,Best R&B Album,"Love, Marriage & Divorce",Toni Braxton & Babyface,"Babyface, producer; Paul Boutin, engineer/mixer",True
+795,2014,Best Rap Performance,I,Kendrick Lamar,,True
+796,2014,Best Rap/Sung Collaboration,The Monster,Eminem Featuring Rihanna,,True
+797,2014,Best Rap Song,I,,"K. Duckworth, Ronald Isley & C. Smith, songwriters (Kendrick Lamar)",True
+798,2014,Best Rap Album,The Marshall Mathers LP2,Eminem,"Tony Campana, Joe Strange & Mike Strange, engineers/mixers",True
+799,2014,Best Country Solo Performance,Something In The Water,Carrie Underwood,,True
+800,2014,Best Country Duo/Group Performance,Gentle On My Mind,The Band Perry,,True
+801,2014,Best Country Song,I'm Not Gonna Miss You,,"Glen Campbell & Julian Raymond, songwriters (Glen Campbell)",True
+802,2014,Best Country Album,Platinum,Miranda Lambert,"Chuck Ainlay, Frank Liddell & Glenn Worf, producers; Chuck Ainlay, engineer/mixer",True
+803,2014,Best New Age Album,Winds Of Samsara,Ricky Kej & Wouter Kellerman,"Ricky Kej & Wouter Kellerman, producers; Ricky Kej & Wouter Kellerman, engineers/mixers",True
+804,2014,Best Improvised Jazz Solo,Fingerprints,,"Chick Corea, soloist",True
+805,2014,Best Jazz Vocal Album,Beautiful Life,Dianne Reeves,"Terri Lyne Carrington, producer; Jeremy Loucas, engineer/mixer",True
+806,2014,Best Jazz Instrumental Album,Trilogy,Chick Corea Trio,"Bernie Kirsh & Brian Vibberts, engineers/mixers",True
+807,2014,Best Large Jazz Ensemble Album,Life In The Bubble,Gordon Goodwin's Big Phat Band,"Gregg Field & Dan Savant, producers; Gregg Field & Tommy Vicari, engineers/mixers",True
+808,2014,Best Latin Jazz Album,The Offense Of The Drum,Arturo O'Farrill & The Afro Latin Jazz Orchestra,"Todd Barkan, Eric Oberstein & Kabir Sehgal, producers; Katherine Miller, engineer/mixer",True
+809,2014,Best Gospel Performance/Song,No Greater Love,,"Smokie Norful; Aaron W. Lindsey & Smokie Norful, songwriters",True
+810,2014,Best Contemporary Christian Music Performance/Song,Messengers,,"Lecrae Featuring For King & Country; Torrance Esmond, Ran Jackson, Ricky Jackson, Kenneth Chris Mackey, Lecrae Moore, Joseph Prielozny, Joel Smallbone & Luke Smallbone, songwriters",True
+811,2014,Best Gospel Album,Help,Erica Campbell,"Warryn Campbell, producer; Rob Chiarelli & Larry Whitt, engineers/mixers",True
+812,2014,Best Contemporary Christian Music Album,Run Wild. Live Free. Love Strong.,For King & Country,"For King & Country (Joel Smallbone & Luke Smallbone), producers; Ainslie Grosser & Mike X O’Connor, engineers/mixers",True
+813,2014,Best Roots Gospel Album,Shine For All The People,Mike Farris,"Mike Farris, producer; Chad Brown, Mike Farris & Ross Gower, engineers/mixers",True
+814,2014,Best Latin Pop Album,Tangos,Rubén Blades,"Carlos Franzetti, producer; Chris Sulit, engineer/mixer",True
+815,2014,"Best Latin Rock, Urban or Alternative Album",Multiviral,Calle 13,"Calle 13 (Eduardo Cabra & René Pérez), producers; John Blais & Michael Brauer, engineers/mixers",True
+816,2014,Best Regional Mexican Music Album (Including Tejano),Mano A Mano - Tangos A La Manera De Vicente Fernández,Vicente Fernández,"Vicente Fernández, producer; Alejandro Ramírez Espinal & Javier Ramírez, engineers/mixers",True
+817,2014,Best Tropical Latin Album,Más + Corazón Profundo,Carlos Vives,"Andrés Castro & Carlos Vives, producers; Edgar Barrera, Scott Canto, Andrés Castro, Francisco Díaz, Javier Garza, Guikanko Gomez, Shafik Palis & Curt Schneider, engineers/mixers",True
+818,2014,Best American Roots Performance,A Feather's Not A Bird,Rosanne Cash,,True
+819,2014,Best American Roots Song,A Feather's Not A Bird,,"Rosanne Cash & John Leventhal, songwriters (Rosanne Cash)",True
+820,2014,Best Americana Album,The River & The Thread,Rosanne Cash,"Rick De Pofi & John Leventhal, producers; Rick De Pofi & John Leventhal, engineers/mixers",True
+821,2014,Best Bluegrass Album,The Earls Of Leicester,The Earls Of Leicester,"Bil VornDick, engineer/mixer",True
+822,2014,Best Blues Album,Step Back,Johnny Winter,"Paul Nelson, producer; Mike ""Metal"" Goldberg & Brendan Muldowney, engineers/mixers",True
+823,2014,Best Folk Album,Remedy,Old Crow Medicine Show,"Ted Hutt, producer; Ted Hutt & Ryan Mall, engineers/mixers",True
+824,2014,Best Regional Roots Music Album,The Legacy,Jo-EL Sonnier,"Jo-EL Sonnier & Shane Theriot, producers; Tony Daigle, Jo-EL Sonnier & Shane Theriot, engineers/mixers",True
+825,2014,Best Reggae Album,Fly Rasta,Ziggy Marley,"Ziggy Marley, producer; Isha Erskine & Andrew Scheps, engineers/mixers",True
+826,2014,Best World Music Album,Eve,Angelique Kidjo,"Patrick Dillett, producer; Michael Brauer, Patrick Dillett & Laurent Dupuy, engineers/mixers",True
+827,2014,Best Children's Album,I Am Malala: How One Girl Stood Up For Education And Changed The World (Malala Yousafzai),Neela Vaswani,"Cheryl Smith, producer; Jared O'Connell, engineer/mixer",True
+828,2014,"Best Spoken Word Album (Includes Poetry, Audio Books & Storytelling)",Diary Of A Mad Diva,Joan Rivers,"Diane Mckiernan, producer; Nikki Banks Maurer & Jared O'Connell, engineers/mixers",True
+829,2014,Best Comedy Album,Mandatory Fun,Weird Al Yankovic,"Weird Al Yankovic, producer; Rafael Serrano, Brian Warwick & Dave Way, engineers/mixers",True
+830,2014,Best Musical Theater Album,Beautiful: The Carole King Musical,,"Jessie Mueller, principal soloist; Jason Howland, Steve Sidwell & Billy Jay Stein, producers; Joel Moss, engineer; Jason Howland & Billy Jay Stein, engineers/mixers (Original Broadway Cast)",True
+831,2014,Best Compilation Soundtrack For Visual Media,Frozen,(Various Artists),"Kristen Anderson-Lopez, Robert Lopez, Tom MacDougall & Chris Montan, compilation producers; David Boucher, engineer/mixer",True
+832,2014,Best Score Soundtrack For Visual Media,The Grand Budapest Hotel,,"Alexandre Desplat, composer; Wes Anderson & Randall Poster, producers; Simon Rhodes, engineer/mixer (Alexandre Desplat)",True
+833,2014,Best Song Written For Visual Media,Let It Go,"Kristen Anderson-Lopez & Robert Lopez, songwriters (Idina Menzel)",,True
+834,2014,Best Instrumental Composition,The Book Thief,,"John Williams, composer (John Williams)",True
+835,2014,"Best Arrangement, Instrumental or A Cappella",Daft Punk,,"Ben Bram & Pentatonix (Mitch Grassi, Scott Hoying, Avi Kaplan, Kirstin Maldonado & Kevin Olusola), arrangers (Pentatonix)",True
+836,2014,"Best Arrangement, Instruments and Vocals",New York Tendaberry,,"Billy Childs, arranger (Billy Childs Featuring Renée Fleming & Yo-Yo Ma)",True
+837,2014,Best Recording Package,Lightning Bolt,,"Jeff Ament, Don Pendleton, Joe Spix & Jerome Turner, art directors (Pearl Jam)",True
+838,2014,Best Boxed Or Special Limited Edition Package,"The Rise & Fall Of Paramount Records, Volume One (1917-27)",,"Susan Archie, Dean Blackwood & Jack White, art directors (Various Artists)",True
+839,2014,Best Album Notes,Offering: Live At Temple University,,"Ashley Kahn, album notes writer (John Coltrane)",True
+840,2014,Best Historical Album,"The Garden Spot Programs, 1950",,"Colin Escott & Cheryl Pawelski, compilation producers; Michael Graves, mastering engineer (Hank Williams)",True
+841,2014,"Best Engineered Album, Non-Classical",Morning Phase,,"Drew Brown, Tom Elmhirst, David Greenbaum, Cole Marsden Greif-Neill, Florian Lagatta, Robbie Nelson, Darrell Thorp, Cassidy Turbin & Joe Visciano, engineers; Bob Ludwig, mastering engineer (Beck)",True
+842,2014,"Producer Of The Year, Non-Classical",Max Martin,,,True
+843,2014,"Best Remixed Recording, Non-Classical",All Of Me (Tiësto's Birthday Treatment Remix),,"Tijs Michiel Verwest, remixer (John Legend)",True
+844,2014,Best Surround Sound Album,Beyoncé,,"Elliot Scheiner, surround mix engineer; Bob Ludwig, surround mastering engineer; Beyoncé Knowles, surround producer (Beyoncé)",True
+845,2014,"Best Engineered Album, Classical",Vaughan Williams: Dona Nobis Pacem; Symphony No. 4; The Lark Ascending,,"Michael Bishop, engineer; Michael Bishop, mastering engineer (Robert Spano, Norman Mackenzie, Atlanta Symphony Orchestra & Chorus)",True
+846,2014,"Producer Of The Year, Classical",Judith Sherman,,,True
+847,2014,Best Orchestral Performance,"Adams, John: City Noir",,"David Robertson, conductor; Friedemann Engelbrecht, producer; Richard King, engineer/mixer (St. Louis Symphony)",True
+848,2014,Best Opera Recording,Charpentier: La Descente D'Orphée Aux Enfers,,"Paul O'Dette & Stephen Stubbs, conductors; Aaron Sheehan, soloist; Siegbert Ernst, engineer/mixer (Boston Early Music Festival Vocal Ensemble; Boston Early Music Festival Chamber Ensemble)",True
+849,2014,Best Choral Performance,The Sacred Spirit Of Russia,,"Craig Hella Johnson, conductor; Robina G. Young, producer; Brad Michel, engineer/mixer (Conspirare)",True
+850,2014,Best Chamber Music/Small Ensemble Performance,In 27 Pieces - The Hilary Hahn Encores,,"Hilary Hahn & Andreas K. Meyer, producers; Andreas K. Meyer & Julian Schwenker, engineers/mixers",True
+851,2014,Best Classical Instrumental Solo,Play,,"Jason Vieaux; Alan Bise, producer; Bruce Egre, engineer/mixer",True
+852,2014,Best Classical Solo Vocal Album,Douce France,,"Anne Sofie Von Otter, soloist; Jean-Pierre Loisil, producer; Thomas Dappelo, engineer/mixer",True
+853,2014,Best Classical Compendium,Partch: Plectra & Percussion Dances,,"John Schneider, producer; John Baffa, engineer/mixer (Partch)",True
+854,2014,Best Contemporary Classical Composition,"Adams, John Luther: Become Ocean",,"John Luther Adams, composer",True
+855,2014,Best Music Video,Happy,Pharrell Williams,"We Are From LA (Pierre Dupaquier & Clement Durou), video directors; Kathleen Heffernan, Solal Micenmacher, Jett Steiger & Cedric Troadec, video producers",True
+856,2014,Best Music Film,20 Feet From Stardom,"Darlene Love, Merry Clayton, Lisa Fischer & Judith Hill","Morgan Neville, video director; Gil Friesen & Caitrin Rogers, video producers",True
+857,2013,Record Of The Year,Get Lucky,Daft Punk Featuring Pharrell Williams & Nile Rodgers,"Thomas Bangalter & Guy-Manuel de Homem-Christo, producers; Peter Franco, Mick Guzauski, Florian Lagatta & Daniel Lerner, engineers/mixers; Antoine Chabert & Bob Ludwig, mastering engineers",True
+858,2013,Album Of The Year,Random Access Memories,Daft Punk,"Julian Casablancas, DJ Falcon, Todd Edwards, Chilly Gonzales, Giorgio Moroder, Panda Bear, Nile Rodgers, Paul Williams & Pharrell Williams, featured artists; Thomas Bangalter, Julian Casablancas, Guy-Manuel de Homem-Christo, DJ Falcon & Todd Edwards, producers; Peter Franco, Mick Guzauski, Florian Lagatta, Guillaume Le Braz & Daniel Lerner, engineers/mixers; Antoine Chabert & Bob Ludwig, mastering engineers",True
+859,2013,Song Of The Year,Royals,,"Joel Little & Ella Yelich O'Connor, songwriters (Lorde)",True
+860,2013,Best New Artist,Macklemore & Ryan Lewis,,,True
+861,2013,Best Pop Solo Performance,Royals,Lorde,,True
+862,2013,Best Pop Duo/Group Performance,Get Lucky,Daft Punk Featuring Pharrell Williams & Nile Rodgers,,True
+863,2013,Best Pop Instrumental Album,Steppin' Out,Herb Alpert,"Herb Alpert & Lani Hall, producers; Mick Guzauski, Hussain Jiffry & Alan Myerson, engineers/mixers",True
+864,2013,Best Pop Vocal Album,Unorthodox Jukebox,Bruno Mars,"Philip Lawrence, Ari Levine & Bruno Mars, producers; Ari Levine & Manny Marroquin, engineers/mixers",True
+865,2013,Best Dance Recording,Clarity,Zedd Featuring Foxes,"Zedd, producer; Zedd, mixer",True
+866,2013,Best Dance/Electronica Album,Random Access Memories,Daft Punk,"Daft Punk (Thomas Bangalter & Guy-Manuel de Homem-Christo), producers; Peter Franco, Mick Guzauski & Florian Lagatta, engineers/mixers",True
+867,2013,Best Traditional Pop Vocal Album,To Be Loved,Michael Bublé,"Bob Rock, producer; Eric Helmkamp, Roger Monk & Bob Rock, engineers/mixers",True
+868,2013,Best Rock Performance,Radioactive,Imagine Dragons,,True
+869,2013,Best Metal Performance,God Is Dead?,Black Sabbath,,True
+870,2013,Best Rock Song,Cut Me Some Slack,,"Dave Grohl, Paul McCartney, Krist Novoselic & Pat Smear, songwriters (Paul McCartney, Dave Grohl, Krist Novoselic, Pat Smear)",True
+871,2013,Best Rock Album,Celebration Day,Led Zeppelin,"Dick Curruthers & Jim Parsons, producers; John Catlin, Alan Moulder & Tim Summerhayes, engineers/mixers",True
+872,2013,Best Alternative Music Album,Modern Vampires Of The City,Vampire Weekend,"Ariel Rechtshaid, producer; Michael Harris, Ariel Rechtshaid, Nick Rowe & Dave Schiffman, engineers/mixers",True
+873,2013,Best R&B Performance,Something,Snarky Puppy With Lalah Hathaway,,True
+874,2013,Best Traditional R&B Performance,Please Come Home,Gary Clark Jr.,,True
+875,2013,Best R&B Song,Pusher Love Girl,,"James Fauntleroy, Jerome Harmon, Timothy Mosley & Justin Timberlake, songwriters (Justin Timberlake)",True
+876,2013,Best Urban Contemporary Album,Unapologetic,Rihanna,"Kuk Harrell, producer; Kuk Harrell, Manny Marroquin & Marcos Tovar, engineers/mixers",True
+877,2013,Best R&B Album,Girl On Fire,Alicia Keys,"Alicia Keys, producer; Manny Marroquin & Ann Mincieli, engineers/mixers",True
+878,2013,Best Rap Performance,Thrift Shop,Macklemore & Ryan Lewis Featuring Wanz,,True
+879,2013,Best Rap/Sung Collaboration,Holy Grail,Jay Z Featuring Justin Timberlake,,True
+880,2013,Best Rap Song,Thrift Shop,,"Ben Haggerty & Ryan Lewis, songwriters (Macklemore & Ryan Lewis Featuring Wanz)",True
+881,2013,Best Rap Album,The Heist,Macklemore & Ryan Lewis,"Macklemore & Ryan Lewis, engineers/mixers",True
+882,2013,Best Country Solo Performance,Wagon Wheel,Darius Rucker,,True
+883,2013,Best Country Duo/Group Performance,From This Valley,The Civil Wars,,True
+884,2013,Best Country Song,Merry Go 'Round,,"Shane McAnally, Kacey Musgraves & Josh Osborne, songwriters (Kacey Musgraves)",True
+885,2013,Best Country Album,Same Trailer Different Park,Kacey Musgraves,"Luke Laird, Shane McAnally & Kacey Musgraves, producers; Charlie Brocco & Ryan Gore, engineers/mixers",True
+886,2013,Best New Age Album,Love's River,Laura Sullivan,"Eric Sullivan, producer",True
+887,2013,Best Improvised Jazz Solo,Orbits,,"Wayne Shorter, soloist",True
+888,2013,Best Jazz Vocal Album,Liquid Spirit,Gregory Porter,"Brian Bacchus, producer; Jay Newland, engineer/mixer",True
+889,2013,Best Jazz Instrumental Album,Money Jungle: Provocative In Blue,Terri Lyne Carrington,"Terri Lyne Carrington, producer; Jeremy Loucas & Mike Marciano, engineers/mixers",True
+890,2013,Best Large Jazz Ensemble Album,Night In Calisia,"Randy Brecker, Włodek Pawlik Trio & Kalisz Philharmonic","Jacek Gawlowski, Leszek Kaminski & Jaroslaw Regulski, engineers/mixers",True
+891,2013,Best Latin Jazz Album,Song For Maura,Paquito D'Rivera And Trio Corrente,"Brenda Feliciano & Jacques Figueras, producers; Carlos Akamine & Daniel Freiberg, engineers/mixers",True
+892,2013,Best Gospel/Contemporary Christian Music Performance,Break Every Chain [Live],Tasha Cobbs,,True
+893,2013,Best Gospel Song,If He Did It Before... Same God [Live],,"Tye Tribbett, songwriter (Tye Tribbett)",True
+894,2013,Best Contemporary Christian Music Song,Overcomer,,"David Garcia, Ben Glover & Christopher Stevens, songwriters (Mandisa)",True
+895,2013,Best Gospel Album,Greater Than [Live],Tye Tribbett,"Brandon Jones & Tye Tribbett, producers; John Jaszcz, Ryan Moys & Brian Thomason, engineers/mixers",True
+896,2013,Best Contemporary Christian Music Album,Overcomer,Mandisa,"David Garcia & Christopher Stevens, producers; David Garcia & Christopher Stevens, engineers/mixers",True
+897,2013,Best Latin Pop Album,Vida,Draco Rosa,"Draco Rosa, producer; Benny Faccone, Seth Horan Atkins & Sadaharu Yagi, engineers/mixers",True
+898,2013,"Best Latin Rock, Urban or Alternative Album",Treinta Días,La Santa Cecilia,"Sebastian Krys, producer; Sebastian Krys, engineer/mixer",True
+899,2013,Best Regional Mexican Music Album (Including Tejano),A Mi Manera,Mariachi Divas De Cindy Shea,"Salvador ""Chava"" Sandoval, engineer/mixer",True
+900,2013,Best Tropical Latin Album,Pacific Mambo Orchestra,Pacific Mambo Orchestra,,True
+901,2013,Best American Roots Song,Love Has Come For You,,"Edie Brickell & Steve Martin, songwriters (Steve Martin & Edie Brickell)",True
+902,2013,Best Americana Album,Old Yellow Moon,Emmylou Harris & Rodney Crowell,"Brian Ahern, producer; Donivan Cowart, engineer/mixer",True
+903,2013,Best Bluegrass Album,The Streets Of Baltimore,Del McCoury Band,"David Ferguson, engineer/mixer",True
+904,2013,Best Blues Album,Get Up!,Ben Harper With Charlie Musselwhite,"Chris Goldsmith, Sheldon Gomberg, Ben Harper, Jesse Ingalls, Jason Mozersky & Jordan Richardson, producers; Sheldon Gomberg, Jason Gossman, Bill Mims & Erich Talaba, engineers/mixers",True
+905,2013,Best Folk Album,My Favorite Picture Of You,Guy Clark,"Shawn Camp, Guy Clark & Chris Latham, producers; Chris Latham, engineer/mixer",True
+906,2013,Best Regional Roots Music Album,Dockside Sessions,Terrance Simien & The Zydeco Experience,"George G. Receli, producer; David Farrell & George G. Receli, engineers/mixers",True
+907,2013,Best Reggae Album,Ziggy Marley In Concert,Ziggy Marley,"Ziggy Marley, producer; Errol Brown & Fabian Cooke, engineers/mixers",True
+908,2013,Best World Music Album,Savor Flamenco,Gipsy Kings,"René Ameline & James Farber, engineers/mixers",True
+909,2013,Best World Music Album,Live: Singing For Peace Around The World,Ladysmith Black Mambazo,"Mitch Goldstein, producer; Jon Picciano, engineer/mixer",False
+910,2013,Best Children's Album,Throw A Penny In The Wishing Well,Jennifer Gasoi,"Jennifer Gasoi, producer; Pierre Messier, engineer/mixer",True
+911,2013,"Best Spoken Word Album (Includes Poetry, Audio Books & Storytelling)",America Again: Re-becoming The Greatness We Never Weren't,Stephen Colbert,"Aaron Cohen & Michele McGonigle, producers; Christine M. Farrell & Todd Kilponen, engineers/mixers",True
+912,2013,Best Comedy Album,Calm Down Gurrl,Kathy Griffin,"Don Worsham, engineer/mixer",True
+913,2013,Best Musical Theater Album,Kinky Boots,,"Billy Porter & Stark Sands, principal soloists; Cyndi Lauper, composer & lyricist; Sammy James, Jr., Cyndi Lauper, Stephen Oremus & William Wittman, producers; Derik Lee & William Wittman, engineers/mixers (Original Broadway Cast With Stark Sands, Billy Porter & Others)",True
+914,2013,Best Compilation Soundtrack For Visual Media,Sound City: Real To Reel,Dave Grohl & Various Artists,"Butch Vig, compilation producer; James Brown, engineer/mixer",True
+915,2013,Best Score Soundtrack For Visual Media,Skyfall,,"Thomas Newman, composer; Bill Bernstein & Thomas Newman, producers; Simon Rhodes, engineer/mixer (Thomas Newman)",True
+916,2013,Best Song Written For Visual Media,Skyfall,"Adele Adkins & Paul Epworth, songwriters (Adele)",,True
+917,2013,Best Instrumental Composition,Pensamientos For Solo Alto Saxophone And Chamber Orchestra,,"Clare Fischer, composer (The Clare Fischer Orchestra)",True
+918,2013,Best Instrumental Arrangement,On Green Dolphin Street,,"Gordon Goodwin, arranger (Gordon Goodwin's Big Phat Band)",True
+919,2013,Best Instrumental Arrangement Accompanying Vocalist(s),Swing Low,,"Gil Goldstein, arranger (Bobby McFerrin & Esperanza Spalding)",True
+920,2013,Best Recording Package,Long Night Moon,,"Sarah Dodds & Shauna Dodds, art directors (Reckless Kelly)",True
+921,2013,Best Boxed Or Special Limited Edition Package,Wings Over America (Deluxe Edition),,"Simon Earith & James Musgrave, art directors (Paul McCartney And Wings)",True
+922,2013,Best Album Notes,Afro Blue Impressions (Remastered & Expanded),,"Neil Tesser, album notes writer (John Coltrane)",True
+923,2013,Best Historical Album,Charlie Is My Darling - Ireland 1965,,"Teri Landi, Andrew Loog Oldham & Steve Rosenthal, compilation producers; Bob Ludwig, mastering engineer (The Rolling Stones)",True
+924,2013,Best Historical Album,The Complete Sussex And Columbia Albums,,"Leo Sacks, compilation producer; Joseph M. Palmaccio, Tom Ruff & Mark Wilder, mastering engineers (Bill Withers)",False
+925,2013,"Best Engineered Album, Non-Classical",Random Access Memories,,"Peter Franco, Mick Guzauski, Florian Lagatta & Daniel Lerner, engineers; Antoine Chabert & Bob Ludwig, mastering engineers (Daft Punk)",True
+926,2013,"Producer Of The Year, Non-Classical",Pharrell Williams,,,True
+927,2013,"Best Remixed Recording, Non-Classical",Summertime Sadness (Cedric Gervais Remix),,"Cedric Gervais, remixer (Lana Del Rey)",True
+928,2013,Best Surround Sound Album,Live Kisses,,"Al Schmitt, surround mix engineer; Tommy LiPuma, surround producer (Paul McCartney)",True
+929,2013,"Best Engineered Album, Classical",Winter Morning Walks,,"David Frost, Brian Losch & Tim Martyn, engineers; Tim Martyn, mastering engineer (Dawn Upshaw, Maria Schneider, Australian Chamber Orchestra & St. Paul Chamber Orchestra)",True
+930,2013,"Producer Of The Year, Classical",David Frost,,,True
+931,2013,Best Orchestral Performance,Sibelius: Symphonies Nos. 1 & 4,,"Osmo Vänskä, conductor; Robert Suff, producer; Jens Braun, engineer (Minnesota Orchestra)",True
+932,2013,Best Opera Recording,Adès: The Tempest,,"Thomas Adès, conductor; Jay David Saks, producer; Simon Keenlyside, Isabel Leonard, Audrey Luna & Alan Oke, soloists (The Metropolitan Opera Chorus; The Metropolitan Opera Orchestra)",True
+933,2013,Best Choral Performance,Pärt: Adam's Lament,,"Tõnu Kaljuste, conductor; Manfred Eicher, producer; Peter Laenger & Stephan Schellmann, engineers (Tui Hirv & Rainer Vilu; Estonian Philharmonic Chamber Choir, Latvian Radio Choir & Vox Clamantis; Sinfonietta Riga & Tallinn Chamber Orchestra)",True
+934,2013,Best Chamber Music/Small Ensemble Performance,Roomful Of Teeth,,"Jesse Lewis, producer; Brad Wells, conductor; Roomful Of Teeth (Cameron Beauchamp, Dashon Burton, Martha Cluver, Eric Dudley, Estelí Gomez, Avery Griffin, Caroline Shaw & Virginia Warnken), ensembles; Mark Donahue & Jesse Lewis, engineers",True
+935,2013,Best Classical Instrumental Solo,Corigliano: Conjurer - Concerto For Percussionist & String Orchestra,,"Evelyn Glennie; David Alan Miller, conductor; Silas Brown & John Corigliano, producers; Silas Brown & John Corigliano, engineers (Albany Symphony)",True
+936,2013,Best Classical Vocal Solo,Winter Morning Walks,,"Dawn Upshaw, soloist; David Frost, producer; David Frost, Brian Losch & Tim Martyn, engineers (Maria Schneider; Australian Chamber Orchestra & St. Paul Chamber Orchestra)",True
+937,2013,Best Classical Compendium,Hindemith: Violinkonzert; Symphonic Metamorphosis; Konzertmusik,,"Christoph Eschenbach, conductor; Dominik Blech & Björn Brigsne, engineers (Christoph Eschenbach)",True
+938,2013,Best Contemporary Classical Composition,"Schneider, Maria: Winter Morning Walks",,"Maria Schneider, composer",True
+939,2013,Best Music Video,Suit & Tie,Justin Timberlake Featuring Jay Z,"David Fincher, video director; Timory King, video producer",True
+940,2013,Best Music Film,Live Kisses,Paul McCartney,"Jonas Åkerlund, video director; Violaine Etienne, Aron Levine & Scott Rodger, video producers",True
+941,2012,Record Of The Year,Somebody That I Used To Know,Gotye Featuring Kimbra,"Wally De Backer, producer; Wally De Backer & Francois Tetaz, engineers/mixers; William Bowden, mastering engineer",True
+942,2012,Album Of The Year,Babel,Mumford & Sons,"Markus Dravs, producer; Robin Baynton, Ruadhri Cushnan & Matt Lawrence, engineers/mixers; Bob Ludwig, mastering engineer",True
+943,2012,Song Of The Year,We Are Young,,"Jack Antonoff, Jeff Bhasker, Andrew Dost & Nate Ruess, songwriters (Fun. Featuring Janelle Monáe)",True
+944,2012,Best New Artist,Fun.,,,True
+945,2012,Best Pop Solo Performance,Set Fire To The Rain [Live],Adele,,True
+946,2012,Best Pop Duo/Group Performance,Somebody That I Used To Know,Gotye Featuring Kimbra,,True
+947,2012,Best Pop Instrumental Album,Impressions,Chris Botti,"Bobby Colomby, producer; Allen M. Sides, engineer/mixer",True
+948,2012,Best Pop Vocal Album,Stronger,Kelly Clarkson,"Serban Ghenea & John Hanes, engineers/mixers",True
+949,2012,Best Dance Recording,Bangarang,Skrillex Featuring Sirah,"Skrillex, producer; Skrillex, mixer",True
+950,2012,Best Dance/Electronica Album,Bangarang,Skrillex,"Skrillex, producer; Skrillex, engineer/mixer",True
+951,2012,Best Traditional Pop Vocal Album,Kisses On The Bottom,Paul McCartney,"Tommy LiPuma, producer; Al Schmitt, engineer/mixer",True
+952,2012,Best Rock Performance,Lonely Boy,The Black Keys,,True
+953,2012,Best Hard Rock/Metal Performance,Love Bites (So Do I),Halestorm,,True
+954,2012,Best Rock Song,Lonely Boy,,"Dan Auerbach, Brian Burton & Patrick Carney, songwriters (The Black Keys)",True
+955,2012,Best Rock Album,El Camino,The Black Keys,"Danger Mouse & The Black Keys (Dan Auerbach & Patrick Carney), producers; Tchad Blake & Kennie Takahashi, engineers/mixers",True
+956,2012,Best Alternative Music Album,Making Mirrors,Gotye,"Gotye, producer; Francois Tetaz, engineer/mixer",True
+957,2012,Best R&B Performance,Climax,Usher,,True
+958,2012,Best Traditional R&B Performance,Love On Top,Beyoncé,,True
+959,2012,Best R&B Song,Adorn,,"Miguel Jontel Pimentel, songwriter (Miguel)",True
+960,2012,Best Urban Contemporary Album,Channel Orange,Frank Ocean,"James Ryan Ho, Frank Ocean & Om'mas Keith, producers; Jeff Ellis, James Ryan Ho & Frank Ocean, engineers/mixers",True
+961,2012,Best R&B Album,Black Radio,Robert Glasper Experiment,"Keith ""Qmillion"" Lewis, engineer/mixer",True
+962,2012,Best Rap Performance,N****s In Paris,Jay-Z & Kanye West,,True
+963,2012,Best Rap/Sung Collaboration,No Church In The Wild,Jay-Z & Kanye West Featuring Frank Ocean & The-Dream,,True
+964,2012,Best Rap Song,N****s In Paris,,"Shawn Carter, Mike Dean, Chauncey Hollis & Kanye West, songwriters (Jay-Z & Kanye West)",True
+965,2012,Best Rap Album,Take Care,Drake,"Noah ""40"" Shebib, producer; Noel ""Gadget"" Campbell & Noah ""40"" Shebib, engineers/mixers",True
+966,2012,Best Country Solo Performance,Blown Away,Carrie Underwood,,True
+967,2012,Best Country Duo/Group Performance,Pontoon,Little Big Town,,True
+968,2012,Best Country Song,Blown Away,,"Josh Kear & Chris Tompkins, songwriters (Carrie Underwood)",True
+969,2012,Best Country Album,Uncaged,Zac Brown Band,"Keith Stegall, producer; John Kelton, engineer/mixer",True
+970,2012,Best New Age Album,Echoes Of Love,Omar Akram,"Gregg Karukas, producer; Gregg Karukas, engineer/mixer",True
+971,2012,Best Improvised Jazz Solo,Hot House,,"Gary Burton & Chick Corea, soloists",True
+972,2012,Best Jazz Vocal Album,Radio Music Society,Esperanza Spalding,"Esperanza Spalding, producer; Joe Ferla & Fernando Lodeiro, engineers/mixers",True
+973,2012,Best Jazz Instrumental Album,Unity Band,Pat Metheny Unity Band,"James Farber & Pete Karam, engineers/mixers",True
+974,2012,Best Large Jazz Ensemble Album,Dear Diz (Every Day I Think Of You),Arturo Sandoval,"Gregg Field & Arturo Sandoval, producers; Gregg Field & Don Murray, engineers/mixers",True
+975,2012,Best Latin Jazz Album,¡Ritmo!,The Clare Fischer Latin Jazz Big Band,"Dan Blessinger, Les Brockmann, Matt Brownlie & Justin Merrill, engineers/mixers",True
+976,2012,Best Gospel/Contemporary Christian Music Performance,"10,000 Reasons (Bless The Lord)",Matt Redman,,True
+977,2012,Best Gospel Song,Go Get It,,"Erica Campbell, Tina Campbell & Warryn ""Baby Dubb"" Campbell, songwriters (Mary Mary)",True
+978,2012,Best Contemporary Christian Music Song,"10,000 Reasons (Bless The Lord)",,"Jonas Myrin & Matt Redman, songwriters (Matt Redman)",True
+979,2012,Best Contemporary Christian Music Song,Your Presence Is Heaven,,"Israel Houghton & Micah Massey, songwriters (Israel & New Breed)",False
+980,2012,Best Gospel Album,Gravity,Lecrae,"Carlton Lynn & Joseph Prielozny, engineers/mixers",True
+981,2012,Best Contemporary Christian Music Album,Eye On It,TobyMac,"Christopher Stevens & Tobymac, producers; Jerricho Scroggins, Christopher Stevens & Taylor Stevens, engineers/mixers",True
+982,2012,Best Latin Pop Album,MTV Unplugged Deluxe Edition,Juanes,"Juan Luis Guerra, producer; Gustavo Borner, engineer/mixer",True
+983,2012,"Best Latin Rock, Urban or Alternative Album",Imaginaries,Quetzal,"Daniel Sheehy, producer; Pete Reiniger, engineer/mixer",True
+984,2012,Best Regional Mexican Music Album (Including Tejano),Pecados Y Milagros,Lila Downs,"Paul Cohen, Lila Downs & Aneiro Taño, producers; Alan Saucedo, Aneiro Taño & Rodolfo Vasquez, engineers/mixers",True
+985,2012,Best Tropical Latin Album,Retro,Marlow Rosado Y La Riqueña,"Victor ""Sonny"" Hernández, engineer/mixer",True
+986,2012,Best Americana Album,Slipstream,Bonnie Raitt,"Bonnie Raitt, producer; Ryan Freeland, engineer/mixer",True
+987,2012,Best Bluegrass Album,Nobody Knows You,Steep Canyon Rangers,"Gary Paczosa & The Steep Canyon Rangers (Mike Guggino, Charles Humphrey, Woody Platt, Nicky Sanders & Graham Sharp), producers; Brandon Bell & Gary Paczosa, engineers/mixers",True
+988,2012,Best Blues Album,Locked Down,Dr. John,"Dan Auerbach, producer; Dan Auerbach & Collin Dupuis, engineers/mixers",True
+989,2012,Best Folk Album,The Goat Rodeo Sessions,"Yo-Yo Ma, Stuart Duncan, Edgar Meyer & Chris Thile","Steven Epstein, producer; Richard King, engineer/mixer",True
+990,2012,Best Regional Roots Music Album,The Band Courtbouillon,"Wayne Toups, Steve Riley & Wilson Savoy","Joel Savoy, engineer/mixer",True
+991,2012,Best Reggae Album,Rebirth,Jimmy Cliff,"Tim Armstrong, producer; Tim Armstrong, Kevin Bivona, J Bonner, Bill Mims, John Morrical & Clinton Welander, engineers/mixers",True
+992,2012,Best World Music Album,The Living Room Sessions Part 1,Ravi Shankar,"Barry Phillips, producer; Barry Phillips, engineer/mixer",True
+993,2012,Best Children's Album,Can You Canoe?,The Okee Dokee Brothers,"Dean Jones, producer; Dean Jones, engineer/mixer",True
+994,2012,"Best Spoken Word Album (Includes Poetry, Audio Books & Storytelling)",Society's Child: My Autobiography,Janis Ian,"Mike Charzuk, Christina Harcar, Jason Ojalvo & Stefan Rudnicki, producers; Stefan Rudnicki & Ted Scott, engineers/mixers",True
+995,2012,Best Comedy Album,Blow Your Pants Off,Jimmy Fallon,"Gerard Bradford, Mike DiCenzo, Jimmy Fallon & Lawrence Manchester, producers; Lawrence Manchester, engineer/mixer",True
+996,2012,Best Musical Theater Album,Once: A New Musical,,"Steve Kazee & Cristin Milioti, principal soloists; Steven Epstein & Martin Lowe, producers; Richard King, engineer/mixer (Original Broadway Cast With Steve Kazee, Cristin Milioti & Others)",True
+997,2012,Best Compilation Soundtrack For Visual Media,Midnight In Paris,(Various Artists),"Woody Allen, producer",True
+998,2012,Best Score Soundtrack For Visual Media,The Girl With The Dragon Tattoo,,"Trent Reznor & Atticus Ross, composers; Trent Reznor & Atticus Ross, producers; Blumpy & Alan Moulder, engineers/mixers (Trent Reznor & Atticus Ross)",True
+999,2012,Best Song Written For Visual Media,Safe & Sound (From The Hunger Games),"T Bone Burnett, Taylor Swift, John Paul White & Joy Williams, songwriters (Taylor Swift Featuring The Civil Wars)",,True
+1000,2012,Best Instrumental Composition,Mozart Goes Dancing,,"Chick Corea, composer (Chick Corea & Gary Burton)",True
+1001,2012,Best Instrumental Arrangement,How About You,,"Gil Evans, arranger (Gil Evans Project)",True
+1002,2012,Best Instrumental Arrangement Accompanying Vocalist(s),City Of Roses,,"Thara Memory & Esperanza Spalding, arrangers (Esperanza Spalding)",True
+1003,2012,Best Recording Package,Biophilia,,"Michael Amzalag & Mathias Augustyniak, art directors (Björk)",True
+1004,2012,Best Boxed Or Special Limited Edition Package,Woody At 100: The Woody Guthrie Centennial Collection,,"Fritz Klaetke, art director (Woody Guthrie)",True
+1005,2012,Best Album Notes,Singular Genius: The Complete ABC Singles,,"Billy Vera, album notes writer (Ray Charles)",True
+1006,2012,Best Historical Album,The Smile Sessions (Deluxe Box Set),,"Alan Boyd, Mark Linett, Brian Wilson & Dennis Wolfe, compilation producers; Mark Linett, mastering engineer (The Beach Boys)",True
+1007,2012,"Best Engineered Album, Non-Classical",The Goat Rodeo Sessions,,"Richard King, engineer; Richard King, mastering engineer (Yo-Yo Ma, Stuart Duncan, Edgar Meyer & Chris Thile)",True
+1008,2012,"Producer Of The Year, Non-Classical",Dan Auerbach,,,True
+1009,2012,"Best Remixed Recording, Non-Classical",Promises (Skrillex & Nero Remix),,"Joseph Ray, Skrillex & Daniel Stephens, remixers (Nero)",True
+1010,2012,Best Surround Sound Album,Modern Cool,,"Jim Anderson, surround mix engineer; Darcy Proper, surround mastering engineer; Michael Friedman, surround producer (Patricia Barber)",True
+1011,2012,"Best Engineered Album, Classical",Life & Breath - Choral Works By René Clausen,,"Tom Caulfield & John Newton, engineers; Mark Donahue, mastering engineer (Charles Bruffy & Kansas City Chorale)",True
+1012,2012,"Producer Of The Year, Classical",Blanton Alspaugh (producer),,,True
+1013,2012,Best Orchestral Performance,Adams: Harmonielehre & Short Ride In A Fast Machine,,"Michael Tilson Thomas, conductor; Jack Vad, producer; Roni Jules, Gus Polleck, Uwe Willenbacher & Denise Woodward, engineers/mixers (San Francisco Symphony)",True
+1014,2012,Best Opera Recording,Wagner: Der Ring Des Nibelungen,,"James Levine & Fabio Luisi, conductors; Jay David Saks, producer; Hans-Peter König, Jay Hunter Morris, Bryn Terfel & Deborah Voigt, soloists; Jay David Saks, engineer/mixer (The Metropolitan Opera Chorus; The Metropolitan Opera Orchestra)",True
+1015,2012,Best Choral Performance,Life & Breath - Choral Works By René Clausen,,"Charles Bruffy, conductor; Blanton Alspaugh, producer; Tom Caulfield & John Newton, engineers/mixers (Lindsey Lang, Matthew Gladden, Pamela Williamson, Rebecca Lloyd & Sarah Tannehill; Kansas City Chorale)",True
+1016,2012,Best Chamber Music/Small Ensemble Performance,Meanwhile,,"Judith Sherman, producer; Eighth Blackbird (Matt Albert, Matthew Duvall, Lisa Kaplan, Michael J. Maccaferri, Tim Munro & Nicholas Photinos), ensembles; Bill Maylone, engineer/mixer",True
+1017,2012,Best Classical Instrumental Solo,Kurtág & Ligeti: Music For Viola,,"Kim Kashkashian; Manfred Eicher, producer; Peter Laenger, engineer/mixer",True
+1018,2012,Best Classical Vocal Solo,Poèmes,,"Renée Fleming, soloist; Arnaud Moral, producer; Christian Lahondes, engineer/mixer (Alan Gilbert & Seiji Ozawa; Orchestre National De France & Orchestre Philharmonique De Radio France)",True
+1019,2012,Best Classical Compendium,Penderecki: Fonogrammi; Horn Concerto; Partita; The Awakening Of Jacob; Anaklasis,,"Antoni Wit, conductor; Aleksandra Nagórko & Andrzej Sasin, producers; Aleksandra Nagórko & Andrzej Sasin, engineers/mixers (Antoni Wit)",True
+1020,2012,Best Contemporary Classical  Composition,"Hartke, Stephen: Meanwhile - Incidental Music To Imaginary Puppet Plays",,"Stephen Hartke, composer",True
+1021,2012,Best Short Form Music Video,We Found Love,Rihanna Featuring Calvin Harris,"Melina Matsoukas, video director; Juliette Larthe, Candice Ouaknine, Ben Sullivan & Inga Veronique, video producers",True
+1022,2012,Best Long Form Music Video,Big Easy Express,"Mumford & Sons, Edward Sharpe & The Magnetic Zeros & Old Crow Medicine Show","Emmett Malloy, video director; Bryan Ling, Mike Luba & Tim Lynch, video producers",True
+1023,2011,Record Of The Year,Rolling In The Deep,Adele,"Paul Epworth, producer; Tom Elmhirst & Mark Rankin, engineers/mixers",True
+1024,2011,Album Of The Year,21,Adele,"Jim Abbiss, Adele, Paul Epworth, Rick Rubin, Fraser T. Smith, Ryan Tedder & Dan Wilson, producers; Jim Abbiss, Philip Allen, Beatriz Artola, Ian Dowling, Tom Elmhirst, Greg Fidelman, Dan Parry, Steve Price, Mark Rankin, Andrew Scheps, Fraser T. Smith & Ryan Tedder, engineers/mixers; Tom Coyne, mastering engineer",True
+1025,2011,Song Of The Year,Rolling In The Deep,,"Adele & Paul Epworth, songwriters (Adele)",True
+1026,2011,Best New Artist,Bon Iver,,,True
+1027,2011,Best Pop Solo Performance,Someone Like You,Adele,,True
+1028,2011,Best Pop Duo/Group Performance,Body And Soul,Tony Bennett & Amy Winehouse,,True
+1029,2011,Best Pop Instrumental Album,The Road From Memphis,Booker T. Jones,"Booker T. Jones, Rob Schnapf & Ahmir ""?uestlove"" Thompson, producers; Gabriel Roth & Rob Schnapf, engineers/mixers",True
+1030,2011,Best Pop Vocal Album,21,Adele,,True
+1031,2011,Best Dance Recording,Scary Monsters And Nice Sprites,Skrillex,"Skrillex, producer; Skrillex, mixer",True
+1032,2011,Best Dance/Electronica Album,Scary Monsters And Nice Sprites,Skrillex,"Skrillex, producer; Skrillex, engineer/mixer",True
+1033,2011,Best Traditional Pop Vocal Album,Duets II,Tony Bennett & Various Artists,"Dae Bennett & Phil Ramone, producers; Dae Bennett, engineer/mixer",True
+1034,2011,Best Rock Performance,Walk,Foo Fighters,,True
+1035,2011,Best Hard Rock/Metal Performance,White Limo,Foo Fighters,,True
+1036,2011,Best Rock Song,Walk,,"David Grohl, Taylor Hawkins, Nate Mendel, Chris Shiflett & Pat Smear, songwriters (Foo Fighters)",True
+1037,2011,Best Rock Album,Wasting Light,Foo Fighters,"Butch Vig, producer; James Brown & Alan Moulder, engineers/mixers",True
+1038,2011,Best Alternative Music Album,Bon Iver,Bon Iver,"Brian Joseph, engineer/mixer",True
+1039,2011,Best R&B Performance,Is This Love,Corinne Bailey Rae,,True
+1040,2011,Best Traditional R&B Performance,Fool For You,Cee Lo Green & Melanie Fiona,,True
+1041,2011,Best R&B Song,Fool For You,,"Melanie Fiona, Cee Lo Green & Jack Splash, songwriters (Cee Lo Green & Melanie Fiona)",True
+1042,2011,Best R&B Album,F.A.M.E.,Chris Brown,"Brian Springer, engineer/mixer",True
+1043,2011,Best Rap Performance,Otis,Jay-Z & Kanye West,,True
+1044,2011,Best Rap/Sung Collaboration,All Of The Lights,"Kanye West, Rihanna, Kid Cudi & Fergie",,True
+1045,2011,Best Rap Song,All Of The Lights,,"Jeff Bhasker, Stacy Ferguson, Malik Jones, Terius ""The Dream"" Nash, Warren Trotter & Kanye West, songwriters (Kanye West, Rihanna, Kid Cudi & Fergie)",True
+1046,2011,Best Rap Album,My Beautiful Dark Twisted Fantasy,Kanye West,"Kanye West, producer; Andrew Dawson, Mike Dean, Noah Goldstein & Anthony Kilhoffer, engineers/mixers",True
+1047,2011,Best Country Solo Performance,Mean,Taylor Swift,,True
+1048,2011,Best Country Duo/Group Performance,Barton Hollow,The Civil Wars,,True
+1049,2011,Best Country Song,Mean,,"Taylor Swift, songwriter (Taylor Swift)",True
+1050,2011,Best Country Album,Own The Night,Lady Antebellum,"Lady Antebellum & Paul N. Worley, producers; L Clarke Schleicher, engineer/mixer",True
+1051,2011,Best New Age Album,What's It All About,Pat Metheny,"Pat Metheny, producer; Pete Karam, Pat Metheny & David Oakes, engineers/mixers",True
+1052,2011,Best Improvised Jazz Solo,500 Miles High,,"Chick Corea, soloist",True
+1053,2011,Best Jazz Vocal Album,The Mosaic Project,Terri Lyne Carrington & Various Artists,"Terri Lyne Carrington, producer; Mike Marciano & Martin Walters, engineers/mixers",True
+1054,2011,Best Jazz Instrumental Album,Forever,"Corea, Clarke & White","Stanley Clarke, Chick Corea & Lenny White, producers; Bernie Kirsh, Buck Snow & Brian Vibberts, engineers/mixers",True
+1055,2011,Best Large Jazz Ensemble Album,The Good Feeling,Christian McBride Big Band,"Joe Ferla, engineer/mixer",True
+1056,2011,Best Gospel/Contemporary Christian Music Performance,Jesus,Le'Andria Johnson,,True
+1057,2011,Best Gospel Song,Hello Fear,,"Kirk Franklin, songwriter (Kirk Franklin)",True
+1058,2011,Best Contemporary Christian Music Song,Blessings,,"Laura Story, songwriter (Laura Story)",True
+1059,2011,Best Gospel Album,Hello Fear,Kirk Franklin,"Kirk Franklin & Shaun Martin, producers; Jeffrey Chestek, John Jaszcz & Tre Nagella, engineers/mixers",True
+1060,2011,Best Contemporary Christian Music Album,And If Our God Is For Us...,Chris Tomlin,"Ed Cash, producer; Ed Cash, Jim Deneen & F. Reid Shippen, engineers/mixers",True
+1061,2011,"Best Latin Pop, Rock, Or Urban Album",Drama Y Luz,Maná,"Benny Faccone, Arturo ""Tuti"" Perales, Thom Russo, Fabián Serrano & Fernando Villín, engineers/mixers",True
+1062,2011,Best Regional Mexican Or Tejano Album,Bicentenario,Pepe Aguilar,"Norberto Islas, engineer/mixer",True
+1063,2011,Best Banda Or Norteño Album,Los Tigres Del Norte And Friends,Los Tigres Del Norte,"Gustavo Borner & Los Tigres Del Norte, producers; Nick Baxter, Gustavo Borner, Juan Pablo Fallucca & Justin Moshkevich, engineers/mixers",True
+1064,2011,Best Tropical Latin Album,The Last Mambo,Cachao,"Nelson Albareda, Daniel Palacio, Omer Pardillo-Cid & Christian Thomas, producers; Alex Arias & Waldy D., engineers/mixers",True
+1065,2011,Best Americana Album,Ramble At The Ryman,Levon Helm,"Larry Campbell, Jed Hilly & Danny Petraitis, producers; Michael Davis & Justin Guip, engineers/mixers",True
+1066,2011,Best Bluegrass Album,Paper Airplane,Alison Krauss & Union Station,"Alison Krauss & Union Station, producers; Neal Cappellino & Mike Shipley, engineers/mixers",True
+1067,2011,Best Blues Album,Revelator,Tedeschi Trucks Band,"Jim Scott, producer; Jim Scott & Bobby Tis, engineers/mixers",True
+1068,2011,Best Folk Album,Barton Hollow,The Civil Wars,"Charlie Peacock, producer; Richie Biggs, engineer/mixer",True
+1069,2011,Best Regional Roots Music Album,Rebirth Of New Orleans,Rebirth Brass Band,"Tracey Freeman, producer; Chris Finney, engineer/mixer",True
+1070,2011,Best Reggae Album,Revelation Pt. 1: The Root Of Life,Stephen Marley,"Paul Fakhourie & Stephen Marley, producers; Errol Brown, Marc Lee & Roland McDermot, engineers/mixers",True
+1071,2011,Best World Music Album,Tassili,Tinariwen,"Ian Brennan & Jean Paul Romann, producers; David Odlum & Jean Paul Romann, engineers/mixers",True
+1072,2011,Best Children's Album,All About Bullies... Big And Small,(Various Artists),,True
+1073,2011,"Best Spoken Word Album (Includes Poetry, Audio Books & Storytelling)",If You Ask Me (And Of Course You Won't),Betty White,"Kevin Thomsen, producer; Pete Pantelis & Jeremy Wesley, engineers/mixers",True
+1074,2011,Best Comedy Album,Hilarious,Louis C.K.,"Michelle Caputo, Shannon Hartman & Jack Vaughn, producers; Jon D'Uva, engineer/mixer",True
+1075,2011,Best Musical Theater Album,The Book Of Mormon,,"Josh Gad & Andrew Rannells; Robert Lopez, Trey Parker & Matt Stone, composers/lyricists; Anne Garefino, Robert Lopez, Stephen Oremus, Trey Parker, Scott Rudin & Matt Stone, producers; Frank Filipetti, engineer/mixer (Original Broadway Cast)",True
+1076,2011,Best Compilation Soundtrack For Visual Media,Boardwalk Empire: Volume 1,(Various Artists),"Stewart Lerman, Randall Poster & Kevin Weaver, producers; Stewart Lerman, engineer/mixer",True
+1077,2011,Best Score Soundtrack For Visual Media,The King's Speech,,"Alexandre Desplat, composer; Alexandre Desplat, producer (Alexandre Desplat)",True
+1078,2011,Best Song Written For Visual Media,I See The Light (From Tangled),"Alan Menken & Glenn Slater, songwriters (Mandy Moore & Zachary Levi)",,True
+1079,2011,Best Instrumental Composition,Life In Eleven,,"Béla Fleck & Howard Levy, composers (Béla Fleck & The Flecktones)",True
+1080,2011,Best Instrumental Arrangement,Rhapsody In Blue,,"Gordon L. Goodwin, arranger (Gordon Goodwin's Big Phat Band)",True
+1081,2011,Best Instrumental Arrangement Accompanying Vocalist(s),Who Can I Turn To (When Nobody Needs Me),,"Jorge Calandrelli, arranger (Tony Bennett & Queen Latifah)",True
+1082,2011,Best Recording Package,Scenes From The Suburbs,,"Caroline Robert, art director (Arcade Fire)",True
+1083,2011,Best Boxed Or Special Limited Edition Package,The Promise: The Darkness On The Edge Of Town Story,,"David Bett & Michelle Holme, art directors (Bruce Springsteen)",True
+1084,2011,Best Album Notes,"Hear Me Howling!: Blues, Ballads & Beyond As Recorded By The San Francisco Bay By Chris Strachwitz In The 1960s",,"Adam Machado, album notes writer (Various Artists)",True
+1085,2011,Best Historical Album,Band On The Run (Paul McCartney Archive Collection - Deluxe Edition),,"Paul McCartney, compilation producer; Sam Okell & Steve Rooke, mastering engineers (Paul McCartney & Wings)",True
+1086,2011,"Best Engineered Album, Non-Classical",Paper Airplane,,"Neal Cappellino & Mike Shipley, engineers; Brad Blackwood, mastering engineer (Alison Krauss & Union Station)",True
+1087,2011,"Producer Of The Year, Non-Classical",Paul Epworth,,,True
+1088,2011,"Best Remixed Recording, Non-Classical",Cinema (Skrillex Remix),,"Skrillex, remixer (Benny Benassi)",True
+1089,2011,Best Surround Sound Album,Layla And Other Assorted Love Songs (Super Deluxe Edition),,"Elliot Scheiner, surround mix engineer; Bob Ludwig, surround mastering engineer; Bill Levenson & Elliot Scheiner, surround producers (Derek & The Dominos)",True
+1090,2011,"Best Engineered Album, Classical",Aldridge: Elmer Gantry,,"Byeong-Joon Hwang & John Newton, engineers; Jesse Lewis, mastering engineer (William Boggs, Keith Phares, Patricia Risley, Vale Rideout, Frank Kelley, Heather Buck, Florentine Opera Chorus & Milwaukee Symphony Orchestra)",True
+1091,2011,"Producer Of The Year, Classical",Judith Sherman,,,True
+1092,2011,Best Orchestral Performance,Brahms: Symphony No. 4,,"Gustavo Dudamel, conductor; Chris Alder, producer; Fred Vogler, engineer/mixer (Los Angeles Philharmonic)",True
+1093,2011,Best Opera Recording,Adams: Doctor Atomic,,"Alan Gilbert, conductor; Jay David Saks, producer; Meredith Arwady, Sasha Cooke, Richard Paul Fink, Gerald Finley, Thomas Glenn & Eric Owens, soloists (Metropolitan Opera Chorus; Metropolitan Opera Orchestra)",True
+1094,2011,Best Choral Performance,Light & Gold,,"Eric Whitacre, conductor; Raphaël Mouterde, producer; Andrew Mellor, engineer/mixer (The King's Singers, Laudibus, Pavão Quartet & The Eric Whitacre Singers)",True
+1095,2011,Best Small Ensemble Performance,Mackey: Lonely Motel - Music From Slide,,"David Frost, producer; Eighth Blackbird (Matt Albert, Matthew Duvall, Lisa Kaplan, Michael J. Maccaferri, Tim Munro & Nicholas Photinos), ensembles; Tom Lazarus, Mat Lejeune, Bill Maylone & Jon Zacks, engineers/mixers",True
+1096,2011,Best Classical Instrumental Solo,Schwantner: Concerto For Percussion & Orchestra,,"Christopher Lamb; Giancarlo Guerrero, conductor (Nashville Symphony)",True
+1097,2011,Best Classical Vocal Solo,Diva Divo,,"Joyce DiDonato, soloist; Daniel Zalay, producer (Kazushi Ono; Orchestre De L'Opéra National De Lyon)",True
+1098,2011,Best Contemporary Classical  Composition,"Aldridge, Robert: Elmer Gantry",,"Robert Aldridge & Herschel Garfein, composers",True
+1099,2011,Best Short Form Music Video,Rolling In The Deep,Adele,"Sam Brown, video director; Hannah Chandler, video producer",True
+1100,2011,Best Long Form Music Video,Foo Fighters: Back And Forth,Foo Fighters,"James Moll, video director; James Moll & Nigel Sinclair, video producers",True
+1101,2010,Record Of The Year,Need You Now,Lady Antebellum,"Lady Antebellum (Dave Haywood, Charles Kelley & Hillary Scott) & Paul N. Worley, producers; L Clarke Schleicher, engineer/mixer",True
+1102,2010,Album Of The Year,The Suburbs,Arcade Fire,"Arcade Fire (William Butler, Win Butler, Régine Chassagne, Jeremy Gara, Timothy Kingsbury, Sarah Neufeld & Richard Reed Parry) & Markus Dravs, producers; Arcade Fire (William Butler, Win Butler, Régine Chassagne, Jeremy Gara, Timothy Kingsbury, Sarah Neufeld & Richard Reed Parry), Markus Dravs, Mark Lawson & Craig Silvey, engineers/mixers; George Marino, mastering engineer",True
+1103,2010,Song Of The Year,Need You Now,,"Dave Haywood, Josh Kear, Charles Kelley & Hillary Scott, songwriters (Lady Antebellum)",True
+1104,2010,Best New Artist,Esperanza Spalding,,,True
+1105,2010,Best Female Pop Vocal Performance,Bad Romance,Lady Gaga,,True
+1106,2010,Best Male Pop Vocal Performance,Just The Way You Are,Bruno Mars,,True
+1107,2010,Best Pop Performance By A Duo Or Group With Vocals,"Hey, Soul Sister (Live)",Train,,True
+1108,2010,Best Pop Collaboration With Vocals,Imagine,"Herbie Hancock, Pink, India.Arie, Seal, Konono No 1, Jeff Beck & Oumou Sangare",,True
+1109,2010,Best Pop Instrumental Performance,Nessun Dorma,Jeff Beck,,True
+1110,2010,Best Pop Instrumental Album,Take Your Pick,Larry Carlton & Tak Matsumoto,"Larry Carlton & Tak Matsumoto, producers; Hiroyuki Kobayashi & Nick Sparks, engineers/mixers",True
+1111,2010,Best Pop Vocal Album,The Fame Monster,Lady Gaga,"Lady Gaga & RedOne, producers; Robert Orton, RedOne & Dave Russell, engineers/mixers",True
+1112,2010,Best Dance Recording,Only Girl (In The World),Rihanna,"Kuk Harrell, Stargate (Mikkel Eriksen & Tor Hermansen) & Sandy Vee, producers; Philip Tan & Sandy Vee, mixers",True
+1113,2010,Best Electronic/Dance Album,La Roux,La Roux,"La Roux, producers; Serban Ghenea, John Hanes & Ian Sherwin, engineers/mixers",True
+1114,2010,Best Traditional Pop Vocal Album,Crazy Love,Michael Bublé,"David Foster, producer; Humberto Gatica & Jochem van der Saag, engineers/mixers",True
+1115,2010,Best Solo Rock Vocal Performance,Helter Skelter,Paul McCartney,,True
+1116,2010,Best Rock Performance By A Duo Or Group With Vocals,Tighten Up,The Black Keys,,True
+1117,2010,Best Hard Rock Performance,New Fang,Them Crooked Vultures,,True
+1118,2010,Best Metal Performance,El Dorado,Iron Maiden,,True
+1119,2010,Best Rock Instrumental Performance,Hammerhead,Jeff Beck,,True
+1120,2010,Best Rock Song,Angry World,,"Neil Young, songwriter (Neil Young)",True
+1121,2010,Best Rock Album,The Resistance,Muse,"Muse, producers; Adrian Bushby & Mark Stent, engineers/mixers",True
+1122,2010,Best Alternative Music Album,Brothers,"Black Keys, The","The Black Keys & Mark Neill, producers; Tchad Blake & Mark Neill, engineers/mixers",True
+1123,2010,Best Female R&B Vocal Performance,Bittersweet,Fantasia,,True
+1124,2010,Best Male R&B Vocal Performance,There Goes My Baby,Usher,,True
+1125,2010,Best R&B Performance By A Duo Or Group With Vocals,Soldier Of Love,Sade,,True
+1126,2010,Best Traditional R&B Vocal Performance,Hang On In There,John Legend & The Roots,,True
+1127,2010,Best Urban/Alternative Performance,Fuck You,Cee Lo Green,,True
+1128,2010,Best R&B Song,Shine,,"John Legend, songwriter (John Legend & The Roots)",True
+1129,2010,Best R&B Album,Wake Up!,John Legend & The Roots,"John Legend, producer; Jimmy Douglass & Alex Venguer, engineers/mixers",True
+1130,2010,Best Contemporary R&B Album,Raymond V Raymond,Usher,"Ian Cross, engineer/mixer",True
+1131,2010,Best Rap Solo Performance,Not Afraid,Eminem,,True
+1132,2010,Best Rap Performance By A Duo Or Group,On To The Next One,Jay-Z & Swizz Beatz,,True
+1133,2010,Best Rap/Sung Collaboration,Empire State Of Mind,Jay-Z & Alicia Keys,,True
+1134,2010,Best Rap Song,Empire State Of Mind,,"Shawn Carter, Angela Hunte, Alicia Keys, Janet Sewell & Alexander Shuckburgh, songwriters (Jay-Z & Alicia Keys)",True
+1135,2010,Best Rap Album,Recovery,Eminem,"Eminem & Mike Strange, engineers/mixers",True
+1136,2010,Best Female Country Vocal Performance,The House That Built Me,Miranda Lambert,,True
+1137,2010,Best Male Country Vocal Performance,'Til Summer Comes Around,Keith Urban,,True
+1138,2010,Best Country Performance By A Duo Or Group With Vocals,Need You Now,Lady Antebellum,,True
+1139,2010,Best Country Collaboration With Vocals,As She's Walking Away,Zac Brown Band & Alan Jackson,,True
+1140,2010,Best Country Instrumental Performance,Hummingbyrd,Marty Stuart,,True
+1141,2010,Best Country Song,Need You Now,,"Dave Haywood, Josh Kear, Charles Kelley & Hillary Scott, songwriters (Lady Antebellum)",True
+1142,2010,Best Country Album,Need You Now,Lady Antebellum,"Lady Antebellum & Paul N. Worley, producers; L Clarke Schleicher, engineer/mixer",True
+1143,2010,Best New Age Album,Miho: Journey To The Mountain,Paul Winter Consort,"Dixon Van Winkle, producer; Akira Kato & Dixon Van Winkle, engineers/mixers",True
+1144,2010,Best Contemporary Jazz Album,The Stanley Clarke Band,The Stanley Clarke Band,"Lenny White, producer; Gerry ""The Gov"" Brown & Dennis MacKay, engineers/mixers",True
+1145,2010,Best Jazz Vocal Album,Eleanora Fagan (1915-1959): To Billie With Love From Dee Dee,Dee Dee Bridgewater,"Dee Dee Bridgewater, producer; Al Schmitt, engineer/mixer",True
+1146,2010,Best Improvised Jazz Solo,A Change Is Gonna Come,,"Herbie Hancock, soloist",True
+1147,2010,"Best Jazz Instrumental Album, Individual or Group",Moody 4B,James Moody,"Michael P. Patterson, producer; Jonathan Rosenberg, engineer/mixer",True
+1148,2010,Best Large Jazz Ensemble Album,Mingus Big Band Live At Jazz Standard,Mingus Big Band,"Seth Abramson, producer; Duke Markos & Tom Swift, engineers/mixers",True
+1149,2010,Best Latin Jazz Album,Chucho's Steps,Chucho Valdés And The Afro-Cuban Messengers,"Orestes Ávila, engineer/mixer",True
+1150,2010,Best Gospel Performance,Grace,BeBe & CeCe Winans,,True
+1151,2010,Best Gospel Song,It's What I Do,,"Jerry Peters & Kirk Whalum, songwriters (Kirk Whalum & Lalah Hathaway)",True
+1152,2010,Best Rock Or Rap Gospel Album,Hello Hurricane,Switchfoot,"Mike Elizondo & Switchfoot, producers; Adam Hawkins, Ryan Peterson, Alan Sanderson, Switchfoot, Darrell Thorp, Shane Wilson & Craig Zarkos, engineers/mixers",True
+1153,2010,Best Pop/Contemporary Gospel Album,Love God. Love People.,Israel Houghton,"Israel Houghton, Aaron Lindsey & Tommy Sims, producers; Danny Duncan, Tommy Sims & James Wadell, engineers/mixers",True
+1154,2010,"Best Southern, Country, Or Bluegrass Gospel Album",The Reason,Diamond Rio,"Michael D. Clute & Diamond Rio, producers; Michael D. Clute, engineer/mixer",True
+1155,2010,Best Traditional Gospel Album,Downtown Church,Patty Griffin,"Buddy Miller, producer; Buddy Miller & Mike Poole, engineers/mixers",True
+1156,2010,Best Contemporary R&B Gospel Album,Still,BeBe & CeCe Winans,"Ron Gillyard, BeBe Winans & CeCe Winans, producers",True
+1157,2010,Best Latin Pop Album,Paraiso Express,Alejandro Sanz,"Tomás Torres, producer; Bob Clearmountain, Mike Couzzi, Lee Levin, Andres Saavedra & Dan Warner, engineers/mixers",True
+1158,2010,"Best Latin Rock, Alternative Or Urban Album",El Existential,Grupo Fantasma,"Brendan Burke & Grupo Fantasma, engineers/mixers",True
+1159,2010,Best Tropical Latin Album,Viva La Tradición,Spanish Harlem Orchestra,"Dave Kowalski, engineer/mixer",True
+1160,2010,Best Tejano Album,Recuerdos,Little Joe & La Familia,"Gilbert Velasquez, engineer/mixer",True
+1161,2010,Best Norteño Album,Classic,Intocable,"Ramón Ayala, producer; Edgar ""Pilo"" Cavazos, Chuy Flores, Marco Gamboa, Oscar ""Welito"" González & Alejandro Gulmar, engineers/mixers",True
+1162,2010,Best Banda Album,Enamórate De Mí,El Güero Y Su Banda Centanario,"Ramon Gonzalez Mora, producer; Michael Esparza, Rafael Guevara & Abelardo Rivera, engineers/mixers",True
+1163,2010,Best Americana Album,You Are Not Alone,Mavis Staples,"Jeff Tweedy, producer; Tom Schick, engineer/mixer",True
+1164,2010,Best Bluegrass Album,Mountain Soul II,Patty Loveless,"Emory L. Gordy, Jr., producer; Drew Bollman & George Massenburg, engineers/mixers",True
+1165,2010,Best Traditional Blues Album,Joined At The Hip,Pinetop Perkins & Willie 'Big Eyes' Smith,"Michael Freeman, producer; Blaise Barton & Michael Freeman, engineers/mixers",True
+1166,2010,Best Contemporary Blues Album,Living Proof,Buddy Guy,"Tom Hambridge, producer; Ducky Carlisle, Tom Hambridge & Vance Powell, engineers/mixers",True
+1167,2010,Best Traditional Folk Album,Genuine Negro Jig,Carolina Chocolate Drops,"Joe Henry, producer; Ryan Freeland, engineer/mixer",True
+1168,2010,Best Contemporary Folk Album,God Willin' & The Creek Don't Rise,Ray LaMontagne And The Pariah Dogs,"Ryan Freeland, engineer/mixer",True
+1169,2010,Best Hawaiian Music Album,Huana Ke Aloha,Tia Carrere,"Daniel Ho & Amy Ku'uleialoha Stillman, producers; Daniel Ho, engineer/mixer",True
+1170,2010,Best Native American Music Album,2010 Gathering Of Nations Pow Wow: A Spirit's Dance,(Various Artists),"Derek Mathews, Lita Mathews & Melonie Mathews, producers; Evren Göknar, engineer/mixer",True
+1171,2010,Best Zydeco Or Cajun Music Album,Zydeco Junkie,Chubby Carrier And The Bayou Swamp Band,"Ivan Klisanin, producer; Ivan Klisanin, engineer/mixer",True
+1172,2010,Best Reggae Album,Before The Dawn,Buju Banton,"Buju Banton, producer; Austin Green, Linford Marshall & Jermaine Reid, engineers/mixers",True
+1173,2010,Best Traditional World Music Album,Ali And Toumani,Ali Farka Touré & Toumani Diabaté,"Nick Gold, producer; Jerry Boys, engineer/mixer",True
+1174,2010,Best Contemporary World Music Album,"Throw Down Your Heart , Africa Sessions Part 2: Unreleased Tracks",Béla Fleck,"Béla Fleck, producer; Wellington Bowler & Dave Sinko, engineers/mixers",True
+1175,2010,Best Musical Album For Children,Tomorrow's Children,Pete Seeger With The Rivertown Kids And Friends,"David Bernz, Daniel Einbender & Travis Jeffrey, producers; Pete Seeger",True
+1176,2010,Best Spoken Word Album For Children,"Julie Andrews' Collection Of Poems, Songs, And Lullabies",Julie Andrews & Emma Walton Hamilton,"Michele McGonigle, producer; John Colucci, Cynthia Daniels & Tommy Harron, engineers/mixers",True
+1177,2010,"Best Spoken Word Album (Includes Poetry, Audio Books & Story Telling)",The Daily Show With Jon Stewart Presents Earth (The Audiobook),"Jon Stewart (With  Samantha Bee, Wyatt Cenac, Jason Jones, John Oliver & Sigourney Weaver)","Rory Albanese, Steve Bodow, David Javerbaum, Josh Lieb, John McElroy & Jon Stewart, producers; Charles de Montebello & Tim Lester, engineers/mixers",True
+1178,2010,Best Comedy Album,Stark Raving Black,Lewis Black,"Benjamin Brewer, Jack Gulick & Jack Vaughn, producers; Tom Efinger, Eric Gitelson & Steve Ivanyi, engineers/mixers",True
+1179,2010,Best Musical Show Album,American Idiot - Featuring Green Day,,"Billie Joe Armstrong, producer; Chris Dugan & Chris Lord-Alge, engineers/mixers (Original Broadway Cast With John Gallagher, Jr., Michael Esper & Others)",True
+1180,2010,"Best Compilation Soundtrack Album For Motion Picture, Television Or Other Visual Media",Crazy Heart,(Various Artists),"Stephen Bruton & T Bone Burnett, producers",True
+1181,2010,"Best Score Soundtrack Album For Motion Picture, Television Or Other Visual Media",Toy Story 3,,"Randy Newman, composer; David Boucher, engineer/mixer (Randy Newman)",True
+1182,2010,"Best Song Written For Motion Picture, Television Or Other Visual Media",The Weary Kind (From Crazy Heart),"Ryan Bingham & T Bone Burnett, songwriters (Ryan Bingham)",,True
+1183,2010,Best Instrumental Composition,The Path Among The Trees,,"Billy Childs, composer (Billy Childs Ensemble)",True
+1184,2010,Best Instrumental Arrangement,Carlos,,"Vincent Mendoza, arranger (John Scofield, Vince Mendoza & Metropole Orkest)",True
+1185,2010,Best Instrumental Arrangement Accompanying Vocalist(s),Baba Yetu,,"Christopher Tin, arranger (Christopher Tin, Soweto Gospel Choir & Royal Philharmonic Orchestra)",True
+1186,2010,Best Recording Package,Brothers,,"Michael Carney, art director (The Black Keys)",True
+1187,2010,Best Boxed Or Special Limited Edition Package,Under Great White Northern Lights (Limited Edition Box Set),,"Rob Jones & Jack White, art directors (The White Stripes)",True
+1188,2010,Best Album Notes,Keep An Eye On The Sky,,"Robert Gordon, album notes writer (Big Star)",True
+1189,2010,Best Historical Album,The Beatles (The Original Studio Recordings),,"Jeff Jones & Allan Rouse, compilation producers; Paul Hicks, Sean Magee, Guy Massey, Sam Okell & Steve Rooke, mastering engineers (The Beatles)",True
+1190,2010,"Best Engineered Album, Non-Classical",Battle Studies,,"Michael H. Brauer, Joe Ferla, Chad Franscoviak & Manny Marroquin, engineers (John Mayer)",True
+1191,2010,"Producer Of The Year, Non-Classical",Danger Mouse,,,True
+1192,2010,"Best Remixed Recording, Non-Classical",Revolver (David Guetta's One Love Club Remix),,"Afrojack & David Guetta, remixers (Madonna)",True
+1193,2010,Best Surround Sound Album,Britten's Orchestra,,"Keith O. Johnson, surround mix engineer; Keith O. Johnson, surround mastering engineer; David Frost, surround producer (Michael Stern & Kansas City Symphony)",True
+1194,2010,"Best Engineered Album, Classical",Daugherty: Metropolis Symphony; Deus Ex Machina,,"Mark Donahue, John Hill & Dirk Sobotka, engineers (Giancarlo Guerrero & Nashville Symphony Orchestra)",True
+1195,2010,"Best Engineered Album, Classical","Porter, Quincy: Complete Viola Works",,"Leslie Ann Jones, Kory Kruckenberg, Brandie Lane & David Sabee, engineers (Eliesha Nelson & John McLaughlin Williams)",False
+1196,2010,"Producer Of The Year, Classical",David Frost,,,True
+1197,2010,Best Classical Album,Verdi: Requiem,,"Duain Wolfe, chorus master; Riccardo Muti, conductor; Christopher Alder, producer",True
+1198,2010,Best Orchestral Performance,Daugherty: Metropolis Symphony; Deus Ex Machina,,"Giancarlo Guerrero, conductor; Blanton Alspaugh, producer; Mark Donahue, John Hill & Dirk Sobotka, engineers/mixers (Nashville Symphony)",True
+1199,2010,Best Opera Recording,Saariaho: L'Amour De Loin,,"Kent Nagano, conductor; Martin Sauer, producer; Daniel Belcher, Ekaterina Lekhina & Marie-Ange Todorovitch, soloists; Tobias Lehmann, engineer/mixer (Rundfunkchor Berlin; Deutsches Symphonie-Orchester Berlin)",True
+1200,2010,Best Choral Performance,Verdi: Requiem,,"Duain Wolfe, chorus master; Riccardo Muti, conductor; Christopher Alder, producer; David Frost, Tom Lazarus & Christopher Willis, engineers/mixers (Barbara Frittoli, Ildar Abdrazakov, Mario Zeffiri & Olga Borodina; Chicago Symphony Chorus; Chicago Symphony Orchestra)",True
+1201,2010,Best Instrumental Soloist(s) Performance (with Orchestra),Mozart: Piano Concertos Nos. 23 & 24,,"Mitsuko Uchida; Everett Porter, producer; Brad Michel, engineer/mixer (The Cleveland Orchestra)",True
+1202,2010,Best Instrumental Soloist Performance (without Orchestra),Messiaen: Livre Du Saint-Sacrement,,"Paul Jacobs, soloist; Isabelle Demers & Daniel Sullivan, producers; Stephen Roessner, engineer/mixer",True
+1203,2010,Best Chamber Music Performance,Ligeti: String Quartets Nos. 1 & 2,,"Parker Quartet (Jessica Bodner, Daniel Chong, Karen Kim & Kee-Hyun Kim), ensembles; Norbert Kraft & Bonnie Silver, producers; Norbert Kraft, engineer/mixer",True
+1204,2010,Best Small Ensemble Performance,Dinastia Borja,,"Jordi Savall, conductor; Hesperion XXI & La Capella Reial de Catalunya, ensembles",True
+1205,2010,Best Classical Vocal Performance,Sacrificium,,"Cecilia Bartoli, soloist; Arend Prohmann, producer; Philip Siney, engineer/mixer (Giovanni Antonini; Il Giardino Armonico)",True
+1206,2010,Best Classical Contemporary Composition,"Daugherty, Michael: Deus Ex Machina",,"Michael Daugherty, composer",True
+1207,2010,Best Classical Crossover Album,"Tin, Christopher: Calling All Dawns","Lucas Richman, Various Artists & The Royal Philharmonic Orchestra","Christopher Tin, producer; Bill Hare & John Kurlander, engineers/mixers",True
+1208,2010,Best Short Form Music Video,Bad Romance,Lady Gaga,"Francis Lawrence, video director; Kathy Angstadt, Nicole Ehrlich & Heather Heller, video producers",True
+1209,2010,Best Long Form Music Video,When You're Strange,(The Doors),"Tom Dicillo, video director; John Beug, Jeff Jampol, Peter Jankowski & Dick Wolf, video producers",True
+1210,2009,Record Of The Year,Use Somebody,Kings Of Leon,"Jacquire King & Angelo Petraglia, producers; Jacquire King, engineer/mixer",True
+1211,2009,Album Of The Year,Fearless,Taylor Swift,"Colbie Caillat, featured artist; Nathan Chapman & Taylor Swift, producers; Chad Carlson, Nathan Chapman & Justin Niebank, engineers/mixers; Hank Williams, mastering engineer",True
+1212,2009,Song Of The Year,Single Ladies (Put A Ring On It),,"Kuk Harrell, Beyoncé Knowles, Terius ""Dream"" Nash & Chris 'Tricky' Stewart, songwriters (Beyoncé)",True
+1213,2009,Best New Artist,Zac Brown Band,,,True
+1214,2009,Best Female Pop Vocal Performance,Halo,Beyoncé,,True
+1215,2009,Best Male Pop Vocal Performance,Make It Mine,Jason Mraz,,True
+1216,2009,Best Pop Performance By A Duo Or Group With Vocals,I Gotta Feeling,The Black Eyed Peas,,True
+1217,2009,Best Pop Collaboration With Vocals,Lucky,Jason Mraz & Colbie Caillat,,True
+1218,2009,Best Pop Instrumental Performance,Throw Down Your Heart,Béla Fleck,,True
+1219,2009,Best Pop Instrumental Album,Potato Hole,Booker T. Jones,"Booker T. Jones & Rob Schnapf, producers; Doug Boehm & Rob Schnapf, engineers/mixers",True
+1220,2009,Best Pop Vocal Album,The E.N.D.,The Black Eyed Peas,"Dylan Dresdow & Padraic Kerin, engineers/mixers",True
+1221,2009,Best Dance Recording,Poker Face,Lady Gaga,"RedOne, producer; Robert Orton, RedOne & Dave Russell, mixers",True
+1222,2009,Best Electronic/Dance Album,The Fame,Lady Gaga,"Robert Orton, engineer/mixer",True
+1223,2009,Best Traditional Pop Vocal Album,Michael Bublé Meets Madison Square Garden,Michael Bublé,"Humberto Gatica, producer; Humberto Gatica, engineer/mixer",True
+1224,2009,Best Solo Rock Vocal Performance,Working On A Dream,Bruce Springsteen,,True
+1225,2009,Best Rock Performance By A Duo Or Group With Vocals,Use Somebody,Kings Of Leon,,True
+1226,2009,Best Hard Rock Performance,War Machine,AC/DC,,True
+1227,2009,Best Metal Performance,Dissident Aggressor,Judas Priest,,True
+1228,2009,Best Rock Instrumental Performance,A Day In The Life,Jeff Beck,,True
+1229,2009,Best Rock Song,Use Somebody,,"Caleb Followill, Jared Followill, Matthew Followill & Nathan Followill, songwriters (Kings Of Leon)",True
+1230,2009,Best Rock Album,21st Century Breakdown,Green Day,"Green Day & Butch Vig, producers; Chris Dugan & Chris Lord-Alge, engineers/mixers",True
+1231,2009,Best Alternative Music Album,Wolfgang Amadeus Phoenix,Phoenix,"Philippe Zdar Cerboneschi & Phoenix, producers; Philippe Zdar Cerboneschi, engineer/mixer",True
+1232,2009,Best Female R&B Vocal Performance,Single Ladies (Put A Ring On It),Beyoncé,,True
+1233,2009,Best Male R&B Vocal Performance,Pretty Wings,Maxwell,,True
+1234,2009,Best R&B Performance By A Duo Or Group With Vocals,Blame It,Jamie Foxx & T-Pain,,True
+1235,2009,Best Traditional R&B Vocal Performance,At Last,Beyoncé,,True
+1236,2009,Best Urban/Alternative Performance,Pearls,India.Arie & Dobet Gnahore,,True
+1237,2009,Best R&B Song,Single Ladies (Put A Ring On It),,"Kuk Harrell, Beyoncé Knowles, Terius ""Dream"" Nash & Chris 'Tricky' Stewart, songwriters (Beyoncé)",True
+1238,2009,Best R&B Album,Blacksummers' Night,Maxwell,"Hod David & Maxwell, producers; Hod David, Jesse Gladstone, Glen Marchese, Maxwell & Mike Pela, engineers/mixers",True
+1239,2009,Best Contemporary R&B Album,I Am... Sasha Fierce,Beyoncé,"Beyoncé Knowles, producer; Jim Caruana & Mark Stent, engineers/mixers",True
+1240,2009,Best Rap Solo Performance,D.O.A. (Death Of Auto-Tune),Jay-Z,,True
+1241,2009,Best Rap Performance By A Duo Or Group,Crack A Bottle,"Eminem, Dr. Dre & 50 Cent",,True
+1242,2009,Best Rap/Sung Collaboration,Run This Town,"Jay-Z, Rihanna & Kanye West",,True
+1243,2009,Best Rap Song,Run This Town,,"Jeff Bhasker, Shawn Carter, Robyn Fenty, Kanye West & Ernest Wilson, songwriters (Jay-Z, Rihanna & Kanye West)",True
+1244,2009,Best Rap Album,Relapse,Eminem,"Andre Young, producer; Mauricio ""Veto"" Iragorri, Michael Strange & Andre Young, engineers/mixers",True
+1245,2009,Best Female Country Vocal Performance,White Horse,Taylor Swift,,True
+1246,2009,Best Male Country Vocal Performance,Sweet Thing,Keith Urban,,True
+1247,2009,Best Country Performance By A Duo Or Group With Vocals,I Run To You,Lady Antebellum,,True
+1248,2009,Best Country Collaboration With Vocals,I Told You So,Carrie Underwood & Randy Travis,,True
+1249,2009,Best Country Instrumental Performance,Producer's Medley,Steve Wariner,,True
+1250,2009,Best Country Song,White Horse,,"Liz Rose & Taylor Swift, songwriters (Taylor Swift)",True
+1251,2009,Best Country Album,Fearless,Taylor Swift,"Nathan Chapman & Taylor Swift, producers; Chad Carlson & Justin Niebank, engineers/mixers",True
+1252,2009,Best New Age Album,Prayer For Compassion,David Darling,"David Darling & Mickey Houlihan, producers; David Darling & Mickey Houlihan, engineers/mixers",True
+1253,2009,Best Contemporary Jazz Album,75,Joe Zawinul & The Zawinul Syndicate,"Joachim Becker, producer; Joachim Becker, Klaus Genuit & Wladi Turkewitsch, engineers/mixers",True
+1254,2009,Best Jazz Vocal Album,Dedicated To You: Kurt Elling Sings The Music Of Coltrane And Hartman,Kurt Elling,"Kurt Elling & Laurence Hobgood, producers; Rob Macomber & Dave O'Donnell, engineers/mixers",True
+1255,2009,Best Improvised Jazz Solo,Dancin' 4 Chicken,,"Terence Blanchard, soloist",True
+1256,2009,"Best Jazz Instrumental Album, Individual or Group",Five Peace Band - Live,Chick Corea & John McLaughlin Five Peace Band,"Sven Hoffman, Bernie Kirsh, Buck Snow & Brian Vibberts, engineers/mixers",True
+1257,2009,Best Large Jazz Ensemble Album,Book One,New Orleans Jazz Orchestra,"Masanori Yura, engineer/mixer",True
+1258,2009,Best Latin Jazz Album,Juntos Para Siempre,Bebo Valdés And Chucho Valdés,"Nat Chediak & Fernando Trueba, producers; Javier Limón & José Loeches, engineers/mixers",True
+1259,2009,Best Gospel Performance,Wait On The Lord,Donnie McClurkin Featuring Karen Clark Sheard,,True
+1260,2009,Best Gospel Song,God In Me,,"Erica Campbell, Trecina Campbell & Warryn ""Baby Dubb"" Campbell, songwriters (Mary Mary Featuring Kierra ""KiKi"" Sheard)",True
+1261,2009,Best Rock Or Rap Gospel Album,Live Revelations,Third Day,"Third Day, producers; Chris Biggs, David Jacques & Don McCollister, engineers/mixers",True
+1262,2009,Best Pop/Contemporary Gospel Album,The Power Of One,Israel Houghton,"Israel Houghton, Aaron Lindsey & Tommy Sims, producers; Danny Duncan & Tommy Sims, engineers/mixers",True
+1263,2009,"Best Southern, Country, Or Bluegrass Gospel Album",Jason Crabb,Jason Crabb,"Paul Corley & Ben Fowler, engineers/mixers",True
+1264,2009,Best Traditional Gospel Album,Oh Happy Day,(Various Artists),,True
+1265,2009,Best Contemporary R&B Gospel Album,Audience Of One,Heather Headley,"Keith Thomas, producer; Jonathan Crone & Bill Whittington, engineers/mixers",True
+1266,2009,Best Latin Pop Album,Sin Frenos,La Quinta Estación,"Armando Avila, producer; Armando Avila, Juan Carlos Moguel & Pepe Ortega, engineers/mixers",True
+1267,2009,"Best Latin Rock, Alternative Or Urban Album",Los De Atras Vienen Conmigo,Calle 13,"Rafael Arcante & Calle 13, producers; Iván Gutiérrez, Ramon Martinez, Edgardo Matta & Carlos Velázquez, engineers/mixers",True
+1268,2009,Best Tropical Latin Album,Ciclos,Luis Enrique,"Sergio George, producer; Carlos Alvarez, Juan Mario ""Mayito"" Aracil & Juan Cristobal Losada, engineers/mixers",True
+1269,2009,Best Regional Mexican Album,Necesito De Ti,Vicente Fernández,"Manuel Cázares, producer; Gustavo Borner, Oscar Iglesias, Manuel Salazar & Sabas Sánchez, engineers/mixers",True
+1270,2009,Best Tejano Album,Borders Y Bailes,Los Texmaniacs,"Daniel Sheehy, producer; Pete Reiniger & Joe Treviño, engineers/mixers",True
+1271,2009,Best Norteño Album,Tu Noche Con...Los Tigres Del Norte,Los Tigres Del Norte,"Los Tigres Del Norte, producers; Joseph Pope & Alfonso Rodenas, engineers/mixers",True
+1272,2009,Best Banda Album,Tu Esclavo Y Amo,Lupillo Rivera,,True
+1273,2009,Best Americana Album,Electric Dirt,Levon Helm,"Larry Campbell, producer; Justin Guip, engineer/mixer",True
+1274,2009,Best Bluegrass Album,The Crow: New Songs For The Five-String Banjo,Steve Martin,"John McEuen, producer; Dae Bennett & Nick Sevilla, engineers/mixers",True
+1275,2009,Best Traditional Blues Album,A Stranger Here,Ramblin' Jack Elliott,"Joe Henry, producer; Ryan Freeland, engineer/mixer",True
+1276,2009,Best Contemporary Blues Album,Already Free,The Derek Trucks Band,"Chris Shaw, Bobby Tis & Marty Wall, engineers/mixers",True
+1277,2009,Best Traditional Folk Album,High Wide & Handsome: The Charlie Poole Project,Loudon Wainwright III,"Dick Connette, producer; Scott Lehrer & Alex Venguer, engineers/mixers",True
+1278,2009,Best Contemporary Folk Album,Townes,Steve Earle,"Steve Earle, producer; Steve Christensen & Ray Kennedy, engineers/mixers",True
+1279,2009,Best Hawaiian Music Album,"Masters Of Hawaiian Slack Key Guitar, Volume 2",(Various Artists),"Peter DeAquino, Daniel Ho & Sterling Seaton, engineers/mixers",True
+1280,2009,Best Native American Music Album,Spirit Wind North,Bill Miller,"Bill Miller & Mike von Muchow, producers",True
+1281,2009,Best Zydeco Or Cajun Music Album,Lay Your Burden Down,Buckwheat Zydeco,"Steven Maxwell Berlin, producer; David Farrell, engineer/mixer",True
+1282,2009,Best Reggae Album,Mind Control - Acoustic,Stephen Marley,"James ""Bonzai"" Caruso, Marc Lee & Greg Morris, engineers/mixers",True
+1283,2009,Best Traditional World Music Album,Douga Mansa,Mamadou Diabate,"Mamadou Diabate, producer; Will Russell, engineer/mixer",True
+1284,2009,Best Contemporary World Music Album,"Throw Down Your Heart: Tales From The Acoustic Planet, Vol. 3 - Africa Sessions",Béla Fleck,"Béla Fleck, producer; Robert Battaglia, Wellington Bowler & Dave Sinko, engineers/mixers",True
+1285,2009,Best Musical Album For Children,Family Time,Ziggy Marley,"Ziggy Marley & Don Was, producers; Ziggy Marley",True
+1286,2009,Best Spoken Word Album For Children,"Aaaaah! Spooky, Scary Stories & Songs",Buck Howdy,"Buck Howdy, producer; Steve Wetherbee, engineer/mixer",True
+1287,2009,"Best Spoken Word Album (Includes Poetry, Audio Books & Story Telling)",Always Looking Up,Michael J. Fox,"Paul Ruben, producer; Zane Birdwell & Lance Neal, engineers/mixers",True
+1288,2009,Best Comedy Album,A Colbert Christmas: The Greatest Gift Of All!,Stephen Colbert,"Steven M. Gold, David Javerbaum & Adam Schlesinger, producers; Todd Kilponen & Geoff Sanoff, engineers/mixers",True
+1289,2009,Best Musical Show Album,West Side Story,,"David Caddick & David Lai, producers; Todd Whitelock, engineer/mixer (New Broadway Cast with Matt Cavenaugh, Josefina Scaglione & Others)",True
+1290,2009,"Best Compilation Soundtrack Album For Motion Picture, Television Or Other Visual Media",Slumdog Millionaire,(Various Artists),"A.R. Rahman, producer; Vivianne Chaix, P A Deepak & H Sridhar, engineers/mixers",True
+1291,2009,"Best Score Soundtrack Album For Motion Picture, Television Or Other Visual Media",Up,,"Michael Giacchino, composer; Dan Wallin, engineer/mixer (Various Artists)",True
+1292,2009,"Best Song Written For Motion Picture, Television Or Other Visual Media",Jai Ho (From Slumdog Millionaire),"Gulzar, A.R. Rahman & Tanvi Shah, songwriters (A.R. Rahman, Sukhvinder Singh, Tanvi Shah, Mahalaxmi Iyer & Vijay Prakash)",,True
+1293,2009,Best Instrumental Composition,Married Life,,"Michael Giacchino, composer (Michael Giacchino)",True
+1294,2009,Best Instrumental Arrangement,West Side Story Medley,,"Bill Cunliffe, arranger (Resonance Big Band)",True
+1295,2009,Best Instrumental Arrangement Accompanying Vocalist(s),Quiet Nights,,"Claus Ogerman, arranger (Diana Krall)",True
+1296,2009,Best Recording Package,Everything That Happens Will Happen Today,,"Stefan Sagmeister, art director (David Byrne & Brian Eno)",True
+1297,2009,Best Boxed Or Special Limited Edition Package,Neil Young Archives Vol. I (1963-1972),,"Gary Burden, Jenice Heo & Neil Young, art directors (Neil Young)",True
+1298,2009,Best Album Notes,The Complete Louis Armstrong Decca Sessions (1935-1946),,"Dan Morgenstern, album notes writer (Louis Armstrong)",True
+1299,2009,Best Historical Album,The Complete Chess Masters (1950-1967),,"Andy McKaie, compilation producer; Erick Labson, mastering engineer (Little Walter)",True
+1300,2009,"Best Engineered Album, Non-Classical",Ellipse,,"Imogen Heap, engineer (Imogen Heap)",True
+1301,2009,"Producer Of The Year, Non-Classical",Brendan O'Brien,,,True
+1302,2009,"Best Remixed Recording, Non-Classical",When Love Takes Over (Electro Extended Remix),,"David Guetta, remixer (David Guetta Featuring Kelly Rowland)",True
+1303,2009,Best Surround Sound Album,Transmigration,,"Michael J. Bishop, surround mix engineer; Michael J. Bishop, surround mastering engineer; Elaine L. Martone, surround producer (Robert Spano, Atlanta Symphony Orchestra & Choruses)",True
+1304,2009,"Best Engineered Album, Classical",Mahler: Symphony No. 8; Adagio From Symphony No. 10,,"Peter Laenger, engineer (Michael Tilson Thomas & San Francisco Symphony)",True
+1305,2009,"Producer Of The Year, Classical",Steven Epstein,,,True
+1306,2009,Best Classical Album,Mahler: Symphony No. 8; Adagio From Symphony No. 10,,"Michael Tilson Thomas, conductor; Andreas Neubronner, producer",True
+1307,2009,Best Orchestral Performance,Ravel: Daphnis Et Chloé,,"James Levine, conductor; Elizabeth Ostrow, producer; Jesse Lewis, John Newton & Dirk Sobotka, engineers/mixers; Mark Donahue, engineer (Boston Symphony Orchestra)",True
+1308,2009,Best Opera Recording,Britten: Billy Budd,,"Daniel Harding, conductor; John Fraser, producer; Ian Bostridge, Neal Davies, Nathan Gunn, Jonathan Lemalu, Matthew Rose & Gidon Saks, soloists; Neil Hutchinson & Jonathan Stokes, engineers/mixers (Gentlemen Of The London Symphony Chorus; London Symphony Orchestra)",True
+1309,2009,Best Choral Performance,Mahler: Symphony No. 8; Adagio From Symphony No. 10,,"Michael Tilson Thomas, conductor; Peter Laenger & Andreas Neubronner, engineers/mixers (Laura Claycomb, Anthony Dean Griffey, Katarina Karnéus, Quinn Kelsey, James Morris, Yvonne Naef, Elza Van den Heever & Erin Wall; Pacific Boychoir, San Francisco Girls Chorus & San Francisco Symphony Chorus; San Francisco Symphony)",True
+1310,2009,Best Instrumental Soloist(s) Performance (with Orchestra),Prokofiev: Piano Concertos Nos. 2 & 3,,"Evgeny Kissin; Jay David Saks, producer; Arne Akselberg, Neil Hutchinson, Tim Martyn & Jonathan Stokes, engineers/mixers (Philharmonia Orchestra)",True
+1311,2009,Best Instrumental Soloist Performance (without Orchestra),Journey To The New World,,"Sharon Isbin, soloist; David Frost, producer; Tom Lazarus & Tim Martyn, engineers/mixers",True
+1312,2009,Best Chamber Music Performance,Intimate Letters,,"Emerson String Quartet (Eugene Drucker, Lawrence Dutton, David Finckel & Philip Setzer), ensembles; Da-Hong Seetoo, producer; Da-Hong Seetoo, engineer/mixer",True
+1313,2009,Best Small Ensemble Performance,"Lang, David: The Little Match Girl Passion",,"Robina G. Young, producer; Paul Hillier, conductor; Ars Nova Copenhagen (Thomas Kiorbye) & Theatre Of Voices (Thomas Kiorbye), ensembles; Brad Michel, engineer/mixer",True
+1314,2009,Best Classical Vocal Performance,Verismo Arias,,"Renée Fleming, soloist; David Frost, producer; Mike Hatch & Richard King, engineers/mixers (Marco Armiliato; Orchestra Sinfonica Di Milano Giuseppi Verdi)",True
+1315,2009,Best Classical Contemporary Composition,"Higdon, Jennifer: Percussion Concerto",,"Jennifer Higdon, composer",True
+1316,2009,Best Classical Crossover Album,Yo-Yo Ma & Friends: Songs Of Joy And Peace,Yo-Yo Ma & Various Artists,"Steven Epstein, producer; Richard King, engineer/mixer",True
+1317,2009,Best Short Form Music Video,Boom Boom Pow,The Black Eyed Peas,"Mathew Cullen & Mark Kudsi, video directors; Javier Jimenez, Anna Joseph & Patrick Nugent, video producers",True
+1318,2009,Best Long Form Music Video,The Beatles Love - All Together Now,(Various Artists),"Adrian Wills, video director; Martin Bolduc & Jonathan Clyde, video producers",True
