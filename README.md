@@ -21,7 +21,6 @@ The purpose this project is to gather data regarding Grammy award nominated musi
 Project is created with:  
 * Pandas 1.0.5  
 * Jupyter Notebook 4.6.3  
-* Matplotlib 3.3.2  
 * Python 3.6.10
 * PgAdmin 4 (version 4.28)
 * SQLAlchemy 1.3.22
