@@ -2,11 +2,17 @@
 ETL Billboard Hits vs Grammy Winners
 
 ## Table of Contents 
+* [Members](#Members)
 * [General Info](#General-info)  
 * [Technologies](#technologies)  
 * [Setup](#setup)  
 * [Data Sources](#data-sources)
 * [Overview](#overview)  
+
+## Members
+* Julia Headlee
+* Jaime Jimenez
+* Alicia Perez
 
 ## General Info
 The purpose this project is to gather data regarding Grammy award nominated music and billboard hits from 2009 to 2019. This code is to set up and format data and put it into a SQL database.
