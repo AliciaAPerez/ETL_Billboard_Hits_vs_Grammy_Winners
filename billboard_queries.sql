@@ -1,3 +1,4 @@
+DROP TABLE IF EXISTS billboard;
 CREATE TABLE billboard (
 id INT PRIMARY KEY,
 Artists TEXT,
